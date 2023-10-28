@@ -81,16 +81,19 @@ The pace of change in the world is exponential.
     - Unable to learn fast and adapt 
 
 ## You should start or work for a startup if:
-    - Passionate about solving a problem and it won't be getting solved
+- Passionate about solving a problem and it won't be getting solved
+- Identify a signficant gap in the market that you feel you and your team has the expertise to bridge
 
-Early founding skills
-- risk taking...sacrificing the present for the future pay off
-- going with ambiguity and unknowns
-- learning quickly
-- adapting to new situations
-- selling
-- telling a story
-- execution
+## Early founding skills
+- Risk taking...sacrificing the present for the future pay off
+- Going with ambiguity and unknowns
+- Learning quickly
+- Adapting to new situations
+- Selling
+- Telling a story
+- Execution
+- Strategic creativity
+- Thinking critically
 
 
 When to shut a product down
@@ -118,7 +121,7 @@ Types of Founders
 - People Founder
 
 What you should be focused on as a founder
-- getigng the most insights about hte idea
+- getting the most insights about the idea
 - selling to people
 
 
@@ -159,6 +162,8 @@ Bet on technical insights that help solve a big problem in a novel way that yiel
 
 Founders
 - Identifying the opportunities
+    - Will this opportunity have significant long-term potential?
+    - 
 - Drive vision for the company on a consistent basis
 - Drive Sales
 - Hiring
@@ -213,7 +218,7 @@ A user segment is a demographic of people with characteristics that define needs
 
 - Noise that you should pay attention to
 
-
+Helping customers: increasing revenue, lowering costs, reducing risk, or helping a company run better.
 
 
 # What drives successful companies?
