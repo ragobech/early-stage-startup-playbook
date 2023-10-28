@@ -64,25 +64,33 @@ The pace of change in the world is exponential.
     - 
 
 # Founders
-The individuals that build the company have a vision of the future. Building a product and business is a way to create the future. 
+- The individuals that build the company have a vision of the future. Building a product and business is a way to create the future. 
+- A unique insight about a market, product, customer that fills a gap 
+- Domain Expertise in the founder, why is this founder the right person to be solving this problem?
 
 
 ## Good reasons to start a business
 - The world requires a solution in space to make it better off and you're able to fill that gap
-
+- social impact 
 
 ## Bad reasons to start a business
 - I want to make money
+- ego or prestige
+- lack of opportunities
+- 
 
 
 ## Urgency vs Importance
 
 
-## Urgency vs Importance
+## who to target
+- 
 
 
 
 The first days of a company has the founder(s)
+
+TL;DR: Build things that customers want, better than anyone else. 
 
 Founders
 - Identifying the opportunities
