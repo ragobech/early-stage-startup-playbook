@@ -1,5 +1,5 @@
-# THE EARLY STAGE STARTUP PLAYBOOK: For teams of 0-5 people, building the new products and companies by the crazy ones.
-The Early Stage Startup Playbook
+# Building from scratch: For teams of 0-5 people, building the new products and companies.
+An early stage Startup Playbook
 
 By: Chris Ragobeer
 2024, Chris Ragobeer
