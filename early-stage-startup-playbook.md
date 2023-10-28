@@ -87,10 +87,24 @@ A user segment is a demographic of people with characteristics that define needs
 2. The team Able to execute
 
 
+# Funding & Raising Money
+0. Bootstrap
+1. Friend and Family
+2. Angel
+3. Pre-Seed
+4. Seed
+5. Series A
+6. Series B
+7. Series C
+8. Series D
+9. Series E
+10. Series F
+11. IPO
 
 
 # Making Impact
-- No Impact
+- Negative Impact - people doing things that negatively impact the company and go in the wrong direction
+- No Impact - people who 
 - Low Impact
 - Impact means achieving an outcome that progresses the product and company 
 - High impact means 
