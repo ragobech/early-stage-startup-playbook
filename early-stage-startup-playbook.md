@@ -18,7 +18,8 @@ TOPICS:
 10) Team Formation 
 11) Funding & Raising Money
 12) Culture
-13) Building Teams
+13) Signal vs Noise
+14) Building Teams
 14) Hiring
      - Where to find people 
 15) Failing 
@@ -33,8 +34,10 @@ TOPICS:
  - Operating Costs
 18) Making Impact
 
+
 # About the Author
 - Chris Ragobeer has been in startups for the last 10 years. Limited Resources.
+- 
 - TBD
 
 # Minimal Viable Segment
@@ -43,27 +46,43 @@ TOPICS:
 
 The individuals that build the company have a vision of the future. Building a product and business is a way to create the future. 
 
-Founders basically have to do everything at the beginning: product, sales, strategy, customer.
+Founders
+- Drive vision for the company on a consistent basis
+- Drive Sales
+- Hiring
+- Unique Insight
+
+
+Founders basically have to do everything at the beginning: 
+- Product
+- Sales 
+- Strategy 
+- Customer
+- Secure Funding
+- Financial Management and Accounting
+- Culture
+- Building the product (Technical Founder)
+
 
 
 
 
 # Minimal Viable Segment
 
+A user segment is a demographic of people with characteristics that define needs, wants and buying behaviours.
+
+
 # Shortcuts
 
 
-# Making Impact
--
--
--
 
+# Making Impact
+- 
+- 
 
 
 # Hiring
 - where to find people to start 
-
-
 
 
 # References
