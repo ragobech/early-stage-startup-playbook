@@ -4,13 +4,23 @@ The Early Stage Startup Playbook
 By: Chris Ragobeer
 2024, Chris Ragobeer
 
-TOPICS:
+
 0) About the Author
+
+
+1)  Introduction 
 
 1) The Idea 
     The Founder
     Identifying Early Demand
     Signal vs Noise
+        - Signals tell you positive and negatives things about the information you need on what you're building
+        - The Reality of the situation is data that you require to make full judgements about your business does not exist
+        - Ifnromation and data will be incomplete, skewed, misprespsnative
+
+        Noise
+        -  Be aware of what information is noise and does not matter ot what you're building...you can easily interpret a wrong fact or figure to negativitely influence your decisions
+        -  Noise comes form possible competitors, etc.
     The Minimal Viable Segments
     Failing 
 
@@ -50,7 +60,6 @@ TOPICS:
 
 The pace of change in the world is exponential.
 
-
 1. Startups are hard because you are creating things from scratch that hasn't been done before and the path to doing so is not clear and straight forward.
 2. Startups fail because the people operating and involved with them sometimes do not have the same goals, motivaitons and intentions
 3. Inexperience in startups cause people to fail
@@ -65,11 +74,11 @@ The pace of change in the world is exponential.
     - You can't commit a large % of your time > 90% to the startup
     - Be incessently motivated to accomplish the mission of the company
     - If you just want a job to go to and from
+    - Unable to learn fast and adapt 
 
-    You should start or work for a startup if:
-    -
-    -
-    -
+## You should start or work for a startup if:
+    - Passionate about solving a problem and it won't be getting solved
+
 Early founding skills
 - risk taking...sacrificing the present for the future pay off
 - going with ambiguity and unknowns
@@ -81,14 +90,39 @@ Early founding skills
 
 
 When to shut a product down
-- low interest and demand
-- market is not big enough
-- not able to be profitable or it will take too long
+- Your customer doesn't have the problem you think they have.
+- It doesn't solve the problem your
+- Low interest and demand
+- Market timing
+    - peoples priorities are different and it's on a lower rank
+- Market is not big enough
+- Not able to be profitable or it will take too long
 
 # Founders
 - The individuals that build the company have a vision of the future. Building a product and business is a way to create the future. 
 - A unique insight about a market, product, customer that fills a gap 
 - Domain Expertise in the founder, why is this founder the right person to be solving this problem?
+- For the future to become reality, a number of "Ands" must usually come to fruitiion in order for your successful outcome to materialize.
+
+
+Types of Founders
+
+- Product Founder
+- Technical Founder
+- Sales Founder
+- People Founder
+
+What you should be focused on as a founder
+- getigng the most insights about hte idea
+- selling to people
+
+
+
+
+
+
+
+
 
 
 ## Good reasons to start a business
@@ -106,13 +140,17 @@ When to shut a product down
 
 
 ## who to target
-- 
+- early adopters
+- are people who are likely to try and experiment with new things
+- things don't need to be perfect
 
 
 
 The first days of a company has the founder(s)
 
 TL;DR: Build things that customers want, better than anyone else. 
+
+Bet on technical insights that help solve a big problem in a novel way that yields a superior product with business profitability.
 
 Founders
 - Identifying the opportunities
