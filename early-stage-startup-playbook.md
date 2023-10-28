@@ -16,7 +16,7 @@ By: Chris Ragobeer
     Signal vs Noise
         - Signals tell you positive and negatives things about the information you need on what you're building
         - The Reality of the situation is data that you require to make full judgements about your business does not exist
-        - Ifnromation and data will be incomplete, skewed, misprespsnative
+        - Infromation and data will be incomplete, skewed, misprespsnative
 
         Noise
         -  Be aware of what information is noise and does not matter ot what you're building...you can easily interpret a wrong fact or figure to negativitely influence your decisions
@@ -55,6 +55,10 @@ By: Chris Ragobeer
 
 # About the Author
 - Chris Ragobeer has been in startups for the last 10 years. Limited Resources.
+
+## Using this Book
+
+This book was written to provide people building products from nothing with a guide based on peoples experiences.
 
 # Introduction
 
