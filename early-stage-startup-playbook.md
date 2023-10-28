@@ -11,9 +11,9 @@ By: Chris Ragobeer
 1)  Introduction 
 
 1) The Idea 
-    The Founder
-    Identifying Early Demand
-    Signal vs Noise
+    - The Founder
+    - Identifying Early Demand
+    - Signal vs Noise
         - Signals tell you positive and negatives things about the information you need on what you're building
         - The Reality of the situation is data that you require to make full judgements about your business does not exist
         - Infromation and data will be incomplete, skewed, misprespsnative
@@ -21,36 +21,36 @@ By: Chris Ragobeer
         Noise
         -  Be aware of what information is noise and does not matter ot what you're building...you can easily interpret a wrong fact or figure to negativitely influence your decisions
         -  Noise comes form possible competitors, etc.
-    The Minimal Viable Segments
-    Failing 
+    - The Minimal Viable Segments
+    - Failing 
 
 2) The Product
-    Why build a product?
-    Product Market Fit vs Product Market Channel Fit
-    Iteration and Feedback Loops
-    Scarce resources
-    Failing 
-
+    - Why build a product?
+    - Product Market Fit vs Product Market Channel Fit
+    - Iteration and Feedback Loops
+    - Scarce resources
+    - Failing 
+    - The Hackers Mindset
 3) The Company
-    Why build a company?
-    Building Companies are hard
-    Making Impact
-    Understanding your mission, vision and values
-    Getting people to buy into the vision
-    Building Teams 
-    - Short-term vs Long-term
-    Team Formation 
-    Hiring
-     - Where to find people 
-    Culture
-    Funding & Raising Money
-    The functions of a company
+    - Why build a company?
+    - Building Companies are hard
+    - Making Impact
+    - Understanding your mission, vision and values
+    - Getting people to buy into the vision
+    - Building Teams 
+        - Short-term vs Long-term
+    - Team Formation 
+    - Hiring
+        - Where to find people 
+    - Culture
+    - Funding & Raising Money
+    - The functions of a company
         - Customer 
         - Product
         - Revenue Generation
         - Sales
         - Operating Costs
-    Failing 
+    - Failing 
 
 
 # About the Author
@@ -111,6 +111,7 @@ When to shut a product down
 
 Types of Founders
 
+- Legal Founder
 - Product Founder
 - Technical Founder
 - Sales Founder
