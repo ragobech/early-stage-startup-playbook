@@ -1,4 +1,4 @@
-# THE EARLY STAGE STARTUP PLAYBOOK: For teams of 1-5 people
+# THE EARLY STAGE STARTUP PLAYBOOK: For teams of 0-5 people, building the new products and companies by the crazy ones.
 The Early Stage Startup Playbook
 
 By: Chris Ragobeer
@@ -6,7 +6,7 @@ By: Chris Ragobeer
 
 TOPICS:
 0) About the Author
-1) Identifying early demand
+1) Identifying Early Demand
 2) The Founder
 3) Minimal Viable Segment
 4) Product Market Fit vs Product Market Channel Fit
@@ -20,32 +20,35 @@ TOPICS:
 12) Culture
 13) Signal vs Noise
 14) Building Teams
-14) Hiring
+15) Hiring
      - Where to find people 
-15) Failing 
+16) Failing 
  - Why do quit?
-16) 
+17) 
  - Short-term vs Long-term
-17) The functions of a company
+18) The functions of a company
  - Customer 
  - Product
  - Revenue Generation
  - Sales
  - Operating Costs
-18) Making Impact
-19) Scarce resources
+19) Making Impact
+20) Scarce resources
 
 
 
 # About the Author
 - Chris Ragobeer has been in startups for the last 10 years. Limited Resources.
-- 
-- TBD
-
-# Minimal Viable Segment
-
 
 # Introduction
+
+The pace of change in the world is exponential.
+
+- Internet-> Free
+- Mobile Devices 
+- Cloud Computing
+
+
 1. Startups are hard because you are creating things from scratch that hasn't been done before and the path to doing so is not clear and straight forward.
 2. Startups fail because the people operating and involved with them sometimes do not have the same goals, motivaitons and intentions
 3. Inexperience in startups cause people to fail
@@ -57,12 +60,32 @@ TOPICS:
     - Selling
 5. You should not start or work for a startup if:
     - You can't commit a large % of your time > 90% to the startup
+    - Be incessently motivated to accomplish the mission of the company
     - 
 
 # Founders
 The individuals that build the company have a vision of the future. Building a product and business is a way to create the future. 
 
+
+## Good reasons to start a business
+- The world requires a solution in space to make it better off and you're able to fill that gap
+
+
+## Bad reasons to start a business
+- I want to make money
+
+
+## Urgency vs Importance
+
+
+## Urgency vs Importance
+
+
+
+The first days of a company has the founder(s)
+
 Founders
+- Identifying the opportunities
 - Drive vision for the company on a consistent basis
 - Drive Sales
 - Hiring
@@ -80,6 +103,18 @@ Founders basically have to do everything at the beginning:
 - Culture
 - Building the product (Technical Founder)
 
+# Leading
+- Every company and team has 1 Leader, there is no substitute for the leader, they make the final decision
+- It's the leaders job to chart the path to success
+
+# Know
+- know your customers
+- know your market
+- know your numbers
+
+
+# Speed
+Factors of production - information, connectivity, computing power
 
 # Scarce resources
 1. Time
