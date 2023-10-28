@@ -33,6 +33,8 @@ TOPICS:
  - Sales
  - Operating Costs
 18) Making Impact
+19) Scarce resources
+
 
 
 # About the Author
@@ -42,8 +44,22 @@ TOPICS:
 
 # Minimal Viable Segment
 
-# Founders
 
+# Introduction
+1. Startups are hard because you are creating things from scratch that hasn't been done before and the path to doing so is not clear and straight forward.
+2. Startups fail because the people operating and involved with them sometimes do not have the same goals, motivaitons and intentions
+3. Inexperience in startups cause people to fail
+4. Optimization for 
+    - Customer discovery
+    - Building
+    - Shipping
+    - Understanding
+    - Selling
+5. You should not start or work for a startup if:
+    - You can't commit a large % of your time > 90% to the startup
+    - 
+
+# Founders
 The individuals that build the company have a vision of the future. Building a product and business is a way to create the future. 
 
 Founders
@@ -65,17 +81,28 @@ Founders basically have to do everything at the beginning:
 - Building the product (Technical Founder)
 
 
+# Scarce resources
+1. Time
+2. Skillsets
 
 
 
 # Minimal Viable Segment
-
 A user segment is a demographic of people with characteristics that define needs, wants and buying behaviours.
 
 
 # Shortcuts
 - Not doing enough research on the market
 - Not doing enough research on the customer
+
+
+# Signal vs. Noise
+- Signals that you should pay attention to
+
+
+- Noise that you should pay attention to
+
+
 
 
 # What drives successful companies?
