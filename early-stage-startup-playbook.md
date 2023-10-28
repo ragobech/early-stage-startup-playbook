@@ -30,7 +30,7 @@ TOPICS:
  - Customer 
  - Product
  - Revenue Generation
-  - Sales
+ - Sales
  - Operating Costs
 18) Making Impact
 
@@ -51,6 +51,7 @@ Founders
 - Drive Sales
 - Hiring
 - Unique Insight
+- Research
 
 
 Founders basically have to do everything at the beginning: 
@@ -73,17 +74,38 @@ A user segment is a demographic of people with characteristics that define needs
 
 
 # Shortcuts
+- Not doing enough research on the market
+- Not doing enough research on the customer
+
+
+# What drives successful companies?
+
+1. Founders have a unique insight
+2. The offering is good enough or superior and solves the problem for the end customer
+3. The cost to produce the solution is 
+3. The customer is willing to pay enough to make it a sustainable 
+2. The team Able to execute
+
 
 
 
 # Making Impact
-- 
-- 
+- No Impact
+- Low Impact
+- Impact means achieving an outcome that progresses the product and company 
+- High impact means 
+
+
+# Going from product to company
 
 
 # Hiring
-- where to find people to start 
-
+- where to find people to work at your startup?
+- people who are motivated by the mission 
+- people who are highly skilled in field and have unique insights
+- hiring Committee
+- projects
+- 
 
 # References
 - tbd
