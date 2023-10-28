@@ -16,7 +16,10 @@ By: Chris Ragobeer
     - Signal vs Noise
         - Signals tell you positive and negatives things about the information you need on what you're building
         - The Reality of the situation is data that you require to make full judgements about your business does not exist
-        - Infromation and data will be incomplete, skewed, misprespsnative
+        - Information and data will be incomplete, skewed, misprespsnative
+        - What to do to get successful signals
+            -
+
 
         Noise
         -  Be aware of what information is noise and does not matter ot what you're building...you can easily interpret a wrong fact or figure to negativitely influence your decisions
@@ -85,6 +88,8 @@ The pace of change in the world is exponential.
 - Identify a signficant gap in the market that you feel you and your team has the expertise to bridge
 
 ## Early founding skills
+Do you have what it takes to start and build a company?
+
 - Risk taking...sacrificing the present for the future pay off
 - Going with ambiguity and unknowns
 - Learning quickly
@@ -94,9 +99,14 @@ The pace of change in the world is exponential.
 - Execution
 - Strategic creativity
 - Thinking critically
+- Dealing with rejections
 
 
-When to shut a product down
+## The size of the opportunity
+- is your idea worth pursuing?
+- 
+
+## When to shut a product down
 - Your customer doesn't have the problem you think they have.
 - It doesn't solve the problem your
 - Low interest and demand
@@ -106,13 +116,15 @@ When to shut a product down
 - Not able to be profitable or it will take too long
 
 # Founders
-- The individuals that build the company have a vision of the future. Building a product and business is a way to create the future. 
+- The individuals that build the company have a vision of the future. Building a product and business is a way to create the future. When you look at the successful founders of our generation, they possess a unique set of skills and characteristics that have driven them to success in their 
 - A unique insight about a market, product, customer that fills a gap 
 - Domain Expertise in the founder, why is this founder the right person to be solving this problem?
 - For the future to become reality, a number of "Ands" must usually come to fruitiion in order for your successful outcome to materialize.
+- Committment to their craft
+- Being ahead of the game and your competition
 
 
-Types of Founders
+## Types of Founders
 
 - Legal Founder
 - Product Founder
@@ -123,7 +135,7 @@ Types of Founders
 What you should be focused on as a founder
 - getting the most insights about the idea
 - selling to people
-
+- doing what you can to invalidate the idea
 
 
 
@@ -264,7 +276,12 @@ Helping customers: increasing revenue, lowering costs, reducing risk, or helping
 - people who are highly skilled in field and have unique insights
 - hiring Committee
 - projects
-- 
+
+# Conclusion
+
+- Positive Signals
+- tbd
+- tbd
 
 # References
 - tbd
