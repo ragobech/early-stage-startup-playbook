@@ -6,35 +6,41 @@ By: Chris Ragobeer
 
 TOPICS:
 0) About the Author
-1) Identifying Early Demand
-2) The Founder
-3) Minimal Viable Segment
-4) Product Market Fit vs Product Market Channel Fit
-5) Building Companies are hard
-6) Understanding your mission, vision and values
-7) Why build a product?
-8) Why build a company?
-9) Getting people to buy into the vision
-10) Team Formation 
-11) Funding & Raising Money
-12) Culture
-13) Signal vs Noise
-14) Building Teams
-15) Hiring
-     - Where to find people 
-16) Failing 
- - Why do quit?
-17) 
- - Short-term vs Long-term
-18) The functions of a company
- - Customer 
- - Product
- - Revenue Generation
- - Sales
- - Operating Costs
-19) Making Impact
-20) Scarce resources
 
+1) The Idea 
+    The Founder
+    Identifying Early Demand
+    Signal vs Noise
+    The Minimal Viable Segments
+    Failing 
+
+2) The Product
+    Why build a product?
+    Product Market Fit vs Product Market Channel Fit
+    Iteration and Feedback Loops
+    Scarce resources
+    Failing 
+
+3) The Company
+    Why build a company?
+    Building Companies are hard
+    Making Impact
+    Understanding your mission, vision and values
+    Getting people to buy into the vision
+    Building Teams 
+    - Short-term vs Long-term
+    Team Formation 
+    Hiring
+     - Where to find people 
+    Culture
+    Funding & Raising Money
+    The functions of a company
+        - Customer 
+        - Product
+        - Revenue Generation
+        - Sales
+        - Operating Costs
+    Failing 
 
 
 # About the Author
@@ -43,10 +49,6 @@ TOPICS:
 # Introduction
 
 The pace of change in the world is exponential.
-
-- Internet-> Free
-- Mobile Devices 
-- Cloud Computing
 
 
 1. Startups are hard because you are creating things from scratch that hasn't been done before and the path to doing so is not clear and straight forward.
@@ -58,10 +60,30 @@ The pace of change in the world is exponential.
     - Shipping
     - Understanding
     - Selling
-5. You should not start or work for a startup if:
+5. Startups are not for everyone. 
+   You should not start or work for a startup if:
     - You can't commit a large % of your time > 90% to the startup
     - Be incessently motivated to accomplish the mission of the company
-    - 
+    - If you just want a job to go to and from
+
+    You should start or work for a startup if:
+    -
+    -
+    -
+Early founding skills
+- risk taking...sacrificing the present for the future pay off
+- going with ambiguity and unknowns
+- learning quickly
+- adapting to new situations
+- selling
+- telling a story
+- execution
+
+
+When to shut a product down
+- low interest and demand
+- market is not big enough
+- not able to be profitable or it will take too long
 
 # Founders
 - The individuals that build the company have a vision of the future. Building a product and business is a way to create the future. 
@@ -110,6 +132,9 @@ Founders basically have to do everything at the beginning:
 - Financial Management and Accounting
 - Culture
 - Building the product (Technical Founder)
+
+--- it's not easy
+it may seem the cards are against you
 
 # Leading
 - Every company and team has 1 Leader, there is no substitute for the leader, they make the final decision
@@ -179,6 +204,8 @@ A user segment is a demographic of people with characteristics that define needs
 - Impact means achieving an outcome that progresses the product and company 
 - High impact means 
 
+
+# Going from idea to product
 
 # Going from product to company
 
