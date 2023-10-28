@@ -70,7 +70,10 @@ The pace of change in the world is exponential.
 3. Inexperience in startups cause people to fail
 4. Optimization for 
     - Customer discovery
+        - Why personas suck
+        - Talking to people and getting direct feedback
     - Building
+        - Early Product Building
     - Shipping
     - Understanding
     - Selling
@@ -80,6 +83,19 @@ The pace of change in the world is exponential.
     - Be incessently motivated to accomplish the mission of the company
     - If you just want a job to go to and from
     - Unable to learn fast and adapt 
+    - Be able to deal with high pressure environments.
+
+
+## What Matters:
+
+- That you can identify opportunities and execute on them
+- You will have successful and unsuccessful initiatives
+- Ensure the unsuccessful initiatives are short and do not kill your company
+- Experimentation is high / figur eout what works and what odesn't
+- Operate with urgency - you do not know how long you will have to be in the game
+- Stay in the game
+
+
 
 ## You should start or work for a startup if:
 - Passionate about solving a problem and it won't be getting solved
@@ -134,9 +150,18 @@ What you should be focused on as a founder
 - getting the most insights about the idea
 - selling to people
 - doing what you can to invalidate the idea
+- understanding what you're good at vs. what you're not good at.
 
+I'm good at:
 
+- Indie - Software Developer
+- Management + Executive
+- Writing
+- Startups
+- Early Stage Startups
+- Entrepreneurship
 
+It's only fitting that I've built a new startup and I'm writing about how to help others build startups.
 
 
 
@@ -232,6 +257,9 @@ A user segment is a demographic of people with characteristics that define needs
 # Shortcuts
 - Not doing enough research on the market
 - Not doing enough research on the customer
+- Not doing enough research about competitors
+- Making assumptions in certain areas that 
+- Inadequate due diligence
 
 
 # Signal vs. Noise
