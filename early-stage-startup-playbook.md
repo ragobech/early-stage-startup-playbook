@@ -18,10 +18,8 @@ By: Chris Ragobeer
         - The Reality of the situation is data that you require to make full judgements about your business does not exist
         - Information and data will be incomplete, skewed, misprespsnative
         - What to do to get successful signals
-            -
-
-
-        Noise
+        
+    - Noise
         -  Be aware of what information is noise and does not matter ot what you're building...you can easily interpret a wrong fact or figure to negativitely influence your decisions
         -  Noise comes form possible competitors, etc.
     - The Minimal Viable Segments
@@ -163,10 +161,22 @@ What you should be focused on as a founder
 - early adopters
 - are people who are likely to try and experiment with new things
 - things don't need to be perfect
+- innovators
+- like to be on the cutting edge 
+
+## where to find these people
+- reddit
+- communities
+
+Day 0
+- The first days of product building has the founders passionately researching, communicating, 
+
+Day 1
+- The first days of product building has the founders passionately researching, communicating, protoyphing, talking to people on the new idea that they just discovered. The optimism that flows in this phase is like eupohoria. You suddenly discovered the "Solution" to solve all of lifes problems and if only you build it as soon as possible and get it to market, you will be a king and make a lot of money.
+- Suddently after the first initial thoughts, those ambitions start coming back to earth and reality sits in.
 
 
-
-The first days of a company has the founder(s)
+The early days
 
 TL;DR: Build things that customers want, better than anyone else. 
 
