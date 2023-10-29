@@ -15,13 +15,40 @@ By: Chris Ragobeer
 - Image 5 - Known Market vs Unknown Market
 
 # Table of Contents
-1. [The Idea - Back to Basics](#basic)
-2. [Introduction](#introduction)
+1. [Introduction](#introduction)
+2. [The Idea - Back to Basics](#basic)
 3. [We are similar but we are different.](#similar)
 4. [Identifying Early Demand](#third-example)
 5. [Internal Rating System](#rating)
 
+# About the Author
+- Chris Ragobeer has been in startups for the last 10 years. Limited Resources.
+- Early Stage Entrepreneur
+- Previous CTO at Bitbuy (B2C)
+- Previus VP of Engineering of Insurance B2B 
+- Founder of Lens App
 
+
+## Using this Book
+This book was written to provide people building products from nothing with a guide based on peoples experiences.
+
+# Introduction
+The pace of change in the world is occurring at an astromincal rate. The cost of building products and companies have reduced to merely peanuts. It has never been the best time to build a company. With that in mind, where does one begin? Many people have the aspiration to build a highly successful company but the reality is over 90% of companies fail.
+
+I'm particulary interested in the advancement of human potential and condition. If we know something is going to fail. Let's fail at it fast so we can have people work on things that matter and help us progress as a human race. After all, one of the scarcest resources we have are time and money.
+
+I provide you an introduction to what I feel is the best way to see the future. It is to experience and create it using your unique knowledge, experience and strengths. It is not enough to build something, it is to build it knowing you existed and particpiated in t 
+
+But first we need to start with definitions 
+Startups
+- An experiment being done before product market fit
+
+This will be a success if
+- A and B and C and D and E and F are true
+
+- If people can 
+- If people understand how lens can benefit them
+- If people want to create 
 
 ## The Idea - Back to Basics
 Why does the world need your product? Why should it exist? You can solve a problem for one person once, create value, make a little money and go on your way. Why do you need to build a product or company? A good answer to this question is that the problem is so big enough and impacts a large amount of people that if it doesn't get solved, people die, get hurt or in pain or don't realize their true human potential. Why are you the one to solve? The good answer to this question and that you are the only one in this world that has the skills, ability and experience to do so. 
@@ -348,34 +375,7 @@ Identify Small Experiment. Ship. Learn. Repeat.
 3. Task C can take 24 horus to do but solve only 25% of the problem
 
 
-# About the Author
-- Chris Ragobeer has been in startups for the last 10 years. Limited Resources.
-- Early Stage Entrepreneur
-- Previous CTO at Bitbuy (B2C)
-- Previus VP of Engineering of Insurance B2B 
-- Founder of Lens App
 
-
-## Using this Book
-This book was written to provide people building products from nothing with a guide based on peoples experiences.
-
-# Introduction
-The pace of change in the world is occurring at an astromincal rate. The cost of building products and companies have reduced to merely peanuts. It has never been the best time to build a company. With that in mind, where does one begin? Many people have the aspiration to build a highly successful company but the reality is over 90% of companies fail.
-
-I'm particulary interested in the advancement of human potential and condition. If we know something is going to fail. Let's fail at it fast so we can have people work on things that matter and help us progress as a human race. After all, one of the scarcest resources we have are time and money.
-
-I provide you an introduction to what I feel is the best way to see the future. It is to experience and create it using your unique knowledge, experience and strengths. It is not enough to build something, it is to build it knowing you existed and particpiated in t 
-
-But first we need to start with definitions 
-Startups
-- An experiment being done before product market fit
-
-This will be a success if
-- A and B and C and D and E and F are true
-
-- If people can 
-- If people understand how lens can benefit them
-- If people want to create 
 
 
 ## Customer Obsession
