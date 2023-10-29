@@ -1,18 +1,11 @@
 # Building from scratch: Build things that customers want, better than anyone else. 
 
-For teams of 0-5 people, building the new products and companies.
+For teams of 0-5 people, building the new products and companies by leveraging your unique strengths.
 
 An early stage Startup Playbook
 
 By: Chris Ragobeer
 2024, Chris Ragobeer
-
-
-0) About the Author
-
-
-1)  Introduction 
-
 
 
 1) The Idea 
@@ -23,7 +16,6 @@ By: Chris Ragobeer
         - The Reality of the situation is data that you require to make full judgements about your business does not exist
         - Information and data will be incomplete, skewed, misprespsnative
         - What to do to get successful signals
-        
     - Noise
         -  Be aware of what information is noise and does not matter ot what you're building...you can easily interpret a wrong fact or figure to negativitely influence your decisions
         -  Noise comes form possible competitors, etc.
@@ -41,7 +33,6 @@ By: Chris Ragobeer
     - Pricing Discovery
         - Cost Plus
         - Value Based
-        - 
 3) The Company
     - Why build a company?
     - Building Companies are hard
@@ -63,6 +54,15 @@ By: Chris Ragobeer
         - Operating Costs
     - Failing 
 
+Your pathway to success
+- hate to say it but your customers don't want your product
+- a product is a means to an end
+- your customers really want to meet their goal or objective
+- many pprduct builders and founders get caught up in how smart 
+- at the end of the day, the customer/user just cares about getting a certain job done or achieving their goal
+
+# Keep it simple
+- I always look at how we can simplify things, move fast, iterate, fail, learn and succeed.
 
 # About the Author
 - Chris Ragobeer has been in startups for the last 10 years. Limited Resources.
@@ -72,20 +72,18 @@ By: Chris Ragobeer
 
 
 ## Using this Book
-
 This book was written to provide people building products from nothing with a guide based on peoples experiences.
 
 # Introduction
-
-
-
-The pace of change in the world is exponential.
+The pace of change in the world is exponential. It has never been the best time to build a company. 
 
 Startups
 - An experiment being done before product market fit
 
-Product
+Product/Service
 - 
+
+
 Business
 - After there is product-market-fit, there is a business
 - A product built that serves a customer that is willing to pay
@@ -124,6 +122,14 @@ Here are some good an ddifficult questions:
 
 - What about your product that do your potential customers not realize they need?
 - 
+
+- ACCOUNTABILITY NETWORK
+- What's the most important problem you have that you need to address with urgency?
+- Sounding board to het advice ,information and guidance
+
+Messaging
+- How you talk matters
+-
 
 
 What I hope you get out of this book is a way to think about building great products that customers want that only you and your team can uniquely deliver. Let's begin!
@@ -225,14 +231,14 @@ It's only fitting that I've built a new startup and I'm writing about how to hel
 ## Urgency vs Importance
 
 
-## who to target
+## Who to target
 - early adopters
 - are people who are likely to try and experiment with new things
 - things don't need to be perfect
 - innovators
 - like to be on the cutting edge 
 
-## where to find these people
+## Where to find these people
 - reddit
 - communities
 
