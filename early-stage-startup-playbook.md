@@ -19,7 +19,11 @@ By: Chris Ragobeer
 2. [The Idea - Back to Basics](#basic)
 3. [We are similar but we are different.](#similar)
 4. [Identifying Early Demand](#third-example)
-5. [Internal Rating System](#rating)
+5. [Truth Board](#truthboard)
+6. [Internal Rating System](#rating)
+7. [Unique Value Proposition](#uvp)
+8. [Market Timing](#market)
+
 
 # About the Author
 - Chris Ragobeer has been in startups for the last 10 years. Limited Resources.
@@ -66,7 +70,7 @@ Another good iquestion is why does you product need to exist in 10 years?
 - People generally want to be successful 
 - People want to take care of their family and friends
 - We all have our own biases
--  
+- Loss aversion: We err on the side of protecting what we have.
 
 ## We are different in that we prioritize different things
 - We want the world to 
@@ -124,8 +128,8 @@ What is the truth?
 
 Truth Board:
 0. You haven't defined the problem you're solving.
-1. Your product is not validated.
-2. You have not defined a unique value proposition
+1. You have not defined a unique value proposition
+2. Your product is not validated.
 3. You have not identified a  
 4. You do not have a customer paying for your product 
 5. You have not established a product market fit
@@ -165,7 +169,7 @@ The starting point -
         24.
         25.
 
-How it works
+        How it works
 
 
 ## Business model
