@@ -9,7 +9,25 @@ By: Chris Ragobeer
 
 
 1) The Idea 
+    Back to basics
+     Why does the world need your product?
+     You can solve a problem for one person, create value, make a little money and go on your way.
+     Why do you need to build a product or company?
+     A good answer to this question is that the problem is so big enough that if it doesn't get solved, people die, get hurt or in pain. Why are you the one to solve? The good answer to this question and that you are the only one in this world that has the skills, ability and experience to do so. 
+
+    We are similar but we are different.
+
+    We are similar in the sense 
+
+    We are different in that we priortize didfferent thigns
+        - we want the world to 
+        - we have certain kinks/nuances that allow us to see the world differently.
+
     - The Founder
+        Why do Founders build products and start companies?
+        It's one of the hardest journeys to go on: it's dangerous, loneley, stressful, emotional, most likely end up in failure or poor outcome. Could set you back finanncially.  But with all the doomsday scenarios, people still decide to go on the journey because they feel the world will be beffter off because of what value they can provide to the world.
+
+
     - Identifying Early Demand
     - The Proposition to Reality & Truth Gap
     Good:
@@ -29,7 +47,6 @@ By: Chris Ragobeer
         - Demand: 
         - Why now?
 
-    - Why does the world need your product?
     - Market Timing
         There must be a reason why your product needs to exist today…right NOW. What is the current trend on why your product didn’t exist years ago and why now is the right time? What is it about NOW that makes things different? Is it the right time to be building this and why?
         What are the characteristics that make the timing climate the best for your product currently. Advanced technology? Unique insight?
@@ -67,6 +84,7 @@ By: Chris Ragobeer
         - A hackers mindset is a way of using creative solutions to solve problems. BEing persistent with the problem is . Redefining the problem in how to attack it, think of 
         - How do you hack this website?
     - Cohorts of users
+        Cohorts are a good way to segment user bases around groups and time. Why people buy things in the last 3 months could dramatically be different in the next 3 months. It is important to segment buying behaviour into cohorts to understand trends and buying patterns to be able to predict and plan for the future
     - Net retention rate
     - Pricing Discovery
         - Cost Plus
