@@ -108,17 +108,27 @@ What does
 ## Defining the mission
 
 A good mission has the following characteristics
+## Ambitious
 - it is ambitious in scale
+## Long-term
 - it is long-term focused
+## Advances Potential
 - it advances a cause (human potential)
+## Belief
+- it goes after a space that you believe in
+## Team
+- you can attrac others to believe in it
 
 ## Identifying Early Demand
 
 What are the signs to look for to 
 
-People are clicking on your ads
-People are organically arriving on your
-People tell you they need it and it's valuable
+- People are clicking on your ads
+- People are organically arriving on your
+- People tell you they need it and it's valuable
+
+
+
 
 
 ## How to reduce the time it takes to get to the answer you want
