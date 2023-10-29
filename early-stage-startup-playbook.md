@@ -7,6 +7,7 @@ An early stage Startup Playbook
 By: Chris Ragobeer
 2024, Chris Ragobeer
 
+- Image 0 - Front and Back Cover Image
 - Image 1 - The pool of Ideas
 - Image 2 - The pool of Customers
 - Image 3 - The pool of Markets 
@@ -19,7 +20,7 @@ Our human brains tend to overcomplicate situations yet. humans can be extremely 
 With being so obsessed with your customer and tied to their hip, asking the right questions, you can determine if your customer has a big enough problem that they are willing to pay for.
 
 Company building. You have to commit to the long-term vision of the future. You have to believe Short-term thinking vs long-term thinking increases the chances 
-Another good iquestion is why does you product need to exost in 10 years?
+Another good iquestion is why does you product need to exist in 10 years?
 
 ## We are similar but we are different.
 
@@ -28,7 +29,7 @@ Another good iquestion is why does you product need to exost in 10 years?
 - People want to take care of their family and friends
 - We all have our own biases
 
-## We are different in that we priortize didfferent things
+## We are different in that we prioritize different things
 - We want the world to 
 - we have certain kinks/nuances that allow us to see the world differently.
 - We all have our own biases towards different things
@@ -38,25 +39,29 @@ Another good iquestion is why does you product need to exost in 10 years?
 
 
 ## Identifying Early Demand
-- The Proposition to Reality & Truth Gap
+
+The Proposition to Reality & Truth Gap
+
 Good:
-    - Child Reading App
-        - Problem: Efficacy of reading outcomes in children from 4-14 is low. Distractions, ipad, cause children to not read as much as they could as well as it is isolated.
-        - 37M amount of children between ages 4 - 10 - in US
-        - Established companies  -> Note of validation of  existing pain since other companies are trying to solve the same problem
-        - What about your service that you do the best at that will motivate and encourage your demographic to use it?
-        - Demand: 
-        - Solution:
+- Child Reading App
+    - Problem: Efficacy of reading outcomes in children from 4-14 is low. Distractions, ipad, cause children to not read as much as they could as well as it is isolated.
+    - 37M amount of children between ages 4 - 10 - in US
+    - Established companies  -> Note of validation of  existing pain since other companies are trying to solve the same problem
+    - What about your service that you do the best at that will motivate and encourage your demographic to use it?
+    - Demand: 
+    - Solution:
 
 Bad:
-    - Lens filter app 
-        - to socially filter information from the crowd
-        - Problem: People make poor decisions and need the crowd to supplement their understanding and decisions
-        - They limit perspective
-        - XM have trouble filtering information and making a decision
-        - Demand: 
-        - Why now?
+- Lens filter app 
+    - to socially filter information from the crowd
+    - Problem: People make poor decisions and need the crowd to supplement their understanding and decisions
+    - They limit perspective
+    - XM have trouble filtering information and making a decision
+    - Demand: 
+    - Why now?
 
+
+## Reality
 - Difference between reality and your assumptions of reality
 - Is it an attractive market to enter?
 - Develop an internal rating system for yourself,
@@ -86,7 +91,6 @@ How to focus?
 
 The unknown market vs the tranlsated market?
 
-
 Priority of Problem Pain:
 
     Example 1:
@@ -114,13 +118,10 @@ Provide examples of this
     - You can't articulate the problem
     - You don't understand the market
     
-
-
     - An exercise in segmentation:
     What are the unique attributes of your potential customer base?
     Thius is an area where people get extremely wrong.
     - They say...everyone need theirs product.
-
 
     - Signal vs Noise
         - Signals tell you positive and negatives things about the information you need on what you're building
@@ -140,9 +141,12 @@ Provide examples of this
 
     Buyers
     - 
-
+    - 
+    -
 
     Sellers
+    - 
+    -
     - 
 
 
@@ -317,7 +321,7 @@ If one had asked me that question early in my career, I would be lost for an ans
 
 Making High Quality Decisions fast and early.
 
-Where businesses get created:
+## Where businesses get created:
 - Human Survival
 - Resource Extraction
 - Protection
