@@ -60,6 +60,10 @@ This will be a success if
 - If people understand how lens can benefit them
 - If people want to create 
 
+- But, you may ask, why am I deserving to write in this topic? Waht is inquien about me? There are other people that can probably write about this topic as much as I can...it's true. So I decided ot build a company alongside this book to show you my unique experience.
+
+
+
 
 ## Identifying Oopportunities
 - 
@@ -103,9 +107,23 @@ What does
 
 ## Defining the mission
 
-
+A good mission has the following characteristics
+- it is ambitious in scale
+- it is long-term focused
+- it advances a cause (human potential)
 
 ## Identifying Early Demand
+
+What are the signs to look for to 
+
+People are clicking on your ads
+People are organically arriving on your
+People tell you they need it and it's valuable
+
+
+## How to reduce the time it takes to get to the answer you want
+
+
 
 The Proposition to Reality & Truth Gap
 
@@ -174,9 +192,9 @@ The starting point
         6. Fraudulent companies
         7. Futuristic companies
         8. Job opportunities
-        9.
-        10.
-        11.
+        9. B2B Companies that offer a specific service
+        10. Franchise companies
+        11. Entrepeneurs
         12.
         13.
         14. 
