@@ -18,12 +18,15 @@ By: Chris Ragobeer
             - 37M amount of children between ages 4 - 10 - in US
             - Established companies  -> Note of validation of  existing pain since other companies are trying to solve the same problem
             - What about your service that you do the best at that will motivate and encourage your demographic to use it?
+            - Demand: 
             - Solution:
 
     Bad:
-        - Lens filter app to socially filter information
-        - Problem: 
+        - Lens filter app to socially filter information from the crowd
+        - Problem: People make poor decisions and need the crowd to supplement their understanding and decisions
+        - They limit perspective
         - XM have trouble filtering information and making a decision
+        - Demand: 
         - Why now?
 
     - Why does the world need your product?
@@ -61,10 +64,35 @@ By: Chris Ragobeer
     - Scarce resources
     - Failing 
     - The Hackers Mindset
+        - A hackers mindset is a way of using creative solutions to solve problems. BEing persistent with the problem is . Redefining the problem in how to attack it, think of 
+        - How do you hack this website?
     - Cohorts of users
+    - Net retention rate
     - Pricing Discovery
         - Cost Plus
         - Value Based
+
+   Determining the value of your product to your potential customer
+    - When you value something, you consider it important, worthwhile, something to possess
+    - When people determine the value of your product/service it is in relation to the specific problem you are solving and the characteristics involved with it..in other words the WHY? Why is it valuable?
+    - Does your product save people time? How much time? If people value their time, they will value the thing that protects and saves their time.
+    - Time: Value - ratio - if you save me 1x time here, and I have the potential to generate 5x revenue by saving my time to do something that accomplishes Y, I value that
+    - I find that related to the worth of my time plus the amount of potential reward. 
+
+    - Value has a trigger
+    - Value is relative
+    - Value is subjective
+    - Value is time-bound
+    - Value has priority
+
+    - Example: A bed is valuable. Provides comfort while I sleep.
+
+    Trigger: I need to sleep every night.
+    Sleeping on a nice comfy bed is highly valuable than going to a park. 
+    Some people value different things about a mattress
+    Time-bound: The value I put on my current bed is 2-3 yrs until I need to get a new one.
+    Priority. I prioritize my sleep, as a result, I highly prioritize buying a valuable bed and de-prioritize other things.
+     
 3) The Company
     - Why build a company?
     - Building Companies are hard
@@ -89,6 +117,9 @@ By: Chris Ragobeer
     What's the biggest problem you have that drives the most impact, that if solved will reduce the risk of failure?
 
 # Your pathway to success
+I hate to say it but your customers don't want your product. They never did. The fact that they have to come to your website, create their accounts, sign in...etc. It's a hassle. A product or service is a means to an end. Your customer or users just want to meet their goals or objectives. 
+
+
 - Hate to say it but your customers don't want your product
 - A product is a means to an end
 - Your customers really want to meet their goal or objective
@@ -100,8 +131,19 @@ At such an early stage your vaocabulyry should change to be within the customer 
 - Fans want cheaper food and seats closer to their favourite player
 - Instead of ....we're changing the seating arrangements in the stadium to have players closer to their fans.
 
+# Your uniqueness and powers
+- Document what makes you uniquely good at something and powers
+
+- I am good at building early stage products and seeing things through.
+- I like to think of ideas from scratch and see them to fruition.
+
 # Keep it simple
 - I always look at how we can simplify things, move fast, iterate, fail, learn and succeed.
+- There are many wways to keep things simple ie:
+1. Task A can take 8 hours to do but solve 80% of the problem
+2. Task B can take 10 hours to do but solve 70% of the problem
+3. Task C can take 24 horus to do but solve only 25% of the problem
+
 
 # About the Author
 - Chris Ragobeer has been in startups for the last 10 years. Limited Resources.
@@ -121,11 +163,18 @@ I'm particulary interested in the advancement of human potential and condition. 
 
 I provide you an introduction to what I feel is the best way to see the future. It is to experience and create it using your unique knowledge, experience and strengths. It is not enough to build something, it is to build it knowing you existed and particpiated in t 
 
+But first we need to start with definitions 
 Startups
 - An experiment being done before product market fit
 
 Product/Service
 - 
+
+## PMF
+Success == Find qualified people that suffer from the problem your product solves and find enough value in YOUR product that they are willing to pay money to make their problem go away.
+
+That's your target market and product market fit(PMF).
+
 
 ## What makes you unique?
 
@@ -339,6 +388,9 @@ Ways to test
 
 
 ## Urgency vs Importance
+
+
+## Speed of Learning
 
 
 
