@@ -9,9 +9,16 @@ By: Chris Ragobeer
 
 - Image 0 - Front and Back Cover Image
 - Image 1 - The pool of Ideas
-- Image 2 - The pool of Customers
-- Image 3 - The pool of Markets 
-- Image 4 - Known Market vs Unknown Market
+- Image 2 - The pool of ideas you're best suited to work on
+- Image 3 - The pool of Customers
+- Image 4 - The pool of Markets 
+- Image 5 - Known Market vs Unknown Market
+
+# Table of Contents
+1. [The Idea - Back to Basics](#basic)
+2. [We are similar but we are different.](#similar)
+3. [Identifying Early Demand](#third-example)
+4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
 ## The Idea - Back to Basics
 Why does the world need your product? Why should it exist? You can solve a problem for one person once, create value, make a little money and go on your way. Why do you need to build a product or company? A good answer to this question is that the problem is so big enough and impacts a large amount of people that if it doesn't get solved, people die, get hurt or in pain or don't realize their true human potential. Why are you the one to solve? The good answer to this question and that you are the only one in this world that has the skills, ability and experience to do so. 
@@ -97,25 +104,25 @@ Truth Board:
 
 What's on your truth board?
 
-
+Build and join lenses.
 
 The starting point -
 
     I have a list of 25 lens:
         1. Successful startup companies that meet a certain criteria
         2. Companies looking for investment
-        3. 
-        4.
-        5.
-        6.
-        7.
+        3. Companies that fit a certain criteria
+        4. Websites that get over x traffic
+        5. Bitcoin companies
+        6. Fraudulent companies
+        7. 
         8.
         9.
         10.
         11.
         12.
         13.
-        14.
+        14. 
         15.
         16.
         17.
@@ -127,6 +134,12 @@ The starting point -
         23.
         24.
         25.
+
+How it works
+
+
+## Business model
+- hide information
 
 ## Reality
 - Difference between reality and your assumptions of reality
