@@ -83,6 +83,19 @@ Startups
 Product/Service
 - 
 
+## Tough questions:
+
+Are you building something that someone wants?
+Are you building something that someone will pay for?
+Is there enough people willing to pay for your product/service to make it a sustainable business?
+Are you able to generate the product at a cost to make the business sustainable?
+Can someone else produce what you're doing as equal or better than you?
+Do you have a specific unfair advantage that protects you from competition? 
+
+
+Making High Quality Decisions fast and early.
+
+
 
 Business
 - After there is product-market-fit, there is a business
