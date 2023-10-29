@@ -35,6 +35,7 @@ By: Chris Ragobeer
     - Scarce resources
     - Failing 
     - The Hackers Mindset
+    - Cohorts of users
     - Pricing Discovery
         - Cost Plus
         - Value Based
@@ -93,15 +94,17 @@ The pace of change in the world is exponential.
     - Be able to deal with high pressure environments.
 
 
-## What Matters:
+what I hope you get out of this book is a way to think about building great products that customers want that only you and your team can uniquely deliver. Let's begin!
 
-- That you can identify opportunities and execute on them
-- You will have successful and unsuccessful initiatives
+## What Matters
+
+1. That you can identify opportunities and execute on them
+2. You will have successful and unsuccessful initiatives
     - Ensure the unsuccessful initiatives are short and do not kill your company
-- Experimentation is high / figure out what works and what odesn't
-- Operate with urgency - you do not know how long you will have to be in the game
-- Stay in the game
-- Demonstrate demand for the product 
+3. Experimentation is high / figure out what works and what doesn't
+4. Operate with urgency - you do not know how long you will have to be in the game
+5. Stay in the game
+6. Demonstrate demand for the product 
 
 ## You should start or work for a startup if:
 - Passionate about solving a problem and it won't be getting solved
