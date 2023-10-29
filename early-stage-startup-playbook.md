@@ -11,6 +11,7 @@ By: Chris Ragobeer
 - Image 1 - The pool of Ideas
 - Image 2 - The pool of Customers
 - Image 3 - The pool of Markets 
+- Image 4 - Known Market vs Unknown Market
 
 ## The Idea - Back to Basics
 Why does the world need your product? Why should it exist? You can solve a problem for one person once, create value, make a little money and go on your way. Why do you need to build a product or company? A good answer to this question is that the problem is so big enough and impacts a large amount of people that if it doesn't get solved, people die, get hurt or in pain or don't realize their true human potential. Why are you the one to solve? The good answer to this question and that you are the only one in this world that has the skills, ability and experience to do so. 
@@ -28,6 +29,7 @@ Another good iquestion is why does you product need to exist in 10 years?
 - People generally want to be successful 
 - People want to take care of their family and friends
 - We all have our own biases
+-  
 
 ## We are different in that we prioritize different things
 - We want the world to 
@@ -57,23 +59,103 @@ Bad:
     - Problem: People make poor decisions and need the crowd to supplement their understanding and decisions
     - They limit perspective
     - XM have trouble filtering information and making a decision
-    - Demand: 
-    - Why now?
+    - Demand: (Who)
+    - Pick 5 groups of people that this can help(high urgency and frequency):
+    Urgency
+        1. Startup builders who want opinoins about building a company
 
+    Frequency
+    - Who is one person you can find that will use this that you can gain insights about the current market?
+    - What are the use cases for this product
+    - Why do you think this product is valuable?
+    
+    - Why now? (Timing)
+        - I just discovered the idea
+        - If you waited 10 years to build it, would people still care?
+
+    (Be notified when you )
+    - UVP
+        - Gather information faster into groups and criterias
+        - Get the information faster than not having it
+        - Gain insights into specific lens
+        - Gain Feedback from people 
+
+    Open Questions:
+        - Do 
+
+What is the truth?
+
+Truth Board:
+0. You haven't defined the problem you're solving.
+1. Your product is not validated.
+2. You have not defined a unique value proposition
+3. You have not identified a  
+4. You do not have a customer paying for your product 
+5. You have not established a product market fit
+6.
+7.
+
+What's on your truth board?
+
+
+
+The starting point -
+
+    I have a list of 25 lens:
+        1. Successful startup companies that meet a certain criteria
+        2. Companies looking for investment
+        3. 
+        4.
+        5.
+        6.
+        7.
+        8.
+        9.
+        10.
+        11.
+        12.
+        13.
+        14.
+        15.
+        16.
+        17.
+        18.
+        19.
+        20.
+        21.
+        22.
+        23.
+        24.
+        25.
 
 ## Reality
 - Difference between reality and your assumptions of reality
-- Is it an attractive market to enter?
+- Is it an attractive market to enter? If so, why?
+
+
+Going deeper by asking why?
+
+
 - Develop an internal rating system for yourself,
+    - Inadequate
+    - Adequate
+    - Superior
+    - Market Leading
+    - Industry Leading
 
 ## Market Timing
 There must be a reason why your product needs to exist today…right NOW. What is the current trend on why your product didn’t exist years ago and why now is the right time? What is it about NOW that makes things different? Is it the right time to be building this and why?
 
 What are the characteristics that make the timing climate the best for your product currently. Advanced technology? Unique insight?
 
-Focus
+## Focus
 
 Winning a small set of users and getting them to love your product is much better than getting a large number of users who somewhat like your product. By focusing,you can leverage the small set of users that you can relate to and conduct targeted research against them
+
+People who love your prodcut
+People who have the problem but infrequently 
+People who don't want to use your product.
+
 
 Focus comes in 
     - The problem you’re solving
@@ -89,7 +171,11 @@ How to focus?
     - Who is one person you can 
 
 
-The unknown market vs the tranlsated market?
+The unknown market vs the known market?
+An uknown market is a hypothesis, you should not treat it as reality.
+
+The known market is the market that you have 
+
 
 Priority of Problem Pain:
 
@@ -115,9 +201,11 @@ Provide examples of this
 2. They don't know if people will pay for the offering
 
 ## Signs you're product and company are not ready for prime time: 
-    - You can't articulate the problem
-    - You don't understand the market
-    
+1. You can't articulate the problem
+2. You don't understand the market
+3. It requires a lot of events to be true that are unlikely or have low probability.
+4.   
+
     - An exercise in segmentation:
     What are the unique attributes of your potential customer base?
     Thius is an area where people get extremely wrong.
@@ -150,6 +238,7 @@ Provide examples of this
     - 
 
 
+Do not build until you validate. You will save money and time doing things that aren't worth it.
 
 2) The Customer
     - Can you clearly articulate the problem that your customer has?
@@ -266,6 +355,10 @@ Startups
 
 This will be a success if
 - A and B and C and D and E and F are true
+
+- If people can 
+- If people understand how lens can benefit them
+- If people want to create 
 
 
 ## Customer Obsession
@@ -468,12 +561,18 @@ I'm good at:
 - Startups
 - Early Stage Startups
 - Entrepreneurship
+- Passionate about building new companies from nothing because it is a way to design and build the world
 
 It's only fitting that I've built a new startup and I'm writing about how to help others build startups.
 
 Performance Based Projects
+- Identify your target market (the characteristics of your buyers) in 15 days
+- Identify what your buyers are doing right now and who they're going to - 5 days
 - Invalidate your idea in 30 days
-- Identify your target market in 15 days
+
+
+
+
 
 
 We try to do too many things as a founder, lack of identifying a concrete objective that matters and gets to the crux of the problem is a recipe for failure. In my opinion is better to take longer to get to a higher quality outcome than to take shortcuts and get to a lower quality outcome.
