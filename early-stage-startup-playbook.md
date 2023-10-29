@@ -76,7 +76,11 @@ Your pathway to success
 This book was written to provide people building products from nothing with a guide based on peoples experiences.
 
 # Introduction
-The pace of change in the world is exponential. It has never been the best time to build a company. 
+The pace of change in the world is occurring at an astromincal rate. The cost of building products and companies have reduced to merely peanuts. It has never been the best time to build a company. With that in mind, where does one begin? Many people have the aspiration to build a highly successful company but the reality is over 90% of companies fail.
+
+I'm particulary interested in the advancement of human potential and condition. If we know something is going to fail. Let's fail at it fast so we can have people work on things that matter and help us progress as a human race. After all, one of the scarcest resources we have are time and money.
+
+I provide you an introduction to what I feel is the best way to see the future. It is to experience and create it. 
 
 Startups
 - An experiment being done before product market fit
@@ -86,12 +90,16 @@ Product/Service
 
 ## Tough questions:
 
-Are you building something that someone wants?
-Are you building something that someone will pay for?
-Is there enough people willing to pay for your product/service to make it a sustainable business?
-Are you able to generate the product at a cost to make the business sustainable?
-Can someone else produce what you're doing as equal or better than you?
-Do you have a specific unfair advantage that protects you from competition? 
+- Are you building something that someone wants?
+- Are you building something that someone will pay for?
+- Is there enough people willing to pay for your product/service to make it a sustainable business?
+- Are you able to generate the product at a cost to make the business sustainable?
+- Can someone else produce what you're doing as equal or better than you?
+- Do you have a specific unfair advantage that protects you from competition? 
+- Is your user adoption metrics predictable?
+- Is your revenue predictable?
+
+
 
 ## What not to do
 - Build things that people don't want
@@ -256,7 +264,16 @@ Performance Based Projects
 - Invalidate your idea in 30 days
 
 
+## What's next so - you have an idea that are convinced that works
 
+- Test, Test, Test
+Ways to test
+1. Build a splash page with isgn up and get ads to drive people signing up
+2. Reach out to your target market, offer them something of value and get to the bottom of your assumptions
+
+
+- You know it when you know it..meeting product market-fit
+- If you have to ask, you don't have PMF.
 
 
 ## Good reasons to start a business
