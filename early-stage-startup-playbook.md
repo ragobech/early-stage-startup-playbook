@@ -25,7 +25,10 @@ By: Chris Ragobeer
 8. [Internal Rating System](#rating)
 9. [Unique Value Proposition](#uvp)
 10. [Market Timing](#market)
-
+11. [Sales](#pricing)
+12. [Pricing](#pricing)
+13. [Profitability](#profit)
+14. [Fundraising](#fundraising)
 
 # About the Author
 - Chris Ragobeer has been in startups for the last 10 years. Limited Resources.
