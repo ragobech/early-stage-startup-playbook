@@ -12,15 +12,14 @@ Image 2 - The pool of Customers
 Image 3 - The pool of Markets 
 
 ## The Idea - Back to Basics
-    Why does the world need your product? Why should it exist? You can solve a problem for one person once, create value, make a little money and go on your way. Why do you need to build a product or company? A good answer to this question is that the problem is so big enough and impacts a large amount of people that if it doesn't get solved, people die, get hurt or in pain or don't realize their true human potential. Why are you the one to solve? The good answer to this question and that you are the only one in this world that has the skills, ability and experience to do so. 
+Why does the world need your product? Why should it exist? You can solve a problem for one person once, create value, make a little money and go on your way. Why do you need to build a product or company? A good answer to this question is that the problem is so big enough and impacts a large amount of people that if it doesn't get solved, people die, get hurt or in pain or don't realize their true human potential. Why are you the one to solve? The good answer to this question and that you are the only one in this world that has the skills, ability and experience to do so. 
 
-    Our human brains tend to overcomplicate situations yet. humans can be extremely simple and straightforward but the potential business owner is not paying attention, listening or identifying what matters to the customer user.
+Our human brains tend to overcomplicate situations yet. humans can be extremely simple and straightforward but the potential business owner is not paying attention, listening or identifying what matters to the customer user.
 
-    With being so obsessed with your customer and tied to their hip, asking the right questions, you can determine if your customer has a big enough problem that they are willing to pay for.
+With being so obsessed with your customer and tied to their hip, asking the right questions, you can determine if your customer has a big enough problem that they are willing to pay for.
 
-    Company building. You have to commit to the long-term vision of the future. You have to believe
-    Short-term thinking vs long-term thinking increases the chances 
-    Another good iquestion is why does youporoduct need to exost in 10 years?
+Company building. You have to commit to the long-term vision of the future. You have to believe Short-term thinking vs long-term thinking increases the chances 
+Another good iquestion is why does you product need to exost in 10 years?
 
 ## We are similar but we are different.
 
