@@ -7,18 +7,32 @@ An early stage Startup Playbook
 By: Chris Ragobeer
 2024, Chris Ragobeer
 
+Image 1 - The pool of Ideas
+Image 2 - The pool of Customers
+Image 3 - The pool of Markets 
 
 ## The Idea - Back to Basics
-    Why does the world need your product? Why should it exist? You can solve a problem for one person, create value, make a little money and go on your way. Why do you need to build a product or company? A good answer to this question is that the problem is so big enough that if it doesn't get solved, people die, get hurt or in pain. Why are you the one to solve? The good answer to this question and that you are the only one in this world that has the skills, ability and experience to do so. 
+    Why does the world need your product? Why should it exist? You can solve a problem for one person once, create value, make a little money and go on your way. Why do you need to build a product or company? A good answer to this question is that the problem is so big enough and impacts a large amount of people that if it doesn't get solved, people die, get hurt or in pain or don't realize their true human potential. Why are you the one to solve? The good answer to this question and that you are the only one in this world that has the skills, ability and experience to do so. 
+
+    Our human brains tend to overcomplicate situations yet. humans can be extremely simple and straightforward but the potential business owner is not paying attention, listening or identifying what matters to the customer user.
+
+    With being so obsessed with your customer and tied to their hip, asking the right questions, you can determine if your customer has a big enough problem that they are willing to pay for.
+
+    Company building. You have to commit to the long-term vision of the future. You have to believe
+    Short-term thinking vs long-term thinking increases the chances 
+    Another good iquestion is why does youporoduct need to exost in 10 years?
 
 ## We are similar but we are different.
 
 ## We are similar in the sense 
+- People generally want to be successful 
+- People want to take care of their family and friends
+- We all have our own bisases
 
 ## We are different in that we priortize didfferent thigns
-        - we want the world to 
-        - we have certain kinks/nuances that allow us to see the world differently.
-
+    - we want the world to 
+    - we have certain kinks/nuances that allow us to see the world differently.
+    - We all have our own biases towards different things
     - The Founder
         Why do Founders build products and start companies?
         It's one of the hardest journeys to go on: it's dangerous, loneley, stressful, emotional, most likely end up in failure or poor outcome. Could set you back finanncially.  But with all the doomsday scenarios, people still decide to go on the journey because they feel the world will be beffter off because of what value they can provide to the world.
@@ -64,13 +78,26 @@ By: Chris Ragobeer
     A Student
     1) Priority 1:
     2) Priority 2: 
-    3) Priority 1:
-    4) Priority 2: 
-    5) Priority 1:
+    3) Priority 3:
+    4) Priority 4: 
+    5) Priority 5:
   
 
 
-    Signs you're product and company are not ready for prime time: 
+1. Question,  -> Answer,  Decision, Action
+
+Will people create a lens to classify information?
+
+Examples:
+
+Provide examples of this
+- List out the common problmes that poeople have in building products
+
+## Common Problems
+1. They don't understand the market enough
+2. They don't know if people will pay for the offering
+
+## Signs you're product and company are not ready for prime time: 
     - You can't articulate the problem
     - You don't understand the market
     
