@@ -19,10 +19,11 @@ By: Chris Ragobeer
 2. [The Idea - Back to Basics](#basic)
 3. [We are similar but we are different.](#similar)
 4. [Identifying Early Demand](#third-example)
-5. [Truth Board](#truthboard)
-6. [Internal Rating System](#rating)
-7. [Unique Value Proposition](#uvp)
-8. [Market Timing](#market)
+5. [Focus](#focus)
+6. [Truth Board](#truthboard)
+7. [Internal Rating System](#rating)
+8. [Unique Value Proposition](#uvp)
+9. [Market Timing](#market)
 
 
 # About the Author
