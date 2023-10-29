@@ -8,18 +8,14 @@ By: Chris Ragobeer
 2024, Chris Ragobeer
 
 
-1) The Idea 
-    Back to basics
-     Why does the world need your product? Why should it exist?
-     You can solve a problem for one person, create value, make a little money and go on your way.
-     Why do you need to build a product or company?
-     A good answer to this question is that the problem is so big enough that if it doesn't get solved, people die, get hurt or in pain. Why are you the one to solve? The good answer to this question and that you are the only one in this world that has the skills, ability and experience to do so. 
+## The Idea - Back to Basics
+    Why does the world need your product? Why should it exist? You can solve a problem for one person, create value, make a little money and go on your way. Why do you need to build a product or company? A good answer to this question is that the problem is so big enough that if it doesn't get solved, people die, get hurt or in pain. Why are you the one to solve? The good answer to this question and that you are the only one in this world that has the skills, ability and experience to do so. 
 
-    We are similar but we are different.
+## We are similar but we are different.
 
-    We are similar in the sense 
+## We are similar in the sense 
 
-    We are different in that we priortize didfferent thigns
+## We are different in that we priortize didfferent thigns
         - we want the world to 
         - we have certain kinks/nuances that allow us to see the world differently.
 
@@ -57,6 +53,34 @@ By: Chris Ragobeer
         - The people you’re targeting
         - Ie I’m building a finance tool for SaaS companies to automate payroll with no full-time Finance staff within the United States
         - you must do one thing really, really well. Otherwise, what are you doing?
+
+        How to focus?
+        - People who have the largest sproblem and have the most likely motivation to pay to have the problem go away,
+        - If no one will pay it is a sign that the value you're providing does not exceed 
+
+        Priority of Problmen Pain:
+
+    Example 1:
+    A Student
+    1) Priority 1:
+    2) Priority 2: 
+    3) Priority 1:
+    4) Priority 2: 
+    5) Priority 1:
+  
+
+
+    Signs you're product and company are not ready for prime time: 
+    - You can't articulate the problem
+    - You don't understand the market
+    
+
+
+    - An exercise in segmentation:
+    What are the unique attributes of your potential customer base?
+    Thius is an area where people get extremely wrong.
+    - They say...everyone need theirs product.
+
 
     - Signal vs Noise
         - Signals tell you positive and negatives things about the information you need on what you're building
@@ -195,6 +219,11 @@ I provide you an introduction to what I feel is the best way to see the future. 
 But first we need to start with definitions 
 Startups
 - An experiment being done before product market fit
+
+
+# Skills to work on 
+
+Get good at asking extremely good questions at a rapid rate.
 
 Product/Service
 - 
