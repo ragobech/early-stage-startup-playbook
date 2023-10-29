@@ -7,9 +7,9 @@ An early stage Startup Playbook
 By: Chris Ragobeer
 2024, Chris Ragobeer
 
-Image 1 - The pool of Ideas
-Image 2 - The pool of Customers
-Image 3 - The pool of Markets 
+- Image 1 - The pool of Ideas
+- Image 2 - The pool of Customers
+- Image 3 - The pool of Markets 
 
 ## The Idea - Back to Basics
 Why does the world need your product? Why should it exist? You can solve a problem for one person once, create value, make a little money and go on your way. Why do you need to build a product or company? A good answer to this question is that the problem is so big enough and impacts a large amount of people that if it doesn't get solved, people die, get hurt or in pain or don't realize their true human potential. Why are you the one to solve? The good answer to this question and that you are the only one in this world that has the skills, ability and experience to do so. 
@@ -26,64 +26,78 @@ Another good iquestion is why does you product need to exost in 10 years?
 ## We are similar in the sense 
 - People generally want to be successful 
 - People want to take care of their family and friends
-- We all have our own bisases
+- We all have our own biases
 
-## We are different in that we priortize didfferent thigns
-    - we want the world to 
-    - we have certain kinks/nuances that allow us to see the world differently.
-    - We all have our own biases towards different things
-    - The Founder
-        Why do Founders build products and start companies?
-        It's one of the hardest journeys to go on: it's dangerous, loneley, stressful, emotional, most likely end up in failure or poor outcome. Could set you back finanncially.  But with all the doomsday scenarios, people still decide to go on the journey because they feel the world will be beffter off because of what value they can provide to the world.
+## We are different in that we priortize didfferent things
+- We want the world to 
+- we have certain kinks/nuances that allow us to see the world differently.
+- We all have our own biases towards different things
+- The Founder
+- Why do Founders build products and start companies?
+- It's one of the hardest journeys to go on: it's dangerous, loneley, stressful, emotional, most likely end up in failure or poor outcome. Could set you back finanncially.  But with all the doomsday scenarios, people still decide to go on the journey because they feel the world will be beffter off because of what value they can provide to the world.
 
 
-    - Identifying Early Demand
-    - The Proposition to Reality & Truth Gap
-    Good:
-        - Child Reading App
-            - Problem: Efficacy of reading outcomes in children from 4-14 is low. Distractions, ipad, cause children to not read as much as they could as well as it is isolated.
-            - 37M amount of children between ages 4 - 10 - in US
-            - Established companies  -> Note of validation of  existing pain since other companies are trying to solve the same problem
-            - What about your service that you do the best at that will motivate and encourage your demographic to use it?
-            - Demand: 
-            - Solution:
+## Identifying Early Demand
+- The Proposition to Reality & Truth Gap
+Good:
+    - Child Reading App
+        - Problem: Efficacy of reading outcomes in children from 4-14 is low. Distractions, ipad, cause children to not read as much as they could as well as it is isolated.
+        - 37M amount of children between ages 4 - 10 - in US
+        - Established companies  -> Note of validation of  existing pain since other companies are trying to solve the same problem
+        - What about your service that you do the best at that will motivate and encourage your demographic to use it?
+        - Demand: 
+        - Solution:
 
-    Bad:
-        - Lens filter app to socially filter information from the crowd
+Bad:
+    - Lens filter app 
+        - to socially filter information from the crowd
         - Problem: People make poor decisions and need the crowd to supplement their understanding and decisions
         - They limit perspective
         - XM have trouble filtering information and making a decision
         - Demand: 
         - Why now?
 
-    - Market Timing
-        There must be a reason why your product needs to exist today…right NOW. What is the current trend on why your product didn’t exist years ago and why now is the right time? What is it about NOW that makes things different? Is it the right time to be building this and why?
-        What are the characteristics that make the timing climate the best for your product currently. Advanced technology? Unique insight?
-    - Focus
-        - Winning a small set of users and getting them to love your product is much better than getting a large number of users who somewhat like your product. By focusing,you can leverage the small set of users that you can relate to and conduct targeted research against them
-        - Focus comes in 
-        - The problem you’re solving
-        - The people you’re targeting
-        - Ie I’m building a finance tool for SaaS companies to automate payroll with no full-time Finance staff within the United States
-        - you must do one thing really, really well. Otherwise, what are you doing?
+- Difference between reality and your assumptions of reality
+- Is it an attractive market to enter?
+- Develop an internal rating system for yourself,
 
-        How to focus?
-        - People who have the largest sproblem and have the most likely motivation to pay to have the problem go away,
-        - If no one will pay it is a sign that the value you're providing does not exceed 
+## Market Timing
+There must be a reason why your product needs to exist today…right NOW. What is the current trend on why your product didn’t exist years ago and why now is the right time? What is it about NOW that makes things different? Is it the right time to be building this and why?
 
-        Priority of Problmen Pain:
+What are the characteristics that make the timing climate the best for your product currently. Advanced technology? Unique insight?
+
+Focus
+
+Winning a small set of users and getting them to love your product is much better than getting a large number of users who somewhat like your product. By focusing,you can leverage the small set of users that you can relate to and conduct targeted research against them
+
+Focus comes in 
+    - The problem you’re solving
+    - The people you’re targeting
+    - Ie I’m building a finance tool for SaaS companies to automate payroll with no full-time Finance staff within the United States
+    - you must do one thing really, really well. Otherwise, what are you doing?
+
+How to focus?
+- People who have the largest problem and have the most likely motivation to pay to have the problem go away,
+- If no one will pay it is a sign that the value you're providing does not exceed 
+- Dominatation of 10
+    - Who are 10 people that you can get to use your product that you can get 
+    - Who is one person you can 
+
+
+The unknown market vs the tranlsated market?
+
+
+Priority of Problem Pain:
 
     Example 1:
     A Student
-    1) Priority 1:
-    2) Priority 2: 
-    3) Priority 3:
-    4) Priority 4: 
-    5) Priority 5:
+    1. Priority 1:
+    2. Priority 2: 
+    3. Priority 3:
+    4. Priority 4: 
+    5. Priority 5:
   
-
-
-1. Question,  -> Answer,  Decision, Action
+## Question,  -> Answer,  Decision, Action
 
 Will people create a lens to classify information?
 
@@ -245,6 +259,19 @@ I provide you an introduction to what I feel is the best way to see the future. 
 But first we need to start with definitions 
 Startups
 - An experiment being done before product market fit
+
+This will be a success if
+- A and B and C and D and E and F are true
+
+
+## Customer Obsession
+How are you going to get customers?
+What triggers your customer to want to use your product?
+- 
+
+How frequent does your customer experience their problem that triggers the need for your product?
+
+
 
 
 # Skills to work on 
