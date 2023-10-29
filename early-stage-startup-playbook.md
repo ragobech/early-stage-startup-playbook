@@ -18,12 +18,13 @@ By: Chris Ragobeer
 1. [Introduction](#introduction)
 2. [The Idea - Back to Basics](#basic)
 3. [We are similar but we are different.](#similar)
-4. [Identifying Early Demand](#third-example)
-5. [Focus](#focus)
-6. [Truth Board](#truthboard)
-7. [Internal Rating System](#rating)
-8. [Unique Value Proposition](#uvp)
-9. [Market Timing](#market)
+4. [Identifying Opportunities](#third-example)
+5. [Identifying Early Demand](#third-example)
+6. [Focus](#focus)
+7. [Truth Board](#truthboard)
+8. [Internal Rating System](#rating)
+9. [Unique Value Proposition](#uvp)
+10. [Market Timing](#market)
 
 
 # About the Author
@@ -54,6 +55,12 @@ This will be a success if
 - If people can 
 - If people understand how lens can benefit them
 - If people want to create 
+
+
+## Identifying Oopportunities
+
+
+- 
 
 ## The Idea - Back to Basics
 Why does the world need your product? Why should it exist? You can solve a problem for one person once, create value, make a little money and go on your way. Why do you need to build a product or company? A good answer to this question is that the problem is so big enough and impacts a large amount of people that if it doesn't get solved, people die, get hurt or in pain or don't realize their true human potential. Why are you the one to solve? The good answer to this question and that you are the only one in this world that has the skills, ability and experience to do so. 
@@ -151,7 +158,7 @@ The starting point -
         5. Bitcoin companies
         6. Fraudulent companies
         7. Futuristic companies
-        8.
+        8. 
         9.
         10.
         11.
