@@ -13,6 +13,8 @@ By: Chris Ragobeer
 
 1)  Introduction 
 
+
+
 1) The Idea 
     - The Founder
     - Identifying Early Demand
@@ -64,6 +66,10 @@ By: Chris Ragobeer
 
 # About the Author
 - Chris Ragobeer has been in startups for the last 10 years. Limited Resources.
+- Early Stage Entrepreneur
+- Previous CTO at Bitbuy (B2C)
+- Previus VP of Engineering of Insurance B2B 
+
 
 ## Using this Book
 
@@ -71,7 +77,22 @@ This book was written to provide people building products from nothing with a gu
 
 # Introduction
 
+
+
 The pace of change in the world is exponential.
+
+Startups
+- An experiment being done before product market fit
+
+Product
+- 
+Business
+- After there is product-market-fit, there is a business
+- A product built that serves a customer that is willing to pay
+
+Company
+- 
+
 
 1. Startups are hard because you are creating things from scratch that hasn't been done before and the path to doing so is not clear and straight forward.
 2. Startups fail because the people operating and involved with them sometimes do not have the same goals, motivaitons and intentions
@@ -92,9 +113,20 @@ The pace of change in the world is exponential.
     - If you just want a job to go to and from
     - Unable to learn fast and adapt 
     - Be able to deal with high pressure environments.
+6. Uniquely well
+    - What do you and your team possess that you feel only you can build?
+
+Asking the right questions...
+
+A good question, well formed can 
+
+Here are some good an ddifficult questions:
+
+- What about your product that do your potential customers not realize they need?
+- 
 
 
-what I hope you get out of this book is a way to think about building great products that customers want that only you and your team can uniquely deliver. Let's begin!
+What I hope you get out of this book is a way to think about building great products that customers want that only you and your team can uniquely deliver. Let's begin!
 
 ## What Matters
 
@@ -123,6 +155,7 @@ Do you have what it takes to start and build a company?
 - Strategic creativity
 - Thinking critically
 - Dealing with rejections
+- Betting on yourself.
 
 
 ## The size of the opportunity
