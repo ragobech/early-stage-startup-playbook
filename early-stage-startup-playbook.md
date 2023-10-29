@@ -16,9 +16,12 @@ By: Chris Ragobeer
 
 # Table of Contents
 1. [The Idea - Back to Basics](#basic)
-2. [We are similar but we are different.](#similar)
-3. [Identifying Early Demand](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+2. [Introduction](#introduction)
+3. [We are similar but we are different.](#similar)
+4. [Identifying Early Demand](#third-example)
+5. [Internal Rating System](#rating)
+
+
 
 ## The Idea - Back to Basics
 Why does the world need your product? Why should it exist? You can solve a problem for one person once, create value, make a little money and go on your way. Why do you need to build a product or company? A good answer to this question is that the problem is so big enough and impacts a large amount of people that if it doesn't get solved, people die, get hurt or in pain or don't realize their true human potential. Why are you the one to solve? The good answer to this question and that you are the only one in this world that has the skills, ability and experience to do so. 
@@ -115,7 +118,7 @@ The starting point -
         4. Websites that get over x traffic
         5. Bitcoin companies
         6. Fraudulent companies
-        7. 
+        7. Futuristic companies
         8.
         9.
         10.
@@ -149,6 +152,7 @@ How it works
 Going deeper by asking why?
 
 
+## Internal Rating System
 - Develop an internal rating system for yourself,
     - Inadequate
     - Adequate
