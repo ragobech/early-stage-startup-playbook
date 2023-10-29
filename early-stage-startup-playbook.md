@@ -1,4 +1,7 @@
-# Building from scratch: For teams of 0-5 people, building the new products and companies.
+# Building from scratch: Build things that customers want, better than anyone else. 
+
+For teams of 0-5 people, building the new products and companies.
+
 An early stage Startup Playbook
 
 By: Chris Ragobeer
@@ -32,6 +35,10 @@ By: Chris Ragobeer
     - Scarce resources
     - Failing 
     - The Hackers Mindset
+    - Pricing Discovery
+        - Cost Plus
+        - Value Based
+        - 
 3) The Company
     - Why build a company?
     - Building Companies are hard
@@ -90,12 +97,11 @@ The pace of change in the world is exponential.
 
 - That you can identify opportunities and execute on them
 - You will have successful and unsuccessful initiatives
-- Ensure the unsuccessful initiatives are short and do not kill your company
-- Experimentation is high / figur eout what works and what odesn't
+    - Ensure the unsuccessful initiatives are short and do not kill your company
+- Experimentation is high / figure out what works and what odesn't
 - Operate with urgency - you do not know how long you will have to be in the game
 - Stay in the game
-
-
+- Demonstrate demand for the product 
 
 ## You should start or work for a startup if:
 - Passionate about solving a problem and it won't be getting solved
@@ -128,6 +134,7 @@ Do you have what it takes to start and build a company?
     - peoples priorities are different and it's on a lower rank
 - Market is not big enough
 - Not able to be profitable or it will take too long
+- Run out of motivation
 
 # Founders
 - The individuals that build the company have a vision of the future. Building a product and business is a way to create the future. When you look at the successful founders of our generation, they possess a unique set of skills and characteristics that have driven them to success in their 
