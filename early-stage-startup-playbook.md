@@ -10,7 +10,7 @@ By: Chris Ragobeer
 
 1) The Idea 
     Back to basics
-     Why does the world need your product?
+     Why does the world need your product? Why should it exist?
      You can solve a problem for one person, create value, make a little money and go on your way.
      Why do you need to build a product or company?
      A good answer to this question is that the problem is so big enough that if it doesn't get solved, people die, get hurt or in pain. Why are you the one to solve? The good answer to this question and that you are the only one in this world that has the skills, ability and experience to do so. 
@@ -68,6 +68,21 @@ By: Chris Ragobeer
         -  Noise comes form possible competitors, etc.
     - The Minimal Viable Segments
     - Failing 
+
+    Understanding of the "Market"
+    - A Market is simply the aggregate of buyers and sellers. If you co-located everyone and everything in the world into one location and each station was selling a product/service, you would have all the markets in the world together.  But because the world is much more complex than this, there is a push and pull of market dynamics.
+    - Markets 
+    - It is much easier and simpler to take an existing market  and segment itThe market you choose to enter 
+
+    Buyers
+    - 
+
+
+    Sellers
+    - 
+
+
+
 2) The Customer
     - Can you clearly articulate the problem that your customer has?
     - Who has the problem and how many people are there?
@@ -90,7 +105,7 @@ By: Chris Ragobeer
         - Cost Plus
         - Value Based
 
-   Determining the value of your product to your potential customer
+## Determining the value of your product to your potential customer
     - When you value something, you consider it important, worthwhile, something to possess
     - When people determine the value of your product/service it is in relation to the specific problem you are solving and the characteristics involved with it..in other words the WHY? Why is it valuable?
     - Does your product save people time? How much time? If people value their time, they will value the thing that protects and saves their time.
@@ -135,19 +150,15 @@ By: Chris Ragobeer
     What's the biggest problem you have that drives the most impact, that if solved will reduce the risk of failure?
 
 # Your pathway to success
-I hate to say it but your customers don't want your product. They never did. The fact that they have to come to your website, create their accounts, sign in...etc. It's a hassle. A product or service is a means to an end. Your customer or users just want to meet their goals or objectives. 
+I hate to say it but your customers don't want your product. They never did. The fact that they have to come to your website, create their accounts, sign in...etc. It's a hassle. A product or service is a means to an end. Your customer or users just want to meet their goals or objectives. Many product builders and founders get caught up in how smart they think they are. At the end of the day, the customer/user just cares about getting a certain job done or achieving their goal. Help them do that in the most easiest and cost effective way possible and they will keep coming back.
 
-
-- Hate to say it but your customers don't want your product
-- A product is a means to an end
-- Your customers really want to meet their goal or objective
-- Many product builders and founders get caught up in how smart they think they are
-- At the end of the day, the customer/user just cares about getting a certain job done or achieving their goal. Help them do that in the most easiest and cost effective way possible and they will keep coming back.
-
-Changing your vocabulary...
-At such an early stage your vaocabulyry should change to be within the customer context
+In describing the value you can bring to your users and customers, you should change your vocabulary on how you reference and describe them.
+At such an early stage your vaocabulyry should change to be within the customer context. For example:
 - Fans want cheaper food and seats closer to their favourite player
 - Instead of ....we're changing the seating arrangements in the stadium to have players closer to their fans.
+
+Identify Small Experiment. Ship. Learn. Repeat.
+
 
 # Your uniqueness and powers
 - Document what makes you uniquely good at something and powers
@@ -546,6 +557,8 @@ Helping customers: increasing revenue, lowering costs, reducing risk, or helping
 - projects
 
 # Conclusion
+
+    Where do we go from here?
 
 - Positive Signals
 - tbd
