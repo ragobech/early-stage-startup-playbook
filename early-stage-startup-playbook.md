@@ -55,11 +55,11 @@ By: Chris Ragobeer
     - Failing 
 
 Your pathway to success
-- hate to say it but your customers don't want your product
-- a product is a means to an end
-- your customers really want to meet their goal or objective
-- many pprduct builders and founders get caught up in how smart 
-- at the end of the day, the customer/user just cares about getting a certain job done or achieving their goal
+- Hate to say it but your customers don't want your product
+- A product is a means to an end
+- Your customers really want to meet their goal or objective
+- Many pprduct builders and founders get caught up in how smart they think they are
+- At the end of the day, the customer/user just cares about getting a certain job done or achieving their goal
 
 # Keep it simple
 - I always look at how we can simplify things, move fast, iterate, fail, learn and succeed.
@@ -69,6 +69,7 @@ Your pathway to success
 - Early Stage Entrepreneur
 - Previous CTO at Bitbuy (B2C)
 - Previus VP of Engineering of Insurance B2B 
+- Founder of Lens App
 
 
 ## Using this Book
@@ -91,6 +92,12 @@ Is there enough people willing to pay for your product/service to make it a sust
 Are you able to generate the product at a cost to make the business sustainable?
 Can someone else produce what you're doing as equal or better than you?
 Do you have a specific unfair advantage that protects you from competition? 
+
+## What not to do
+- Build things that people don't want
+- Spend too much time building things without feedback from your end users
+- Make assumptions about things without getting insights
+- Spending too much time in your head 
 
 
 Making High Quality Decisions fast and early.
@@ -149,6 +156,12 @@ Here are some good an ddifficult questions:
 
 - What about your product that do your potential customers not realize they need?
 - 
+
+# Ownership and Accountability
+- You are kidding yourself if you ask somoene who didn't found the company and who doesn't have signifcant quity in the cmopany to care through a certain point about hte company
+- In general people are professional enough to do what's reasonable to complete their job to stay employed
+- It requires an incentive mechanism and founders to take the company to a different level
+
 
 - ACCOUNTABILITY NETWORK
 - What's the most important problem you have that you need to address with urgency?
@@ -239,6 +252,8 @@ I'm good at:
 
 It's only fitting that I've built a new startup and I'm writing about how to help others build startups.
 
+Performance Based Projects
+- Invalidate your idea in 30 days
 
 
 
@@ -256,6 +271,7 @@ It's only fitting that I've built a new startup and I'm writing about how to hel
 
 
 ## Urgency vs Importance
+
 
 
 ## Who to target
