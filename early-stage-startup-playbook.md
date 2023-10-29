@@ -19,6 +19,7 @@ By: Chris Ragobeer
 2. [The Idea - Back to Basics](#basic)
 3. [We are similar but we are different.](#similar)
 4. [Identifying Opportunities](#third-example)
+5. [Defining the mission](#third-example)
 5. [Identifying Early Demand](#third-example)
 6. [Focus](#focus)
 7. [Truth Board](#truthboard)
@@ -61,8 +62,6 @@ This will be a success if
 
 
 ## Identifying Oopportunities
-
-
 - 
 
 ## The Idea - Back to Basics
@@ -90,6 +89,20 @@ Another good iquestion is why does you product need to exist in 10 years?
 - The Founder
 - Why do Founders build products and start companies?
 - It's one of the hardest journeys to go on: it's dangerous, loneley, stressful, emotional, most likely end up in failure or poor outcome. Could set you back finanncially.  But with all the doomsday scenarios, people still decide to go on the journey because they feel the world will be beffter off because of what value they can provide to the world.
+
+
+What does it take to build something better than anyone else?
+- iPhones
+- Google Search
+- Microsfot Operating System
+- CRM Salesforce
+- Your favourite restaurant meal
+
+What does 
+
+
+## Defining the mission
+
 
 
 ## Identifying Early Demand
@@ -137,21 +150,20 @@ Bad:
 
 What is the truth?
 
-Truth Board:
-0. You haven't defined the problem you're solving.
+## Truth Board:
+0. You haven't defined the problem you're solving, clearly.
 1. You have not defined a unique value proposition
 2. Your product is not validated.
-3. You have not identified a  
+3. You have not identified a reason for users to return to your product and use it frequently.  
 4. You do not have a customer paying for your product 
 5. You have not established a product market fit
-6.
-7.
+6. You don't have a compelling reason on why a compettior can't copy your service easily.
 
 What's on your truth board?
 
 Build and join lenses.
 
-The starting point -
+The starting point
 
     I have a list of 25 lens:
         1. Successful startup companies that meet a certain criteria
@@ -161,7 +173,7 @@ The starting point -
         5. Bitcoin companies
         6. Fraudulent companies
         7. Futuristic companies
-        8. 
+        8. Job opportunities
         9.
         10.
         11.
@@ -195,7 +207,7 @@ Going deeper by asking why?
 
 
 ## Internal Rating System
-- Develop an internal rating system for yourself,
+- Develop an internal rating system for yourself, this will determine the quality of decisions and work that you and your team produce.
     - Inadequate
     - Adequate
     - Superior
