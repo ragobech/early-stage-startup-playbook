@@ -95,7 +95,21 @@ Do you have a specific unfair advantage that protects you from competition?
 
 Making High Quality Decisions fast and early.
 
-
+Where businesses get created:
+- Human Survival
+- Resource Extraction
+- Protection
+- Physical Security
+- Advancement in Human Potential
+- Beauty
+- Education
+- Advancement in Efficiency
+- Amplify the human experience
+- Sport
+- Entertainment
+- Leisure
+- Paintings
+- Advancement in social Status
 
 Business
 - After there is product-market-fit, there is a business
