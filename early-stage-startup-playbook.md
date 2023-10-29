@@ -80,13 +80,18 @@ The pace of change in the world is occurring at an astromincal rate. The cost of
 
 I'm particulary interested in the advancement of human potential and condition. If we know something is going to fail. Let's fail at it fast so we can have people work on things that matter and help us progress as a human race. After all, one of the scarcest resources we have are time and money.
 
-I provide you an introduction to what I feel is the best way to see the future. It is to experience and create it. 
+I provide you an introduction to what I feel is the best way to see the future. It is to experience and create it using your unique knowledge, experience and strengths. It is not enough to build something, it is to build it knowing you existed and particpiated in t 
 
 Startups
 - An experiment being done before product market fit
 
 Product/Service
 - 
+
+## What makes you unique?
+
+If one had asked me that question early in my career, I would be lost for an answer.
+
 
 ## Tough questions:
 
@@ -262,6 +267,10 @@ It's only fitting that I've built a new startup and I'm writing about how to hel
 
 Performance Based Projects
 - Invalidate your idea in 30 days
+- Identify your target market in 15 days
+
+
+We try to do too many things as a founder, lack of identifying a concrete objective that matters and gets to the crux of the problem is a recipe for failure. In my opinion is better to take longer to get to a higher quality outcome than to take shortcuts and get to a lower quality outcome.
 
 
 ## What's next so - you have an idea that are convinced that works
