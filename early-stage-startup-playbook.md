@@ -91,6 +91,9 @@ Product/Service
 ## What makes you unique?
 
 If one had asked me that question early in my career, I would be lost for an answer.
+- What are you uniquely good at?
+- What are you exceptional at?
+- What is the one thing in this world that you're the best at?
 
 
 ## Tough questions:
