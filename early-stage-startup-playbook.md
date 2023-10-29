@@ -11,6 +11,33 @@ By: Chris Ragobeer
 1) The Idea 
     - The Founder
     - Identifying Early Demand
+    - The Proposition to Reality & Truth Gap
+    Good:
+        - Child Reading App
+            - Problem: Efficacy of reading outcomes in children from 4-14 is low. Distractions, ipad, cause children to not read as much as they could as well as it is isolated.
+            - 37M amount of children between ages 4 - 10 - in US
+            - Established companies  -> Note of validation of  existing pain since other companies are trying to solve the same problem
+            - What about your service that you do the best at that will motivate and encourage your demographic to use it?
+            - Solution:
+
+    Bad:
+        - Lens filter app to socially filter information
+        - Problem: 
+        - XM have trouble filtering information and making a decision
+        - Why now?
+
+    - Why does the world need your product?
+    - Market Timing
+        There must be a reason why your product needs to exist today…right NOW. What is the current trend on why your product didn’t exist years ago and why now is the right time? What is it about NOW that makes things different? Is it the right time to be building this and why?
+        What are the characteristics that make the timing climate the best for your product currently. Advanced technology? Unique insight?
+    - Focus
+        - Winning a small set of users and getting them to love your product is much better than getting a large number of users who somewhat like your product. By focusing,you can leverage the small set of users that you can relate to and conduct targeted research against them
+        - Focus comes in 
+        - The problem you’re solving
+        - The people you’re targeting
+        - Ie I’m building a finance tool for SaaS companies to automate payroll with no full-time Finance staff within the United States
+        - you must do one thing really, really well. Otherwise, what are you doing?
+
     - Signal vs Noise
         - Signals tell you positive and negatives things about the information you need on what you're building
         - The Reality of the situation is data that you require to make full judgements about your business does not exist
@@ -21,6 +48,11 @@ By: Chris Ragobeer
         -  Noise comes form possible competitors, etc.
     - The Minimal Viable Segments
     - Failing 
+2) The Customer
+    - Can you clearly articulate the problem that your customer has?
+    - Who has the problem and how many people are there?
+    - How are these people solving the problem today?
+    - How superior is your product that will motivate them to switch?
 
 2) The Product
     - Why build a product?
@@ -54,12 +86,19 @@ By: Chris Ragobeer
         - Operating Costs
     - Failing 
 
-Your pathway to success
+    What's the biggest problem you have that drives the most impact, that if solved will reduce the risk of failure?
+
+# Your pathway to success
 - Hate to say it but your customers don't want your product
 - A product is a means to an end
 - Your customers really want to meet their goal or objective
-- Many pprduct builders and founders get caught up in how smart they think they are
-- At the end of the day, the customer/user just cares about getting a certain job done or achieving their goal
+- Many product builders and founders get caught up in how smart they think they are
+- At the end of the day, the customer/user just cares about getting a certain job done or achieving their goal. Help them do that in the most easiest and cost effective way possible and they will keep coming back.
+
+Changing your vocabulary...
+At such an early stage your vaocabulyry should change to be within the customer context
+- Fans want cheaper food and seats closer to their favourite player
+- Instead of ....we're changing the seating arrangements in the stadium to have players closer to their fans.
 
 # Keep it simple
 - I always look at how we can simplify things, move fast, iterate, fail, learn and succeed.
@@ -131,7 +170,7 @@ Where businesses get created:
 - Sport
 - Entertainment
 - Leisure
-- Paintings
+- Art 
 - Advancement in social Status
 
 Business
