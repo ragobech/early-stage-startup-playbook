@@ -142,11 +142,13 @@ What are the signs to look for to
 
 
 
+## Businesses:
+1) Founder Driven/Vision Led
+2) Data Led
+ 
+
 
 ## How to reduce the time it takes to get to the answer you want
-
-
-
 The Proposition to Reality & Truth Gap
 
 Good:
