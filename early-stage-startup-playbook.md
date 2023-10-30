@@ -52,27 +52,23 @@ I provide you an introduction to what I feel is the best way to see the future. 
 
 But first we need to start with definitions 
 
-Startups
+## Startups
 - An experiment being done before product market fit
     - Has this experiment been done before?
 - It has a problem hypothesis: it is a guess of what you think the problem your target set of users possess
 - It has a solution hypothesis: if you've successfully identified the problem, it is a guess of what you think the solution to the problem is.
 
-Product/Service
+## Product/Service
 - A way to solve a need or problme
-
 
 This will be a success if
 - A and B and C and D and E and F are true
-
-- If people can 
 - If people understand how lens can benefit them
-- If people want to create 
+- If people want to create lens
 
-- But, you may ask, why am I deserving to write in this topic? What is inquien about me? There are other people that can probably write about this topic as much as I can...it's true. So I decided ot build a company alongside this book to show you my unique experience.
+But, you may ask, why am I deserving to write in this topic? What is inquien about me? There are other people that can probably write about this topic as much as I can...it's true. So I decided ot build a company alongside this book to show you my unique experience.
 
 TL;DR: Build things that customers want, better than anyone else. 
-
 
 ## Identifying Opportunities
 The Types of Opportunities
@@ -80,19 +76,16 @@ The Types of Opportunities
 -  New Technologies drive cost curve lower
 -  New Regulatory decisions
 -  Consumer behaviour changes
-- 
+-  Creative ideas
 
-
-Building a Hypothesis
-- People will create a lens to classify information that is important to them
-- 
+## Building a Hypothesis
+- Thought Leaders will create a lens to classify information that is important to them
+- They will take the time to do this because it's their space and they want to show they are thought leaders in that space
+    - User Segment 1 - Thought Leaders in specific industries with a unique perspective.
 
 ## Specificity Matters
-
 Failure breeds ambiguity
-
 Success breeds specificity and Failure gets invalidated quicker.
-
 
 ## Communicating what you do and why you do it
 
@@ -104,7 +97,7 @@ Success breeds specificity and Failure gets invalidated quicker.
 5) Set Your Solution / What we do
 6) Set Why you and your team are the ones to solve it.
 7) Set Why it hasn't been done yet.
-
+8) What insights can you obtain about your idea
 
 Example for Lens.app
 
@@ -112,15 +105,40 @@ Example for Lens.app
 Customer: 
 Idea: Getting an organized point of view from someone
 Why is this important:
-    - Points of view from people take time to build and materialize and not comprehensive
+    - Points of view from people take time to build and materialize and not comprehensive, and can be incomplete
     - Points of view lead to costly decisions
 
 What happens if people don't use Lens?
 - People who have established lens' have faster access to information on key decisions and as a result can make higher quality decisions
 - Takes longer time
+- People won't have access to information that is uniquely built on Lens by creators, users
+- Lens are up to date and recent - not static
+- Build a community about peoples perspectives
+
+## Actors
+
+- Creators
+    - People who create a lens
+
+- Moderators
+    - People who have the ability to modify and update a lens
+
+- Consumers
+    - Viewers of lens'
+
+Make lens scarce
+
 
 
 Types of Lens
+
+
+
+Insight: A filtered lens from an experienced person is higher quality than a default list.
+- Who are they
+- What perspective do they have?
+- What can I get from them?
+
 
 2)
 3)
@@ -295,7 +313,7 @@ The starting point
         12. Accountability network
         13. Woman CEOs
         14. Truth Lens about my company
-        15.
+        15. 
         16.
         17.
         18.
@@ -316,9 +334,7 @@ The starting point
 ## Reality
 - Difference between reality and your assumptions of reality
 - Is it an attractive market to enter? If so, why?
-
-
-Going deeper by asking why?
+- Going deeper by asking why?
 
 
 ## Internal Rating System
@@ -341,7 +357,6 @@ Winning a small set of users and getting them to love your product is much bette
 People who love your prodcut
 People who have the problem but infrequently 
 People who don't want to use your product.
-
 
 ## Focus comes in 
 - The problem you’re solving
@@ -445,6 +460,17 @@ The known market is the market that you have
     -
     - 
 
+## Using Data
+Live in the moment data vs. static data....they are different
+
+Good data
+
+
+Bad data
+
+
+
+
 
 Do not build until you validate. You will save money and time doing things that aren't worth it.
 
@@ -523,7 +549,6 @@ At such an early stage your vaocabulyry should change to be within the customer 
 - Instead of ....we're changing the seating arrangements in the stadium to have players closer to their fans.
 
 Identify Small Experiment. Ship. Learn. Repeat.
-
 
 # Your uniqueness and powers
 - Document what makes you uniquely good at something and powers
@@ -808,6 +833,9 @@ Day 1
 
 The early days
 
+Everyones goals are different...what you see on the outside and what is on the inside is usually different.
+- Do you care about making a change in this industry?
+- TBD
 
 Bet on technical insights that help solve a big problem in a novel way that yields a superior product with business profitability.
 
@@ -953,6 +981,21 @@ On top of reducing stigma & decreasing loneliness for patients, group therapy wo
 
 ## Case 5: Building Block 5
 
+
+## The Practical Toolkit
+
+1. Invalidating an Idea
+2. Creating an Hypothesis
+3. Defining a minimal viable user segment
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
 
 # References
 - tbd
