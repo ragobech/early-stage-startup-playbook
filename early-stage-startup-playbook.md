@@ -68,6 +68,18 @@ This will be a success if
 ## Identifying Oopportunities
 - 
 
+
+Bjuilding a Hypothesis
+- People will create a lens to classify information that is important to them
+- 
+
+Quickly validate or invalidate your hypothesis
+
+## How to test your hypothesis
+- If people don't want to use your product, what is the minimal piece of functionality you can build to solve the problem your user has?
+- 
+
+
 ## The Idea - Back to Basics
 Why does the world need your product? Why should it exist? You can solve a problem for one person once, create value, make a little money and go on your way. Why do you need to build a product or company? A good answer to this question is that the problem is so big enough and impacts a large amount of people that if it doesn't get solved, people die, get hurt or in pain or don't realize their true human potential. Why are you the one to solve? The good answer to this question and that you are the only one in this world that has the skills, ability and experience to do so. 
 
@@ -205,8 +217,8 @@ The starting point
         9. B2B Companies that offer a specific service
         10. Franchise companies
         11. Entrepeneurs
-        12.
-        13.
+        12. accountability network
+        13. Woman CEOs
         14. 
         15.
         16.
@@ -256,19 +268,26 @@ People who have the problem but infrequently
 People who don't want to use your product.
 
 
-Focus comes in 
+## Focus comes in 
     - The problem you’re solving
     - The people you’re targeting
     - Ie I’m building a finance tool for SaaS companies to automate payroll with no full-time Finance staff within the United States
     - you must do one thing really, really well. Otherwise, what are you doing?
 
-How to focus?
+## How to focus?
 - People who have the largest problem and have the most likely motivation to pay to have the problem go away,
 - If no one will pay it is a sign that the value you're providing does not exceed 
 - Dominatation of 10
     - Who are 10 people that you can get to use your product that you can get 
     - Who is one person you can 
+- Empathy
+- Understanding your customer intimately
+- Articulated and unarticulated needs of the user
 
+## What matters
+Your goal is to determine the failure points as quickly as possible to determine the viable of the idea you want to pursue. Here are 5 things that you can validate quickly to determine if an idea is worth pursuing.
+
+1) Will someone pay $0.01 for it. (will they take their wallet out and pay - this demonstrates a strong enough pain and willingness to pay)
 
 The unknown market vs the known market?
 An uknown market is a hypothesis, you should not treat it as reality.
@@ -474,7 +493,7 @@ If one had asked me that question early in my career, I would be lost for an ans
 - Do you have a specific unfair advantage that protects you from competition? 
 - Is your user adoption metrics predictable?
 - Is your revenue predictable?
-
+- What about your business gives it staying power for the next 10 years?
 
 
 ## What not to do
