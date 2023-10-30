@@ -30,6 +30,7 @@ By: Chris Ragobeer
 12. [Pricing](#pricing)
 13. [Profitability](#profit)
 14. [Fundraising](#fundraising)
+15. [Case Studies](#cases)
 
 # About the Author
 - Chris Ragobeer has been in startups for the last 10 years. Limited Resources.
@@ -845,5 +846,25 @@ Helping customers: increasing revenue, lowering costs, reducing risk, or helping
 - tbd
 - tbd
 
+
+# Cases
+
+## Case 1: Building Block 1
+
+
+## Case 2: Building Block 2
+
+
+## Case 3: Building Block 3
+
+
+## Case 4: Building Block 4
+
+
+## Case 5: Building Block 5
+
+
 # References
 - tbd
+
+
