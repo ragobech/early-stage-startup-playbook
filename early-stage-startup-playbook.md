@@ -46,13 +46,20 @@ This book was written to provide people building products from nothing with a gu
 # Introduction
 The pace of change in the world is occurring at an astromincal rate. The cost of building products and companies have reduced to merely peanuts. It has never been the best time to build a company. With that in mind, where does one begin? Many people have the aspiration to build a highly successful company but the reality is over 90% of companies fail.
 
-I'm particulary interested in the advancement of human potential and condition. If we know something is going to fail. Let's fail at it fast so we can have people work on things that matter and help us progress as a human race. After all, one of the scarcest resources we have are time and money.
+I'm particulary interested in the advancement of human potential and condition. If we know something is going to fail. Let's fail at it fast so we can have people work on things that matter and help us progress in important areas that as a human race. After all, one of the scarcest resources we have are time and money.
 
-I provide you an introduction to what I feel is the best way to see the future. It is to experience and create it using your unique knowledge, experience and strengths. It is not enough to build something, it is to build it knowing you existed and particpiated in t 
+I provide you an introduction to what I feel is the best way to see the future. It is to experience and create it using your unique knowledge, experience and strengths. It is not enough to build something, it is to build it knowing you existed and particpiated in it. 
 
 But first we need to start with definitions 
+
 Startups
 - An experiment being done before product market fit
+- It has a problem hypothesis: it is a guess of what you think the problem your target set of users possess
+- It has a solution hypothesis: if you've successfully identified the problem, it is a guess of what you think the solution to the problem is.
+
+Product/Service
+- A way to solve a need or problme
+
 
 This will be a success if
 - A and B and C and D and E and F are true
@@ -61,16 +68,16 @@ This will be a success if
 - If people understand how lens can benefit them
 - If people want to create 
 
-- But, you may ask, why am I deserving to write in this topic? Waht is inquien about me? There are other people that can probably write about this topic as much as I can...it's true. So I decided ot build a company alongside this book to show you my unique experience.
+- But, you may ask, why am I deserving to write in this topic? What is inquien about me? There are other people that can probably write about this topic as much as I can...it's true. So I decided ot build a company alongside this book to show you my unique experience.
 
-
+TL;DR: Build things that customers want, better than anyone else. 
 
 
 ## Identifying Oopportunities
 - 
 
 
-Bjuilding a Hypothesis
+Building a Hypothesis
 - People will create a lens to classify information that is important to them
 - 
 
@@ -107,6 +114,8 @@ Another good iquestion is why does you product need to exist in 10 years?
 - Why do Founders build products and start companies?
 - It's one of the hardest journeys to go on: it's dangerous, loneley, stressful, emotional, most likely end up in failure or poor outcome. Could set you back finanncially.  But with all the doomsday scenarios, people still decide to go on the journey because they feel the world will be beffter off because of what value they can provide to the world.
 
+We over complicate thigns because of options, Because of options, it leads us into too much decisions. If we remove options, we are better along with being able to focus on succeeding at the task at hand.
+
 
 What does it take to build something better than anyone else?
 - iPhones
@@ -141,13 +150,10 @@ What are the signs to look for to
 - People tell you they need it and it's valuable
 
 
-
-
 ## Businesses:
 1) Founder Driven/Vision Led
 2) Data Led
  
-
 
 ## How to reduce the time it takes to get to the answer you want
 The Proposition to Reality & Truth Gap
@@ -172,7 +178,7 @@ Bad:
     Urgency
         1. Startup builders who want opinoins about building a company
 
-    Frequency
+Frequency
     - Who is one person you can find that will use this that you can gain insights about the current market?
     - What are the use cases for this product
     - Why do you think this product is valuable?
@@ -181,14 +187,14 @@ Bad:
         - I just discovered the idea
         - If you waited 10 years to build it, would people still care?
 
-    (Be notified when you )
+(Be notified when you )
     - UVP
         - Gather information faster into groups and criterias
         - Get the information faster than not having it
         - Gain insights into specific lens
         - Gain Feedback from people 
 
-    Open Questions:
+Open Questions:
         - Do 
 
 What is the truth?
@@ -220,9 +226,9 @@ The starting point
         9. B2B Companies that offer a specific service
         10. Franchise companies
         11. Entrepeneurs
-        12. accountability network
+        12. Accountability network
         13. Woman CEOs
-        14. 
+        14. Truth Lens about my company
         15.
         16.
         17.
@@ -235,7 +241,7 @@ The starting point
         24.
         25.
 
-        How it works
+## How it works
 
 
 ## Business model
@@ -272,10 +278,10 @@ People who don't want to use your product.
 
 
 ## Focus comes in 
-    - The problem you’re solving
-    - The people you’re targeting
-    - Ie I’m building a finance tool for SaaS companies to automate payroll with no full-time Finance staff within the United States
-    - you must do one thing really, really well. Otherwise, what are you doing?
+- The problem you’re solving
+- The people you’re targeting
+- Ie I’m building a finance tool for SaaS companies to automate payroll with no full-time Finance staff within the United States
+- you must do one thing really, really well. Otherwise, what are you doing?
 
 ## How to focus?
 - People who have the largest problem and have the most likely motivation to pay to have the problem go away,
@@ -294,6 +300,14 @@ Note: The below is not easy, but required to determine if you're on the right tr
 
 1) Will someone pay $0.01 for it? (will they take their wallet out and pay - this demonstrates a strong enough pain and willingness to pay)
 2) Given that people don't want to use your product. What is the main benefit they are getting from it?
+
+
+
+
+
+## What investors look for in founding teams
+3) Grit, Passion/Commmitment, Clear Path to Millions/Billions
+
 
 Priority of Problem Pain:
 
@@ -330,33 +344,37 @@ The known market is the market that you have
 3. It requires a lot of events to be true that are unlikely or have low probability.
 4.   
 
-    - An exercise in segmentation:
+## Exercise in segmentation:
     What are the unique attributes of your potential customer base?
     Thius is an area where people get extremely wrong.
     - They say...everyone need theirs product.
 
-    - Signal vs Noise
+## Signal vs Noise
         - Signals tell you positive and negatives things about the information you need on what you're building
         - The Reality of the situation is data that you require to make full judgements about your business does not exist
         - Information and data will be incomplete, skewed, misprespsnative
         - What to do to get successful signals
-    - Noise
+## Noise
         -  Be aware of what information is noise and does not matter ot what you're building...you can easily interpret a wrong fact or figure to negativitely influence your decisions
         -  Noise comes form possible competitors, etc.
     - The Minimal Viable Segments
     - Failing 
 
-    Understanding of the "Market"
+## Understanding of the "Market"
     - A Market is simply the aggregate of buyers and sellers. If you co-located everyone and everything in the world into one location and each station was selling a product/service, you would have all the markets in the world together.  But because the world is much more complex than this, there is a push and pull of market dynamics.
     - Markets 
     - It is much easier and simpler to take an existing market  and segment itThe market you choose to enter 
 
-    Buyers
-    - 
-    - 
-    -
+## Buyers
+    Can you think about the last ten things you bought? Why did you buy them...I'll give you an example (B2C)
+    (B2C)
+    - My mortgage
+    - A coffee
+    - A gift
 
-    Sellers
+    (B2B)
+
+## Sellers
     - 
     -
     - 
@@ -461,9 +479,7 @@ Identify Small Experiment. Ship. Learn. Repeat.
 ## Customer Obsession
 How are you going to get customers?
 What triggers your customer to want to use your product?
-- 
-
-How frequent does your customer experience their problem that triggers the need for your product?
+- How frequent does your customer experience their problem that triggers the need for your product?
 
 
 
@@ -527,11 +543,11 @@ Making High Quality Decisions fast and early.
 - Art 
 - Advancement in social Status
 
-Business
+## Business
 - After there is product-market-fit, there is a business
 - A product built that serves a customer that is willing to pay
 
-Company
+## Company
 - 
 
 
@@ -726,7 +742,6 @@ Day 1
 
 The early days
 
-TL;DR: Build things that customers want, better than anyone else. 
 
 Bet on technical insights that help solve a big problem in a novel way that yields a superior product with business profitability.
 
@@ -772,7 +787,6 @@ Factors of production - information, connectivity, computing power
 2. Skillsets
 
 
-
 # Minimal Viable Segment
 A user segment is a demographic of people with characteristics that define needs, wants and buying behaviours.
 
@@ -787,8 +801,6 @@ A user segment is a demographic of people with characteristics that define needs
 
 # Signal vs. Noise
 - Signals that you should pay attention to
-
-
 - Noise that you should pay attention to
 
 Helping customers: increasing revenue, lowering costs, reducing risk, or helping a company run better.
@@ -850,6 +862,18 @@ Helping customers: increasing revenue, lowering costs, reducing risk, or helping
 # Cases
 
 ## Case 1: Building Block 1
+
+A platform for in-person/virtual group therapy. 
+
+Funding for mental health startups rose 139% and hit $5.5 billion in 2021. Despite all of this, mental health in the US is BAD. 
+
+1 in 5 US adults has received mental health care in the US & one third of all adults now report symptoms of depression or anxiety, 3x the number in 2019.
+
+More and more research has come out showing the efficacy of group therapy for a wide range of mental health conditions like depression, bipolar disorder, obsessive compulsive and eating disorders.
+
+Right now, group therapy makes up just 5% of private practice offerings with 95% going to individual therapy, but there are some huge benefits to the group modality.
+
+On top of reducing stigma & decreasing loneliness for patients, group therapy would decrease strain on an increasing therapist shortage in our country, while also making mental care more affordable for consumers.
 
 
 ## Case 2: Building Block 2
