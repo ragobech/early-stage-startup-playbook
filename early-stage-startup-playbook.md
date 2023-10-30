@@ -73,13 +73,24 @@ This will be a success if
 TL;DR: Build things that customers want, better than anyone else. 
 
 
-## Identifying Oopportunities
+## Identifying Opportunities
 - 
 
 
 Building a Hypothesis
 - People will create a lens to classify information that is important to them
 - 
+
+## Communicating what you do and why you do it
+
+1) Set Context
+2) Set Pain Point/Problem/Opportunity
+3) Set Destination / How big market can be
+4) Set Where you are at today
+5) Set Your Solution / What we do
+6) Set Why you and your team are the ones to solve it.
+7) Set Why it hasn't been done yet.
+
 
 Quickly validate or invalidate your hypothesis
 
