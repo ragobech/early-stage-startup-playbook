@@ -20,17 +20,19 @@ By: Chris Ragobeer
 3. [We are similar but we are different.](#similar)
 4. [Identifying Opportunities](#third-example)
 5. [Defining the mission](#third-example)
-5. [Identifying Early Demand](#third-example)
-6. [Focus](#focus)
-7. [Truth Board](#truthboard)
-8. [Internal Rating System](#rating)
-9. [Unique Value Proposition](#uvp)
-10. [Market Timing](#market)
-11. [Sales](#pricing)
-12. [Pricing](#pricing)
-13. [Profitability](#profit)
-14. [Fundraising](#fundraising)
-15. [Case Studies](#cases)
+6. [Identifying Early Demand](#third-example)
+7. [Building what Customers Want](#customer)
+8. [Better than anyone else](#better)
+9. [Focus](#focus)
+10. [Truth Board](#truthboard)
+11. [Internal Rating System](#rating)
+12. [Unique Value Proposition](#uvp)
+13. [Market Timing](#market)
+14. [Sales](#pricing)
+15. [Pricing](#pricing)
+16. [Profitability](#profit)
+17. [Fundraising](#fundraising)
+18. [Case Studies](#cases)
 
 # About the Author
 - Chris Ragobeer has been in startups for the last 10 years. Limited Resources.
@@ -987,8 +989,8 @@ On top of reducing stigma & decreasing loneliness for patients, group therapy wo
 1. Invalidating an Idea
 2. Creating an Hypothesis
 3. Defining a minimal viable user segment
-4.
-5.
+4. Understanding your customer
+5. Asking the right questions
 6.
 7.
 8.
