@@ -287,13 +287,10 @@ People who don't want to use your product.
 ## What matters
 Your goal is to determine the failure points as quickly as possible to determine the viable of the idea you want to pursue. Here are 5 things that you can validate quickly to determine if an idea is worth pursuing.
 
-1) Will someone pay $0.01 for it. (will they take their wallet out and pay - this demonstrates a strong enough pain and willingness to pay)
+Note: The below is not easy, but required to determine if you're on the right track.
 
-The unknown market vs the known market?
-An uknown market is a hypothesis, you should not treat it as reality.
-
-The known market is the market that you have 
-
+1) Will someone pay $0.01 for it? (will they take their wallet out and pay - this demonstrates a strong enough pain and willingness to pay)
+2) Given that people don't want to use your product. What is the main benefit they are getting from it?
 
 Priority of Problem Pain:
 
@@ -317,6 +314,12 @@ Provide examples of this
 ## Common Problems
 1. They don't understand the market enough
 2. They don't know if people will pay for the offering
+
+## The Known vs. Unknown Market
+wn market vs the known market?
+An uknown market is a hypothesis, you should not treat it as reality.
+
+The known market is the market that you have 
 
 ## Signs you're product and company are not ready for prime time: 
 1. You can't articulate the problem
