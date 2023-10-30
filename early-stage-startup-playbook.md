@@ -74,6 +74,11 @@ TL;DR: Build things that customers want, better than anyone else.
 
 
 ## Identifying Opportunities
+The Types of Opportunities
+-  Gaps In Markets
+-  New Technologies drive cost curve lower
+-  New Regulatory decisions
+-  Consumer behaviour changes
 - 
 
 
@@ -81,15 +86,40 @@ Building a Hypothesis
 - People will create a lens to classify information that is important to them
 - 
 
+## Specificity Matters
+
+Failure breeds ambiguity
+
+Success breeds specificity and Failure gets invalidated quicker.
+
+
 ## Communicating what you do and why you do it
 
-1) Set Context
+1) Set Context about the Idea, Customer and Market
 2) Set Pain Point/Problem/Opportunity
 3) Set Destination / How big market can be
 4) Set Where you are at today
 5) Set Your Solution / What we do
 6) Set Why you and your team are the ones to solve it.
 7) Set Why it hasn't been done yet.
+
+
+Example for Lens.app
+
+1) Finding 
+2)
+3)
+4)
+5)
+6)
+7)
+
+## Developing a devils advocate committee
+
+
+
+
+
 
 
 Quickly validate or invalidate your hypothesis
