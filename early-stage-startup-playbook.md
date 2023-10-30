@@ -54,6 +54,7 @@ But first we need to start with definitions
 
 Startups
 - An experiment being done before product market fit
+    - Has this experiment been done before?
 - It has a problem hypothesis: it is a guess of what you think the problem your target set of users possess
 - It has a solution hypothesis: if you've successfully identified the problem, it is a guess of what you think the solution to the problem is.
 
@@ -95,9 +96,10 @@ Success breeds specificity and Failure gets invalidated quicker.
 
 ## Communicating what you do and why you do it
 
-1) Set Context about the Idea, Customer and Market
+1) Set Context about the Customer, Idea, Product, and Market
 2) Set Pain Point/Problem/Opportunity
 3) Set Destination / How big market can be
+0) What happens if people don't use your product?
 4) Set Where you are at today
 5) Set Your Solution / What we do
 6) Set Why you and your team are the ones to solve it.
@@ -107,6 +109,19 @@ Success breeds specificity and Failure gets invalidated quicker.
 Example for Lens.app
 
 1) Finding 
+Customer: 
+Idea: Getting an organized point of view from someone
+Why is this important:
+    - Points of view from people take time to build and materialize and not comprehensive
+    - Points of view lead to costly decisions
+
+What happens if people don't use Lens?
+- People who have established lens' have faster access to information on key decisions and as a result can make higher quality decisions
+- Takes longer time
+
+
+Types of Lens
+
 2)
 3)
 4)
@@ -114,9 +129,19 @@ Example for Lens.app
 6)
 7)
 
+
+## Resources
+
+Revenue - Cost = Profit
+Revenue - Profit = Cost
+
+
 ## Developing a devils advocate committee
 
 
+## Chunks of time / currency
+
+- Where's the best ROI / ROIC ?
 
 
 
@@ -931,5 +956,3 @@ On top of reducing stigma & decreasing loneliness for patients, group therapy wo
 
 # References
 - tbd
-
-
