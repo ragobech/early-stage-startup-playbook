@@ -79,12 +79,26 @@ You need to develop systems to
 
 
 ## Problem Space
-- The problem space is a virtual space where a unique set of triggers {x, y....} cause a pain point {z}
+- The problem space is a virtual space where a unique set of triggers {x, y....} cause a pain point {z} that lead to a problem {p} that are uniquely defined by characteristics  {a, b, c....}
 
+Understing & Observing the Unique Problem Space You're in.
 
 
 ## Solution Space
-- tbd
+- The solution space is a virtual space where the charactersitics {a, b, c,...} are solved by a solution S {j,k,l.....}
+
+Example:
+
+Problem Space - Customer - Google
+- Customer Trigger: A customer is wishing to purchase a item to solve their need or problem.
+- Business Trigger: A business owner looking to make more money by distribution their website to sell their products and/or services.
+- Pain point: Make more money
+- Problem: A business owner needs to drive distribution to their business to make more revenue
+    -  Purchase more products
+- Solution: 
+    - The fastest and most relevant search to easily take human language keywords to display the business owners product page for the usr to find and purchase
+
+Problem Space - Lens
 
 
 - Generate Ideas
