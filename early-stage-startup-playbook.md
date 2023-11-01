@@ -39,6 +39,7 @@ By: Chris Ragobeer
 - Early Stage Entrepreneur
 - Previous CTO at Bitbuy (B2C)
 - Previus VP of Engineering of Insurance B2B 
+- Hacker
 - Founder of Lens App
 
 
@@ -59,16 +60,14 @@ But first we need to start with definitions
     - Has this experiment been done before?
 - It has a problem hypothesis: it is a guess of what you think the problem your target set of users possess
 - It has a solution hypothesis: if you've successfully identified the problem, it is a guess of what you think the solution to the problem is.
+- You have identified a customer and a user that solves a problem for them that the customer is willing to pay for.
 
 ## Product/Service
 - A way to built to solve a need or problem provided to the end user or customer.
--    
--      
-- 
-- 
-- 
+- Products are means to an end and a conduit to the end user to help them fulfill their need
 
-## Choices in Scaracity
+
+## Choices in Scarcity
 
 - How to build products with limited resources
 
@@ -89,6 +88,9 @@ This will be a success if
 But, you may ask, why am I deserving to write in this topic? What is inquien about me? There are other people that can probably write about this topic as much as I can...it's true. So I decided ot build a company alongside this book to show you my unique experience.
 
 TL;DR: Build things that customers want, better than anyone else. 
+
+## What do customers want?
+
 
 ## Identifying Opportunities
 The Types of Opportunities
@@ -417,6 +419,9 @@ Note: The below is not easy, but required to determine if you're on the right tr
 2) Given that people don't want to use your product. What is the main benefit they are getting from it?
 
 
+# Business Primitives
+
+What fundmantel truths exist?
 
 
 
@@ -546,7 +551,7 @@ Value substituation is important and the time to value ratio. Time: Value - rati
 - Value is time-bound
 - Value has priority
 
-- Example: A bed is valuable. Provides comfort while I sleep.
+Example: A bed is valuable. Provides comfort while I sleep.
 
 Trigger: I need to sleep every night.
 Sleeping on a nice comfy bed is highly valuable than going to a park. 
@@ -1048,7 +1053,8 @@ On top of reducing stigma & decreasing loneliness for patients, group therapy wo
 
 ## Case 2: Building Block 2
 
-Tech Career Path and Job Advice
+Tech Career Path and Job Advice.
+Primitives: Career, Technology Industry, Software Engineers
 
 A platform for Software Engineers(ICs) to get career ladder training for their career progression. 
 
@@ -1073,7 +1079,7 @@ The number of software engineers has grown 185% and hit 2.3M in 2023. Despite al
 3. Defining a minimal viable user segment
 4. Understanding your customer
 5. Asking the right questions
-6.
+6. 
 7.
 8.
 9.
@@ -1083,8 +1089,11 @@ The number of software engineers has grown 185% and hit 2.3M in 2023. Despite al
 
 # References
 - Urgency vs Importance
-
+- Reality Distortion Field
+- Intellectual Honesty
 
 
 ## Notes
 - https://maven.com/taro/senior-to-staff
+
+YC - University, Investment Fund, Software Business
