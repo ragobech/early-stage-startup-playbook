@@ -55,7 +55,7 @@ I'm particulary interested in the advancement of human potential and condition. 
 
 I provide you an introduction to what I feel is the best way to see the future. It is to experience and create it using your unique knowledge, experience and strengths. It is not enough to build something, it is to build it knowing you existed and particpiated in it. 
 
-My goal for this book is for you to develop a concrete set of mental models to take your early stage idea, validate if it's viable and develop steps to implement it.
+My goal for this book is for you to develop a concrete set of mental models to take your early stage idea, validate if it's viable and develop steps to implement it, quickly.
 
 But first we need to start with definitions: 
 
@@ -75,7 +75,7 @@ But first we need to start with definitions:
 - How to build products with limited resources
 
 ## Windows of Opportunity
-You need to develop systems to
+You need to develop systems to resolve the problems you have 
 
 ## Problem Space
 - The problem space is a virtual space where a unique set of triggers {x, y....} cause a pain point {z} that lead to a problem {p} that are uniquely defined by characteristics  {a, b, c....}
@@ -98,10 +98,10 @@ Problem Space - Customer - Google
 
 Problem Space - Lens
 - Trigger: An entrepreneur wants to understand more information about a market
-- Pain Point: I need to find information
+- Pain Point: I need to find information on something specific and finding it is very difficult and time consuming.
 - Problem: I want to know if this information fits this criteria and get peoples opinions
 - Solution:
-    - The community gets incentives for controbitnuting answers 
+    - The community gets incentives for controbitnuting answers to a lens.
 
 1. Create lens
 - create
@@ -600,6 +600,10 @@ Priority. I prioritize my sleep, as a result, I highly prioritize buying a valua
 ## It's not money, it's value currency.
 
 Value currency is a way for your customers to tell you that what you're doing creates value for them. People and Companies preserve and make conscious decisions about value currency because it ensures their survival and they utilize it to obtain a higher return for the future.
+
+Value currency has contextual information in it about priority of pain point for the customer.
+
+
 
 What do customers do with value currency?
 
@@ -1229,7 +1233,7 @@ Problem - Cloud Overspending
 - https://maven.com/taro/senior-to-staff
 
 YC - University, Investment Fund, Software Business
-I won't release this book until I build osmething that customers want.
+I won't release this book until I build something that customers want.
 
 
 1. If there are 10 customers in the world, how do businesses understand those customer problems?
@@ -1242,11 +1246,69 @@ Lens:
 3- Make them vocal and evangelize
 
 
-Use Reddit and Twitter to Retrieve 10 lens each
+Use Reddit and Twitter to Retrieve 10 lens each with High Demand?
+
+Ranked by highest demand first
+- Communities
+- 
 
 Reddit
-
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
 
 
 
 Twitter
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+
+
+Youtube
+1. Georgeous womens
+
+
+Top: 0-1 employees making revenue on their company.
+
+Jeff Bezos leveraged this largely ignored financial metric to grow Amazon into the BEHEMOTH it is today w/ <$10MM venture capital raised.
+
+~Cash Conversion Cycle~ (CCC)
+
+First, understand that there are 3 types of CCC scenarios for any biz:
+
+1. Most common: You spend money (expenses) before you make money (revenues).
+
+2. Unusual: You spend money at the same time that you make money.
+
+3. The Holy Grail: You spend money AFTER you make money.
+
+Unsurprisingly, Amazon falls into bucket #3.
+
+They get cash from customers BEFORE they have to pay their suppliers.
+
+This is called “negative cash conversion cycle”, and it’s the holy grail of cashflow.
+
+When you pay your suppliers after you get paid by customers, you can use that short-term surplus of cash to reinvest back into growth.
+
+And that’s exactly the reason Amazon was able to grow so fast with such little venture capital raised. It’s GENIUS.
+
+So remember… the shorter your cash conversion cycle, the better.
+
+Here’s how you can calculate it for your own business:
+
+CCC = Days of Sales Outstanding + Days of Inventory Outstanding - Days of Payables Outstanding.
