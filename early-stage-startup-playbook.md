@@ -70,22 +70,16 @@ But first we need to start with definitions:
 - A way to built to solve a need or problem provided to the end user or customer.
 - Products are means to an end and a conduit to the end user to help them fulfill their need
 
-
 ## Choices in Scarcity
 - What choices do people make in the act of scarcity?
 - How to build products with limited resources
 
-
 ## Windows of Opportunity
 You need to develop systems to
 
-
 ## Problem Space
 - The problem space is a virtual space where a unique set of triggers {x, y....} cause a pain point {z} that lead to a problem {p} that are uniquely defined by characteristics  {a, b, c....}
-
 - Understanding & Observing the Unique Problem Space You're in.
-
-
 
 
 ## Solution Space
@@ -109,15 +103,16 @@ Problem Space - Lens
 - Solution:
     - The community gets incentives for controbitnuting answers 
 
-1. Create  lens
+1. Create lens
 - create
 
 
 KPIs
 - new users
-- 
 
-
+- Consumer businesses(tarpit) - what good looks like
+- What the bar is?
+- Evangelizing
 - Generate Ideas
 - Obtain Feedback
 - Validate Idea
@@ -206,7 +201,6 @@ Make lens scarce
 Types of Lens
 
 
-
 Insight: A filtered lens from an experienced person is higher quality than a default list.
 - Who are they
 - What perspective do they have?
@@ -220,8 +214,6 @@ Category Introduction
 - Non-saturated
 
 Shoes is a good category
-
-
 2)
 3)
 4)
@@ -395,8 +387,8 @@ I have a list of 25 lens:
     12. Accountability network
     13. Woman CEOs
     14. Truth Lens about my company
-    15. 
-    16.
+    15. Small Cap - Most likely to be a billion dollar company 
+    16. Trends
     17.
     18.
     19.
@@ -614,7 +606,17 @@ What do customers do with value currency?
 ### 1. Spend on Necessities and Survival
 
 
-### 2. TBD
+### 2. Invest
+
+
+### 3. Research
+
+### 4. Make efficiencies to save time and money
+
+
+### 5. Distribution
+
+
 
 - I think we confuse value with value currency.
 - Things can have value but enough for customers to pay.
@@ -808,6 +810,23 @@ Here are some good an difficult questions:
 
 - What about your product that do your potential customers not realize they need?
 - 
+
+BUT
+
+Not all questions are the same - so introducing weighted questions will help one understand the importance of what it solves
+
+Scale of 0-1
+W
+0 - Non-important and Ambiguous
+1 - Doesn't 
+2 -
+3 -
+4 -
+5 - Asks a question if solved, will lead to value currency payment
+
+
+Assigning Weights to a s
+
 
 Product
 - Problem
@@ -1166,7 +1185,7 @@ The number of software engineers has grown 185% and hit 2.3M in 2023. Despite al
 ## Case 3: Building Block 3
 Search curated information through a Lens.
 
-Primitives: Search, Curation 
+Primitives: Search, Discovery, Curation 
 
 
 Problems:
@@ -1216,3 +1235,18 @@ I won't release this book until I build osmething that customers want.
 1. If there are 10 customers in the world, how do businesses understand those customer problems?
 
 Understanding the ecosystem and players
+
+Lens:
+1- Obfuscate information to the lens
+2- Find Lens that people find valuable
+3- Make them vocal and evangelize
+
+
+Use Reddit and Twitter to Retrieve 10 lens each
+
+Reddit
+
+
+
+
+Twitter
