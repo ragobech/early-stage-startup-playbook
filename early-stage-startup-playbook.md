@@ -59,8 +59,6 @@ I provide you an introduction to what I feel is the best way to see the future. 
 
 My goal for this book is for you to develop a concrete set of mental models to take your early stage idea, validate if it's viable and develop steps to implement it, quickly.
 
-But first we need to start with definitions: 
-
 ## Startups
 - An experiment being done before product market fit
     - Has this experiment been done before?
@@ -72,17 +70,17 @@ But first we need to start with definitions:
 - A way to built to solve a need or problem provided to the end user or customer.
 - Products are means to an end and a conduit to the end user to help them fulfill their need
 
-## Choices in Scarcity
-- What choices do people make in the act of scarcity?
-- How to build products with limited resources
+## Company
+- TBD
 
-## Windows of Opportunity
-You need to develop systems to resolve the problems you have 
+
+# The Start of the Journey
 
 ## Problem Space
 - The problem space is a virtual space where a unique set of triggers {x, y....} cause a pain point {z} that lead to a problem {p} that are uniquely defined by characteristics  {a, b, c....}
 - Understanding & Observing the Unique Problem Space You're in.
-
+These can be anything from pain points, desires, or jobs-to-be-done.
+- Who does the problem effect?
 
 ## Solution Space
 - The solution space is a virtual space where the charactersitics {a, b, c,...} are solved by a solution S {j,k,l.....}
@@ -109,6 +107,14 @@ Problem Space - Lens
 - create
 
 
+## Choices in Scarcity
+- What choices do people make in the act of scarcity?
+- How to build products with limited resources
+
+## Windows of Opportunity
+You need to develop systems to resolve the problems you have 
+
+
 KPIs
 - new users
 
@@ -133,7 +139,7 @@ But, you may ask, why am I deserving to write in this topic? What is inquien abo
 TL;DR: Build things that customers want, better than anyone else. 
 
 ## What do customers want?
-- caring about poeple
+Understanding the problem domain and what customers want is one of the hardest parts of starting a business. 
 
 ## Identifying Opportunities
 The Types of Opportunities
@@ -605,20 +611,16 @@ Value currency is a way for your customers to tell you that what you're doing cr
 
 Value currency has contextual information in it about priority of pain point for the customer.
 
-
-
 What do customers do with value currency?
+
 
 ### 1. Spend on Necessities and Survival
 
-
-### 2. Invest
-
+### 2. Invest for the future
 
 ### 3. Research
 
 ### 4. Make efficiencies to save time and money
-
 
 ### 5. Distribution
 
@@ -1283,6 +1285,7 @@ Twitter
 
 Youtube
 1. Georgeous womens
+2. Bootstrapped startup founders
 
 
 Top: 0-1 employees making revenue on their company.
@@ -1314,3 +1317,14 @@ So remember… the shorter your cash conversion cycle, the better.
 Here’s how you can calculate it for your own business:
 
 CCC = Days of Sales Outstanding + Days of Inventory Outstanding - Days of Payables Outstanding.
+
+
+Exactly what problem will this solve? Value proposition.
+For whom do we solve that problem? Target market.
+How big is the opportunity? Market size.
+How will we measure success? Metrics.
+What alternatives are out there now? Competitive landscape.
+Why are we best suited to pursue this? Unique differentiator.
+Why now? Timing.
+How will we get this product to market? Go-to-market strategy.
+What factors are critical to success? Solution requirements.
