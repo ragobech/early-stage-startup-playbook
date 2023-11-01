@@ -55,6 +55,8 @@ I'm particulary interested in the advancement of human potential and condition. 
 
 I provide you an introduction to what I feel is the best way to see the future. It is to experience and create it using your unique knowledge, experience and strengths. It is not enough to build something, it is to build it knowing you existed and particpiated in it. 
 
+My goal for this book is for you to develop a concrete set of mental models to take your early stage idea, validate if it's viable and develop steps to implement it.
+
 But first we need to start with definitions: 
 
 ## Startups
@@ -81,7 +83,9 @@ You need to develop systems to
 ## Problem Space
 - The problem space is a virtual space where a unique set of triggers {x, y....} cause a pain point {z} that lead to a problem {p} that are uniquely defined by characteristics  {a, b, c....}
 
-Understing & Observing the Unique Problem Space You're in.
+- Understanding & Observing the Unique Problem Space You're in.
+
+
 
 
 ## Solution Space
@@ -99,6 +103,19 @@ Problem Space - Customer - Google
     - The fastest and most relevant search to easily take human language keywords to display the business owners product page for the usr to find and purchase
 
 Problem Space - Lens
+- Trigger: An entrepreneur wants to understand more information about a market
+- Pain Point: I need to find information
+- Problem: I want to know if this information fits this criteria and get peoples opinions
+- Solution:
+    - The community gets incentives for controbitnuting answers 
+
+1. Create  lens
+- create
+
+
+KPIs
+- new users
+- 
 
 
 - Generate Ideas
@@ -684,7 +701,6 @@ Product/Service
 Success == Find qualified people that suffer from the problem your product solves and find enough value in YOUR product that they are willing to pay money to make their problem go away.
 
 That's your target market and product market fit(PMF).
-
 Finding PMF is EXTREMELY HARD.
 
 
@@ -1163,6 +1179,7 @@ Problems:
 
 
 ## Case 4: Building Block 4
+Problem - Cloud Overspending
 
 
 ## Case 5: Building Block 5
@@ -1193,7 +1210,6 @@ Problems:
 - https://maven.com/taro/senior-to-staff
 
 YC - University, Investment Fund, Software Business
-
 I won't release this book until I build osmething that customers want.
 
 
