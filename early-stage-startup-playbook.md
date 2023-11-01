@@ -467,11 +467,11 @@ The known market is the market that you have
 ## Signal vs Noise
         - Signals tell you positive and negatives things about the information you need on what you're building
         - The Reality of the situation is data that you require to make full judgements about your business does not exist
-        - Information and data will be incomplete, skewed, misprespsnative
-        - What to do to get successful signals
+    - Information and data will be incomplete, skewed, misprespsnative
+    - What to do to get successful signals
 ## Noise
-        -  Be aware of what information is noise and does not matter ot what you're building...you can easily interpret a wrong fact or figure to negativitely influence your decisions
-        -  Noise comes form possible competitors, etc.
+    -  Be aware of what information is noise and does not matter ot what you're building...you can easily interpret a wrong fact or figure to negativitely influence your decisions
+    -  Noise comes form possible competitors, etc.
     - The Minimal Viable Segments
     - Failing 
 
@@ -479,6 +479,11 @@ The known market is the market that you have
     - A Market is simply the aggregate of buyers and sellers. If you co-located everyone and everything in the world into one location and each station was selling a product/service, you would have all the markets in the world together.  But because the world is much more complex than this, there is a push and pull of market dynamics.
     - Markets 
     - It is much easier and simpler to take an existing market  and segment itThe market you choose to enter 
+
+
+## Types of Markets
+- Regulated Market
+
 
 ## Buyers
     Can you think about the last ten things you bought? Why did you buy them...I'll give you an example (B2C)
@@ -531,11 +536,9 @@ Do not build until you validate. You will save money and time doing things that 
         - Value Based
 
 ## Determining the value of your product to your potential customer
-    - When you value something, you consider it important, worthwhile, something to possess
-    - When people determine the value of your product/service it is in relation to the specific problem you are solving and the characteristics involved with it..in other words the WHY? Why is it valuable?
-    - Does your product save people time? How much time? If people value their time, they will value the thing that protects and saves their time.
-    - Time: Value - ratio - if you save me 1x time here, and I have the potential to generate 5x revenue by saving my time to do something that accomplishes Y, I value that
-    - I find that related to the worth of my time plus the amount of potential reward. 
+
+When you value something, you consider it important, worthwhile, and something to possess. When people determine the value of your product/service it is in relation to the specific problem you are solving and the characteristics involved with it; in other words the WHY? Why is it valuable? Does your product save people time? How much time? If people value their time, they will value the thing that protects and saves their time.
+Value substituation is important and the time to value ratio. Time: Value - ratio - if you save me 1x time here, and I have the potential to generate 5x revenue by saving my time to do something that accomplishes Y, I value that tremendously. I find that related to the worth of my time plus the amount of potential reward. 
 
     - Value has a trigger
     - Value is relative
@@ -578,7 +581,7 @@ Do not build until you validate. You will save money and time doing things that 
 I hate to say it but your customers don't want your product. They never did. The fact that they have to come to your website, create their accounts, sign in...etc. It's a hassle. A product or service is a means to an end. Your customer or users just want to meet their goals or objectives. Many product builders and founders get caught up in how smart they think they are. At the end of the day, the customer/user just cares about getting a certain job done or achieving their goal. Help them do that in the most easiest and cost effective way possible and they will keep coming back.
 
 In describing the value you can bring to your users and customers, you should change your vocabulary on how you reference and describe them.
-At such an early stage your vaocabulyry should change to be within the customer context. For example:
+At such an early stage your vocabulary should change to be within the customer context. For example:
 - Fans want cheaper food and seats closer to their favourite player
 - Instead of ....we're changing the seating arrangements in the stadium to have players closer to their fans.
 
@@ -614,6 +617,10 @@ What triggers your customer to want to use your product?
 ## Skills to work on 
 
 Get good at asking extremely good questions at a rapid rate.
+
+A great question answered extremely well leads 
+A poor question leads one to a series of ambiguity, unanswered information and poor outcomes.
+
 Product/Service
 - 
 
@@ -727,6 +734,12 @@ Here are some good an difficult questions:
 
 - What about your product that do your potential customers not realize they need?
 - 
+
+Product
+- Problem
+- Curriculum of Courses on Career Laddering for ICs
+
+
 
 # Building your Sequence of Problems to Solve
 
@@ -1035,6 +1048,14 @@ On top of reducing stigma & decreasing loneliness for patients, group therapy wo
 
 ## Case 2: Building Block 2
 
+Tech Career Path and Job Advice
+
+A platform for Software Engineers(ICs) to get career ladder training for their career progression. 
+
+The number of software engineers has grown 185% and hit 2.3M in 2023. Despite all of this, software engineers don't have an industry standard to gauge their career progression.
+
+
+
 
 ## Case 3: Building Block 3
 
@@ -1061,7 +1082,8 @@ On top of reducing stigma & decreasing loneliness for patients, group therapy wo
 12.
 
 # References
-- tbd
+- Urgency vs Importance
+
 
 
 ## Notes
