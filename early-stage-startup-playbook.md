@@ -53,7 +53,7 @@ I'm particulary interested in the advancement of human potential and condition. 
 
 I provide you an introduction to what I feel is the best way to see the future. It is to experience and create it using your unique knowledge, experience and strengths. It is not enough to build something, it is to build it knowing you existed and particpiated in it. 
 
-But first we need to start with definitions 
+But first we need to start with definitions: 
 
 ## Startups
 - An experiment being done before product market fit
@@ -68,10 +68,15 @@ But first we need to start with definitions
 
 
 ## Choices in Scarcity
-
+- What choices do people make in the act of scarcity?
 - How to build products with limited resources
 
-Systems to
+
+## Windows of Opportunity
+
+
+You need to develop systems to
+
 - Generate Ideas
 - Obtain Feedback
 - Validate Idea
@@ -1097,3 +1102,5 @@ The number of software engineers has grown 185% and hit 2.3M in 2023. Despite al
 - https://maven.com/taro/senior-to-staff
 
 YC - University, Investment Fund, Software Business
+
+I won't release this book until I build osmething that customers want.
