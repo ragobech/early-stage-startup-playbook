@@ -79,7 +79,9 @@ You need to develop systems to
 
 
 ## Problem Space
-- tbd
+- The problem space is a virtual space where a unique set of triggers {x, y....} cause a pain point {z}
+
+
 
 ## Solution Space
 - tbd
@@ -347,32 +349,32 @@ Build and join lenses.
 
 The starting point
 
-    I have a list of 25 lens:
-        1. Successful startup companies that meet a certain criteria
-        2. Companies looking for investment
-        3. Companies that fit a certain criteria
-        4. Websites that get over x traffic
-        5. Bitcoin companies
-        6. Fraudulent companies
-        7. Futuristic companies
-        8. Job opportunities
-        9. B2B Companies that offer a specific service
-        10. Franchise companies
-        11. Entrepeneurs
-        12. Accountability network
-        13. Woman CEOs
-        14. Truth Lens about my company
-        15. 
-        16.
-        17.
-        18.
-        19.
-        20.
-        21.
-        22.
-        23.
-        24.
-        25.
+I have a list of 25 lens:
+    1. Successful startup companies that meet a certain criteria
+    2. Companies looking for investment
+    3. Companies that fit a certain criteria
+    4. Websites that get over x traffic
+    5. Bitcoin companies
+    6. Fraudulent companies
+    7. Futuristic companies
+    8. Job opportunities
+    9. B2B Companies that offer a specific service
+    10. Franchise companies
+    11. Entrepeneurs
+    12. Accountability network
+    13. Woman CEOs
+    14. Truth Lens about my company
+    15. 
+    16.
+    17.
+    18.
+    19.
+    20.
+    21.
+    22.
+    23.
+    24.
+    25.
 
 ## How it works
 
@@ -572,9 +574,17 @@ Some people value different things about a mattress
 Time-bound: The value I put on my current bed is 2-3 yrs until I need to get a new one.
 Priority. I prioritize my sleep, as a result, I highly prioritize buying a valuable bed because the consequneces of sleeping poorly or not enough has implications to my well being the next day.
      
-It's not money, it's value currency.
+## It's not money, it's value currency.
 
-- Value Currency is a way for your customers to tell you that what you're doing creates value for them.
+Value currency is a way for your customers to tell you that what you're doing creates value for them. People and Companies preserve and make conscious decisions about value currency because it ensures their survival and they utilize it to obtain a higher return for the future.
+
+What do customers do with value currency?
+
+### 1. Spend on Necessities and Survival
+
+
+### 2. TBD
+
 - I think we confuse value with value currency.
 - Things can have value but enough for customers to pay.
 
@@ -1124,6 +1134,18 @@ The number of software engineers has grown 185% and hit 2.3M in 2023. Despite al
 
 
 ## Case 3: Building Block 3
+Search curated information through a Lens.
+
+Primitives: Search, Curation 
+
+
+Problems:
+- Do people find value in curated information on a topic?
+- What are the types of Lenses?
+    - Curated Information
+    - Filter the quality of Information
+- TBD
+
 
 
 ## Case 4: Building Block 4
