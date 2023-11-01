@@ -580,6 +580,10 @@ It's not money, it's value currency.
 
 Value without currency is not anyhting.
 
+## Inflections
+- Regulatory
+- Cultural
+- Technology
 
 
 3) The Company
