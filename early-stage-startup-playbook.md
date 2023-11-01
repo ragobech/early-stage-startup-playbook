@@ -61,7 +61,25 @@ But first we need to start with definitions
 - It has a solution hypothesis: if you've successfully identified the problem, it is a guess of what you think the solution to the problem is.
 
 ## Product/Service
-- A way to solve a need or problme
+- A way to built to solve a need or problem provided to the end user or customer.
+-    
+-      
+- 
+- 
+- 
+
+## Choices in Scaracity
+
+- How to build products with limited resources
+
+Systems to
+- Generate Ideas
+- Obtain Feedback
+- Validate Idea
+- Communicate the Idea
+- Validate the Idea
+- Build the Idea
+- Close a paying customer
 
 This will be a success if
 - A and B and C and D and E and F are true
@@ -104,7 +122,12 @@ Success breeds specificity and Failure gets invalidated quicker.
 Example for Lens.app
 
 1) Finding 
-Customer: 
+1. Customer: Who is the customer and what do you know about them?
+
+2. In one sentence what do you do?
+
+
+
 Idea: Getting an organized point of view from someone
 Why is this important:
     - Points of view from people take time to build and materialize and not comprehensive, and can be incomplete
@@ -140,6 +163,15 @@ Insight: A filtered lens from an experienced person is higher quality than a def
 - Who are they
 - What perspective do they have?
 - What can I get from them?
+
+
+Category Introduction
+- Niche Vertical
+- Value in Curation
+- Rising / Trending
+- Non-saturated
+
+Shoes is a good category
 
 
 2)
@@ -567,6 +599,8 @@ Identify Small Experiment. Ship. Learn. Repeat.
 
 
 
+## Time in Startups is not Equal
+- How you should think about the time you spend working on things.
 
 
 ## Customer Obsession
@@ -577,10 +611,9 @@ What triggers your customer to want to use your product?
 
 
 
-# Skills to work on 
+## Skills to work on 
 
 Get good at asking extremely good questions at a rapid rate.
-
 Product/Service
 - 
 
@@ -599,7 +632,7 @@ If one had asked me that question early in my career, I would be lost for an ans
 
 
 ## Tough questions:
-
+- What do you do?
 - Are you building something that someone wants?
 - Are you building something that someone will pay for?
 - Is there enough people willing to pay for your product/service to make it a sustainable business?
@@ -609,39 +642,59 @@ If one had asked me that question early in my career, I would be lost for an ans
 - Is your user adoption metrics predictable?
 - Is your revenue predictable?
 - What about your business gives it staying power for the next 10 years?
+- What set of choices will you make that are differebt from the players in the market?
 
 
-## What not to do
+
+## What Not to do
 - Build things that people don't want
 - Spend too much time building things without feedback from your end users
+- Make assumptions about things without getting data 
 - Make assumptions about things without getting insights
 - Spending too much time in your head 
+- Be ambigious or unclear in your statements and reasoning
+
+## Tangible
+- Find a person that fits your target userbase and talk to them as soon as possible
+- Develop a set of questions to ask them to better your understanding.
+- Making High Quality Decisions fast and early.
 
 
-Making High Quality Decisions fast and early.
 
 ## Where businesses get created:
 - Human Survival
-- Resource Extraction
-- Protection
-- Physical Security
+    - Housing
+    - Physical Security    
+    - Employment
+    - Food
+    - Clothing
+    - Healthcare
 - Advancement in Human Potential
+    - Education
+    - Fitness/exercise
+- Amplify the Human Experience
+    - Leisure
+    - Art 
+    - Fashion
+    - Travel
+- Advancement in Social Status
+    - Luxury
+- Resource Extraction
 - Beauty
-- Education
 - Advancement in Efficiency
-- Amplify the human experience
-- Sport
 - Entertainment
-- Leisure
-- Art 
-- Advancement in social Status
+    - Sport
+- Commerce
+- Transportation
+    - Automobile
+- Insurance
+- Financial Services
 
 ## Business
 - After there is product-market-fit, there is a business
 - A product built that serves a customer that is willing to pay
 
 ## Company
-- 
 
 
 1. Startups are hard because you are creating things from scratch that hasn't been done before and the path to doing so is not clear and straight forward.
@@ -666,14 +719,19 @@ Making High Quality Decisions fast and early.
 6. Uniquely well
     - What do you and your team possess that you feel only you can build?
 
-Asking the right questions...
+## Asking the right questions...
 
-A good question, well formed can 
+A good question, well formed can advance and filter your solution to a problem
 
-Here are some good an ddifficult questions:
+Here are some good an difficult questions:
 
 - What about your product that do your potential customers not realize they need?
 - 
+
+# Building your Sequence of Problems to Solve
+
+->Identify a Segment
+-> 
 
 # Ownership and Accountability
 - You are kidding yourself if you ask somoene who didn't found the company and who doesn't have signifcant quity in the cmopany to care through a certain point about hte company
@@ -737,7 +795,7 @@ Do you have what it takes to start and build a company?
 - Run out of motivation
 
 # Founders
-- The individuals that build the company have a vision of the future. Building a product and business is a way to create the future. When you look at the successful founders of our generation, they possess a unique set of skills and characteristics that have driven them to success in their 
+- The individuals that build the company have a vision of the future. Building a product and business is a way to create the future. When you look at the successful founders of our generation, they possess a unique set of skills and characteristics that have driven them to success in their market and industry
 - A unique insight about a market, product, customer that fills a gap 
 - Domain Expertise in the founder, why is this founder the right person to be solving this problem?
 - For the future to become reality, a number of "Ands" must usually come to fruitiion in order for your successful outcome to materialize.
@@ -804,7 +862,7 @@ Ways to test
 - I want to make money
 - ego or prestige
 - lack of opportunities
-- 
+- its the cool thing to do
 
 
 ## Urgency vs Importance
@@ -853,8 +911,8 @@ Founders
 
 
 Founders basically have to do everything at the beginning: 
-- Product
-- Sales 
+- Drive Product strategy and vision
+- Make Sales & Revenue
 - Strategy 
 - Customer
 - Secure Funding
@@ -925,6 +983,9 @@ Helping customers: increasing revenue, lowering costs, reducing risk, or helping
 10. Series F
 11. IPO
 
+
+# Why are building abusinesses hard? Does it need to be?
+- tbd
 
 # Making Impact
 - Negative Impact - people doing things that negatively impact the company and go in the wrong direction
@@ -1001,3 +1062,7 @@ On top of reducing stigma & decreasing loneliness for patients, group therapy wo
 
 # References
 - tbd
+
+
+## Notes
+- https://maven.com/taro/senior-to-staff
