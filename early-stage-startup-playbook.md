@@ -540,19 +540,19 @@ Do not build until you validate. You will save money and time doing things that 
 When you value something, you consider it important, worthwhile, and something to possess. When people determine the value of your product/service it is in relation to the specific problem you are solving and the characteristics involved with it; in other words the WHY? Why is it valuable? Does your product save people time? How much time? If people value their time, they will value the thing that protects and saves their time.
 Value substituation is important and the time to value ratio. Time: Value - ratio - if you save me 1x time here, and I have the potential to generate 5x revenue by saving my time to do something that accomplishes Y, I value that tremendously. I find that related to the worth of my time plus the amount of potential reward. 
 
-    - Value has a trigger
-    - Value is relative
-    - Value is subjective
-    - Value is time-bound
-    - Value has priority
+- Value has a trigger
+- Value is relative
+- Value is subjective
+- Value is time-bound
+- Value has priority
 
-    - Example: A bed is valuable. Provides comfort while I sleep.
+- Example: A bed is valuable. Provides comfort while I sleep.
 
-    Trigger: I need to sleep every night.
-    Sleeping on a nice comfy bed is highly valuable than going to a park. 
-    Some people value different things about a mattress
-    Time-bound: The value I put on my current bed is 2-3 yrs until I need to get a new one.
-    Priority. I prioritize my sleep, as a result, I highly prioritize buying a valuable bed and de-prioritize other things.
+Trigger: I need to sleep every night.
+Sleeping on a nice comfy bed is highly valuable than going to a park. 
+Some people value different things about a mattress
+Time-bound: The value I put on my current bed is 2-3 yrs until I need to get a new one.
+Priority. I prioritize my sleep, as a result, I highly prioritize buying a valuable bed because the consequneces of sleeping poorly or not enough has implications to my well being the next day.
      
 3) The Company
     - Why build a company?
