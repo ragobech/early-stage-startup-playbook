@@ -18,6 +18,8 @@ By: Chris Ragobeer
 1. [Introduction](#introduction)
 2. [The Idea - Back to Basics](#basic)
 3. [We are similar but we are different.](#similar)
+5. [Problem Space](#problem)
+6. [Solution Space](#solution)
 4. [Identifying Opportunities](#third-example)
 5. [Defining the mission](#third-example)
 6. [Identifying Early Demand](#third-example)
@@ -73,9 +75,15 @@ But first we need to start with definitions:
 
 
 ## Windows of Opportunity
-
-
 You need to develop systems to
+
+
+## Problem Space
+- tbd
+
+## Solution Space
+- tbd
+
 
 - Generate Ideas
 - Obtain Feedback
@@ -95,7 +103,7 @@ But, you may ask, why am I deserving to write in this topic? What is inquien abo
 TL;DR: Build things that customers want, better than anyone else. 
 
 ## What do customers want?
-
+- caring about poeple
 
 ## Identifying Opportunities
 The Types of Opportunities
