@@ -647,6 +647,8 @@ Success == Find qualified people that suffer from the problem your product solve
 
 That's your target market and product market fit(PMF).
 
+Finding PMF is EXTREMELY HARD.
+
 
 ## What makes you unique?
 
@@ -1038,6 +1040,37 @@ Helping customers: increasing revenue, lowering costs, reducing risk, or helping
 - hiring Committee
 - projects
 
+# The Future of Startups
+
+The future of building startups:
+
+- MVP speed (1x per month)
+- AI-accelerated
+- Superniche is the new niche
+- Community 1st, software 2nd
+- No-code 1st, some code 2nd
+- 10x more automated
+- Global teams, localized products
+- 95% dominated by solopreneurs and microentrepreneurs (teams less than 12)
+- Pop-up digital experiences (apps that only work on certain times)
+- Needs the marketing holy-trinity to hit escape velocity: 1. product/market fit, 2. content/market fit and 3. community/market fit 
+- Team is half robots 🤖, half humans 👨‍🦰 (cc 
+@youneedarobot
+)
+- Accelerated by "boring marketing" (cc 
+@boringmarketer
+)
+- Multiple revenue streams
+- Design matters. The bar is high
+- Partnered w/ creators (creators are the distribution)
+- Feels like a game (levels, status, badges, in-app currency, challenges, collectibles/items)
+- Purpose-driven moonshots: societal impact matters
+- Productized agencies to generate cashflow (ex design agency 
+@DispatchDesign
+)
+- Product studios become the norm
+- 99% of MVPs won't need VC
+
 # Conclusion
 
     Where do we go from here?
@@ -1112,3 +1145,8 @@ The number of software engineers has grown 185% and hit 2.3M in 2023. Despite al
 YC - University, Investment Fund, Software Business
 
 I won't release this book until I build osmething that customers want.
+
+
+1. If there are 10 customers in the world, how do businesses understand those customer problems?
+
+Understanding the ecosystem and players
