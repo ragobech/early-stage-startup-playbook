@@ -572,6 +572,16 @@ Some people value different things about a mattress
 Time-bound: The value I put on my current bed is 2-3 yrs until I need to get a new one.
 Priority. I prioritize my sleep, as a result, I highly prioritize buying a valuable bed because the consequneces of sleeping poorly or not enough has implications to my well being the next day.
      
+It's not money, it's value currency.
+
+- Value Currency is a way for your customers to tell you that what you're doing creates value for them.
+- I think we confuse value with value currency.
+- Things can have value but enough for customers to pay.
+
+Value without currency is not anyhting.
+
+
+
 3) The Company
     - Why build a company?
     - Building Companies are hard
