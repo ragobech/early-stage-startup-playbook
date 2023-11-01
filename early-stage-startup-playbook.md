@@ -13,6 +13,8 @@ By: Chris Ragobeer
 - Image 3 - The pool of Customers
 - Image 4 - The pool of Markets 
 - Image 5 - Known Market vs Unknown Market
+- Image 6 - Problem Space
+- Image 7 - Solution Space
 
 # Table of Contents
 1. [Introduction](#introduction)
