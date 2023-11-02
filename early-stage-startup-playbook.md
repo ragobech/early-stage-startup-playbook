@@ -85,6 +85,12 @@ These can be anything from pain points, desires, or jobs-to-be-done.
 ## Solution Space
 - The solution space is a virtual space where the charactersitics {a, b, c,...} are solved by a solution S {j,k,l.....}
 
+
+## Market Space
+
+- The market space is the set of all buyers and sellers in a specific Market
+
+
 Example:
 
 Problem Space - Customer - Google
@@ -1233,6 +1239,8 @@ Problem - Cloud Overspending
 - Intellectual Honesty
 
 
+Future Lens
+
 ## Notes
 - https://maven.com/taro/senior-to-staff
 
@@ -1257,8 +1265,8 @@ Ranked by highest demand first
 - 
 
 Reddit
-1.
-2.
+1. Canadian CEOs
+2. Canadian Founders
 3.
 4.
 5.
@@ -1328,3 +1336,9 @@ Why are we best suited to pursue this? Unique differentiator.
 Why now? Timing.
 How will we get this product to market? Go-to-market strategy.
 What factors are critical to success? Solution requirements.
+
+Primitives
+- Internet
+- Mobile
+- Connectivity
+- 
