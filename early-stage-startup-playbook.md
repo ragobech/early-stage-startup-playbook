@@ -87,8 +87,20 @@ These can be anything from pain points, desires, or jobs-to-be-done.
 
 
 ## Market Space
-
 - The market space is the set of all buyers and sellers in a specific Market
+
+
+
+Determining how big the market is for your product
+
+The market determination is more of an art than a science Coming up with a market to determine how big the market it is today as well as how it will grow in the future is challenging depend on who you ask. 
+
+
+
+## Consumer vs. Business
+
+
+
 
 
 Example:
@@ -114,7 +126,7 @@ Problem Space - Lens
 
 
 ## Choices in Scarcity
-- What choices do people make in the act of scarcity?
+- What choices do people make in the act of scarcity? What do they prioritize?
 - How to build products with limited resources
 
 ## Windows of Opportunity
@@ -611,9 +623,9 @@ Some people value different things about a mattress
 Time-bound: The value I put on my current bed is 2-3 yrs until I need to get a new one.
 Priority. I prioritize my sleep, as a result, I highly prioritize buying a valuable bed because the consequneces of sleeping poorly or not enough has implications to my well being the next day.
      
-## It's not money, it's value currency.
+## It's not money, you should think about the currency of value.
 
-Value currency is a way for your customers to tell you that what you're doing creates value for them. People and Companies preserve and make conscious decisions about value currency because it ensures their survival and they utilize it to obtain a higher return for the future.
+The currency of value is a way for your customers to tell you that what you're doing creates value for them. People and Companies preserve and make conscious decisions about the currency of value because it ensures their survival and they utilize it to obtain a higher return for the future.
 
 Value currency has contextual information in it about priority of pain point for the customer.
 
@@ -630,6 +642,9 @@ What do customers do with value currency?
 
 ### 5. Distribution
 
+### 6. Spend it on Cost of Doing Business
+
+
 
 
 - I think we confuse value with value currency.
@@ -641,6 +656,16 @@ Value without currency is not anyhting.
 - Regulatory
 - Cultural
 - Technology
+
+# Types of businesses
+- Lifestyle
+- Bootstrapped
+- Venture Scale Business 
+
+
+# Comparables
+- It's important to understand the comparables in the space. 
+
 
 
 3) The Company
