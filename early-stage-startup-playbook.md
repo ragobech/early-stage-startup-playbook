@@ -875,17 +875,37 @@ Top Established Audiences
 2. People who play console games
 3. People who buy crypto currencies to make money
 4. Entrepeneurs and Founders
+5. Homeowners 
+6. Shopify Merchants
+7. 
+8.
+9.
+10.
+
+
+Building a business vs. Building a business exceptionally well
+
+
+
+
+Traction Tests
+- 1 customer saying they will pay for it
+- paying 0.01 for it
+- 
+
+How do I train a Chris Ragobeer Feedback
+
 
 
 
 Rank Audiences you want to pursue (B2B)
-1.   VP Eng + CTO
-2. 
-3. 
-4.  
-5. 
-6. 
-7. 
+1.  VP Eng + CTO
+2.  Engineering Managers
+3.  Investors 
+4.  Product Managers
+5.  Engineers
+6.  CEO
+7.  Founder
 8. 
 9. 
 10. 
