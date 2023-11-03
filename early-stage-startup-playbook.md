@@ -105,15 +105,19 @@ The market determination is more of an art than a science Coming up with a marke
 
 
 ### Business
-1. Prioritize building an audience
-2. Start by understanding your audience's actual needs
+1. Prioritize building building for a customer
+2. Start by understanding your customer's actual needs
 3. Establish a unique voice & be authentic
 4. Go out of your way to deliver value
 
 
 I'm willing to pay currency value because
 - I have higher priority jobs to do
-- it allows me to do the thing I'm doing with more efficiency so that I can do more of it
+- It allows me to do the thing I'm doing with more efficiency so that I can do more of it
+- I need it to conform to a regulatory requirement
+- Be part of a community
+- Be part of an experience
+
 
 
 
@@ -676,8 +680,7 @@ What do customers do with value currency?
 ### 6. Spend it on Cost of Doing Business
 
 
-
-
+- 
 - I think we confuse value with value currency.
 - Things can have value but enough for customers to pay.
 
@@ -812,6 +815,24 @@ If one had asked me that question early in my career, I would be lost for an ans
 - Develop a set of questions to ask them to better your understanding.
 - Making High Quality Decisions fast and early.
 
+The Seven Buying Reasons
+
+They buy to:
+
+- To make more money – think investment advice or business coaching
+- To feel better – think massage, medical services
+- To have better relationships – think counseling or personal development work
+- To save time or to improve performance – A lot of business decisions are based on this especially if you are a solo operator. I outsource a fair amount because it’s more efficient to save my time for money generating activities
+- To experience – think holidays, extreme sports or luxury goods.
+- To look better – this could be to physically look better or it could be related to status.
+- To protect themselves – this could be preventative health measures or a service such as insurance.
+
+- 
+- 
+- 
+- 
+- 
+-  
 
 
 ## Where businesses get created:
@@ -843,12 +864,81 @@ If one had asked me that question early in my career, I would be lost for an ans
 - Insurance
 - Financial Services
 
+What is the _urgent problem_ that I'm _solving_ for _businessowners_ that they are willing to _payfor_
+- Feedback
+- Market Research
+
+Rank Audiences you want to pursue (B2C)
+Top Established Audiences
+
+1. People who play online games
+2. People who play console games
+3. People who buy crypto currencies to make money
+4. Entrepeneurs and Founders
+
+
+
+Rank Audiences you want to pursue (B2B)
+1.   VP Eng + CTO
+2. 
+3. 
+4.  
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+
+
+1. Entreprenerus and Foudners - What they pay for
+
+
+1. Pick an audience
+2. Document what they pay for in priority and why
+3. Find something to offer them with higher value to substitute or complement what they're already paying for.
+
+
+
+
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+
+
+
+
+
+
+User lattice
+- Home Owner
+
+- Paying Lattice
+
+- Mortgage - P1
+- Repairs - P1
+- Heating/Cooling - P1
+- Plumbing - P0
+
+
+
+PAying for
+
+
+{$your product$, a, b, c, d, e, f,}
+
 ## Business
 - After there is product-market-fit, there is a business
 - A product built that serves a customer that is willing to pay
 
 ## Company
-
 
 1. Startups are hard because you are creating things from scratch that hasn't been done before and the path to doing so is not clear and straight forward.
 2. Startups fail because the people operating and involved with them sometimes do not have the same goals, motivaitons and intentions
@@ -879,7 +969,8 @@ A good question, well formed can advance and filter your solution to a problem
 Here are some good an difficult questions:
 
 - What about your product that do your potential customers not realize they need?
-- 
+
+- "How upset would you be if we took away the product from you after using it?"
 
 BUT
 
