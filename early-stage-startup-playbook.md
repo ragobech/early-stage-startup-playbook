@@ -89,8 +89,6 @@ These can be anything from pain points, desires, or jobs-to-be-done.
 ## Market Space
 - The market space is the set of all buyers and sellers in a specific Market
 
-
-
 Determining how big the market is for your product
 
 The market determination is more of an art than a science Coming up with a market to determine how big the market it is today as well as how it will grow in the future is challenging depend on who you ask. 
@@ -99,8 +97,18 @@ The market determination is more of an art than a science Coming up with a marke
 
 ## Consumer vs. Business
 
+### Consumer
+1. Prioritize building an audience
+2. Start by understanding your audience's actual needs
+3. Establish a unique voice & be authentic
+4. Go out of your way to deliver value
 
 
+### Business
+1. Prioritize building an audience
+2. Start by understanding your audience's actual needs
+3. Establish a unique voice & be authentic
+4. Go out of your way to deliver value
 
 
 Example:
@@ -425,7 +433,23 @@ I have a list of 25 lens:
     24.
     25.
 
+
+## Black vs White Fog
+
+Fog is when things aren't clear
+building a business the fog is black a 
+
+
 ## How it works
+
+Turn ideas to revenue
+
+- Your buyers who are not paying have the money to pay you, they just choose not to.
+-
+-
+-
+-
+-
 
 
 ## Business model
