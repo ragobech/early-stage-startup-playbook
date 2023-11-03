@@ -111,6 +111,13 @@ The market determination is more of an art than a science Coming up with a marke
 4. Go out of your way to deliver value
 
 
+I'm willing to pay currency value because
+- I have higher priority jobs to do
+- it allows me to do the thing I'm doing with more efficiency so that I can do more of it
+
+
+
+
 Example:
 
 Problem Space - Customer - Google
