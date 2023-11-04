@@ -32,6 +32,7 @@ The last Startup book you'll have to buy with 100 problems to solve.
 9. [Focus](#focus)
 10. [Truth Board](#truthboard)
 11. [Internal Rating System](#rating)
+18. [Competition](#competition)
 12. [Unique Value Proposition](#uvp)
 13. [Market Timing](#market)
 14. [Sales](#pricing)
@@ -107,7 +108,7 @@ The market determination is more of an art than a science Coming up with a marke
 
 
 ### Business
-1. Prioritize building building for a customer
+1. Prioritize building for a customer
 2. Start by understanding your customer's actual needs
 3. Establish a unique voice & be authentic
 4. Go out of your way to deliver value
@@ -216,8 +217,6 @@ Example for Lens.app
 
 2. In one sentence what do you do?
 
-
-
 Idea: Getting an organized point of view from someone
 Why is this important:
     - Points of view from people take time to build and materialize and not comprehensive, and can be incomplete
@@ -280,10 +279,6 @@ Revenue - Profit = Cost
 
 ## Chunks of time / currency
 - Where's the best ROI / ROIC ?
-
-
-
-
 
 Quickly validate or invalidate your hypothesis
 
@@ -623,6 +618,14 @@ Do not build until you validate. You will save money and time doing things that 
 
 2) The Product
     - Why build a product?
+
+    Customer -> Product -> Customer Outcome
+
+    How well does your product solve the problem for a customer in order to get to their outcome?
+    Does it solve it 50%? 60%? 100%?
+    Don't lose sight of what your customer is trying to accomplisgh and how it solves their problem.
+
+
     - Product Market Fit vs Product Market Channel Fit
     - Iteration and Feedback Loops
     - Scarce resources
@@ -650,7 +653,7 @@ Value substituation is important and the time to value ratio. Time: Value - rati
 
 To determine value to your customer, you will need to understand how important and how urgent it is to them to resolve the problem and how your solution fits in.
 
-For a CEO of a SaaS company in the technology space, one could argue that their importance vs urgency matrix could look like the following
+For a **CEO** of a SaaS company in the technology space, one could argue that their importance vs urgency matrix could look like the following
 
 |
 |
@@ -660,18 +663,7 @@ For a CEO of a SaaS company in the technology space, one could argue that their 
 |_________________________
 Importance
 
-For a VP Engineering at a SaaS company in the technology space, one could argue that their importance vs urgency matrix could look like the following
-
-|
-|
-|
-|
-|
-|_________________________
-Importance
-
-
-For a engineer at a SaaS company in the technology space, one could argue that their importance vs urgency matrix could look like the following
+For a **VP Engineering** at a SaaS company in the technology space, one could argue that their importance vs urgency matrix could look like the following
 
 |
 |
@@ -682,8 +674,51 @@ For a engineer at a SaaS company in the technology space, one could argue that t
 Importance
 
 
+For a **Software engineer** at a SaaS company in the technology space, one could argue that their importance vs urgency matrix could look like the following
 
-For a investors at a SaaS company in the technology space, one could argue that their importance vs urgency matrix could look like the following
+|
+|
+|
+|
+|
+|_________________________
+Importance
+
+
+
+For a **Investors** at a SaaS company in the technology space, one could argue that their importance vs urgency matrix could look like the following
+
+|
+|
+|
+|
+|
+|_________________________
+Importance
+
+
+For a **Founders** at a SaaS company in the technology space, one could argue that their importance vs urgency matrix could look like the following
+
+|
+|
+|
+|
+|
+|_________________________
+Importance
+
+For a **DevOps** at a SaaS company in the technology space, one could argue that their importance vs urgency matrix could look like the following
+
+|
+|
+|
+|
+|
+|_________________________
+Importance
+
+
+For a **Product Leaders** at a SaaS company in the technology space, one could argue that their importance vs urgency matrix could look like the following
 
 |
 |
@@ -709,7 +744,6 @@ The currency of value is a way for your customers to tell you that what you're d
 Value currency has contextual information in it about priority of pain point for the customer.
 
 What do customers do with value currency?
-
 
 ### 1. Spend on Necessities and Survival
 
@@ -797,14 +831,10 @@ Identify Small Experiment. Ship. Learn. Repeat.
 ## Time in Startups is not Equal
 - How you should think about the time you spend working on things.
 
-
 ## Customer Obsession
 How are you going to get customers?
 What triggers your customer to want to use your product?
 - How frequent does your customer experience their problem that triggers the need for your product?
-
-
-
 
 ## Skills to work on 
 
@@ -870,13 +900,6 @@ They buy to:
 - To experience – think holidays, extreme sports or luxury goods.
 - To look better – this could be to physically look better or it could be related to status.
 - To protect themselves – this could be preventative health measures or a service such as insurance.
-
-- 
-- 
-- 
-- 
-- 
--  
 
 
 ## Where businesses get created:
@@ -989,7 +1012,7 @@ Idea 7:  For 100% of employees at Software SaaS companies, employee communicatio
 - this is what how i solve the problem: X
 
 
-Idea 8: For 50% of developers, they are not skllled enough and require training to reach 100% potential
+Idea 8: For 50% of software engineers, they are not skllled enough and require training to reach 100% potential
 - What do people do today: Thigns fail and are not getting the outcome that is required for the business
 - what if there was a better way: X 
 - this is what how i solve the problem: X
@@ -1024,8 +1047,6 @@ Business Urgency
 - Reducing Costs
 
 
-
-
 1. Entreprenerus and Founders - What they pay for
 
 
@@ -1046,10 +1067,6 @@ similiarity search
 8. 
 9. 
 10. 
-
-
-
-
 
 
 User lattice
@@ -1235,11 +1252,6 @@ Performance Based Projects
 - Identify your target market (the characteristics of your buyers) in 15 days
 - Identify what your buyers are doing right now and who they're going to - 5 days
 - Invalidate your idea in 30 days
-
-
-
-
-
 
 We try to do too many things as a founder, lack of identifying a concrete objective that matters and gets to the crux of the problem is a recipe for failure. In my opinion is better to take longer to get to a higher quality outcome than to take shortcuts and get to a lower quality outcome.
 
