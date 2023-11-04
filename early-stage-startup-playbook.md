@@ -592,6 +592,8 @@ The known market is the market that you have
     - My mortgage
     - A coffee
     - A gift
+    - Breakfast
+    - 
 
     (B2B)
 
@@ -607,7 +609,6 @@ Good data
 
 
 Bad data
-
 
 Do not build until you validate. You will save money and time doing things that aren't worth it.
 
@@ -655,6 +656,13 @@ Value substituation is important and the time to value ratio. Time: Value - rati
 To determine value to your customer, you will need to understand how important and how urgent it is to them to resolve the problem and how your solution fits in.
 
 For a **CEO** of a SaaS company in the technology space, one could argue that their importance vs urgency matrix could look like the following
+- Strategic Vision for Company
+- Company Culture
+- Hiring
+- Revenue Generation
+- Partnerships
+- Investor Relations
+- Publicity
 
 |
 |
@@ -665,6 +673,12 @@ For a **CEO** of a SaaS company in the technology space, one could argue that th
 Importance
 
 For a **CTO** of a SaaS company in the technology space, one could argue that their importance vs urgency matrix could look like the following
+- Technology Vision
+- Languages Cjhoices
+- Product Decisions
+- Hiring
+- System Design and Architecture
+-
 
 |
 |
