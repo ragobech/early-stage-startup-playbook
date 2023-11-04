@@ -16,6 +16,8 @@ By: Chris Ragobeer
 - Image 6 - Problem Space
 - Image 7 - Solution Space
 
+The last Startup book you'll have to buy with 100 problems to solve.
+
 # Table of Contents
 1. [Introduction](#introduction)
 2. [The Idea - Back to Basics](#basic)
@@ -63,7 +65,7 @@ My goal for this book is for you to develop a concrete set of mental models to t
 - An experiment being done before product market fit
     - Has this experiment been done before?
 - It has a problem hypothesis: it is a guess of what you think the problem your target set of users possess
-- It has a solution hypothesis: if you've successfully identified the problem, it is a guess of what you think the solution to the problem is.
+- It has a solution hypothesis: if you've successfully identified the problem, it is a guess of what you think the solution to the problem is. (Note: you will only know if the solution that you've built is the right when when you receive customer feedback and people are actually payinf for the product)
 - You have identified a customer and a user that solves a problem for them that the customer is willing to pay for.
 
 ## Product/Service
@@ -71,7 +73,7 @@ My goal for this book is for you to develop a concrete set of mental models to t
 - Products are means to an end and a conduit to the end user to help them fulfill their need
 
 ## Company
-- TBD
+A company is a group of people that sell a product or service for a profit.
 
 
 # The Start of the Journey
@@ -277,7 +279,6 @@ Revenue - Profit = Cost
 
 
 ## Chunks of time / currency
-
 - Where's the best ROI / ROIC ?
 
 
@@ -612,9 +613,6 @@ Good data
 Bad data
 
 
-
-
-
 Do not build until you validate. You will save money and time doing things that aren't worth it.
 
 2) The Customer
@@ -641,7 +639,7 @@ Do not build until you validate. You will save money and time doing things that 
 
 ## Determining the value of your product to your potential customer
 
-When you value something, you consider it important, worthwhile, and something to possess. When people determine the value of your product/service it is in relation to the specific problem you are solving and the characteristics involved with it; in other words the WHY? Why is it valuable? Does your product save people time? How much time? If people value their time, they will value the thing that protects and saves their time.
+When you value something, you consider it important, worthwhile, and something to possess. When people determine the value of your product/service it is in relation to the specific problem you are solving for your user and the characteristics involved with it; in other words the WHY? Why is it valuable? Does your product save people time? How much time? If people value their time, they will value the thing that protects and saves their time.
 Value substituation is important and the time to value ratio. Time: Value - ratio - if you save me 1x time here, and I have the potential to generate 5x revenue by saving my time to do something that accomplishes Y, I value that tremendously. I find that related to the worth of my time plus the amount of potential reward. 
 
 - Value has a trigger
@@ -649,6 +647,52 @@ Value substituation is important and the time to value ratio. Time: Value - rati
 - Value is subjective
 - Value is time-bound
 - Value has priority
+
+To determine value to your customer, you will need to understand how important and how urgent it is to them to resolve the problem and how your solution fits in.
+
+For a CEO of a SaaS company in the technology space, one could argue that their importance vs urgency matrix could look like the following
+
+|
+|
+|
+|
+|
+|_________________________
+Importance
+
+For a VP Engineering at a SaaS company in the technology space, one could argue that their importance vs urgency matrix could look like the following
+
+|
+|
+|
+|
+|
+|_________________________
+Importance
+
+
+For a engineer at a SaaS company in the technology space, one could argue that their importance vs urgency matrix could look like the following
+
+|
+|
+|
+|
+|
+|_________________________
+Importance
+
+
+
+For a investors at a SaaS company in the technology space, one could argue that their importance vs urgency matrix could look like the following
+
+|
+|
+|
+|
+|
+|_________________________
+Importance
+
 
 Example: A bed is valuable. Provides comfort while I sleep.
 
@@ -785,7 +829,7 @@ If one had asked me that question early in my career, I would be lost for an ans
 - What are you uniquely good at?
 - What are you exceptional at?
 - What is the one thing in this world that you're the best at?
-
+- Note, this a very important question because if you compete with peoppel in startups that are better than you in skill, expertise and knowledge, it will be hard for you to beat them. Understanding what you are uniquely good at puts YOU in the drivers seat and YOU with the unique advantage.
 
 ## Tough questions:
 - What do you do?
@@ -868,7 +912,14 @@ What is the _urgent problem_ that I'm _solving_ for _businessowners_ that they a
 - Feedback
 - Market Research
 
+Building a business vs. Building a business exceptionally well
+
+Traction Tests
+- 1 customer saying they will pay for it
+- paying 0.01 for it
+
 Rank Audiences you want to pursue (B2C)
+
 Top Established Audiences
 
 1. People who play online games
@@ -883,22 +934,7 @@ Top Established Audiences
 10.
 
 
-Building a business vs. Building a business exceptionally well
-
-
-
-
-Traction Tests
-- 1 customer saying they will pay for it
-- paying 0.01 for it
-- 
-
-How do I train a Chris Ragobeer Feedback
-
-
-
-
-Rank Audiences you want to pursue (B2B)
+Rank Customer Segments you want to pursue (B2B)
 1.  VP Eng + CTO
 2.  Engineering Managers
 3.  Investors 
@@ -906,12 +942,91 @@ Rank Audiences you want to pursue (B2B)
 5.  Engineers
 6.  CEO
 7.  Founder
-8. 
-9. 
-10. 
+8.  DevOps
+9.  Sales 
+10. Freelancers
+
+Idea 1: - Unemployed landing a new position -  B2C
+ - On average, 78% of people who are unemployed stay unemployed for over 6 months.
+ - what do people do today: they apply to jobs directly hoping for a response from as many companies they can connect with
+ - what if there was a better way: X 
+ - this is what how i solve the problem: X
+
+Idea 2: - University Graduates becoming proficient in new job - B2C
+ - On average, 90% of people who who finish a 4-year degree are not fully productive in a full-time role until 6-8 months of full-time work
+ - what do people do today: They use company time to learn the job and become proficient
+ - what if there was a better way: X 
+ - this is what how i solve the problem: X
+
+Idea 3: - Financial Failure in Divorces - B2C
+ - Men in x% of marriages that fail and end up in divorce, x% of these marriages don't have a prenuptial agreement causing financial ruin for individuals involved
+- what do people do today:
+- what if there was a better way: X 
+- this is what how i solve the problem: X
+
+Idea 4: Unskilled DevOps teams - B2B
+- DevOps teams lack experience which lead to inefficient operations and increased costs because devops isn't taught in school and large % of devops people suck
+- what do people do today: They waste time , costs and customer impacts by having an inefficient team
+- what if there was a better way: X 
+- this is what how i solve the problem: X
+
+Idea 5: Long Development Software Cycles - B2B
+- Problem: Creating software in the B2B requires a high R&D investment and leads to long software cycle to release the software. 
+- What do people do today: They take longer than required to release software that often doesn't meet expectations of customers.
+- what if there was a better way: X 
+- this is what how i solve the problem: X
+
+Idea 6:  Lack of Ownership in Processes and Execution of Employees - B2B
+- Problem:90% of employees that don't have ownership in the company do not take ownership and accountability of their work and outcomes.
+- What do people do today: Thigns fail and are not getting the outcome that is required for the business
+- what if there was a better way: X 
+- this is what how i solve the problem: X
 
 
-1. Entreprenerus and Foudners - What they pay for
+Idea 7:  For 100% of employees at Software SaaS companies, employee communication and collaboration in a remote environment is poor leading to 30% of additional costs.
+- What do people do today: Thigns fail and are not getting the outcome that is required for the business
+- what if there was a better way: X 
+- this is what how i solve the problem: X
+
+
+Idea 8: For 50% of developers, they are not skllled enough and require training to reach 100% potential
+- What do people do today: Thigns fail and are not getting the outcome that is required for the business
+- what if there was a better way: X 
+- this is what how i solve the problem: X
+
+Idea 9: For 90% of developers, they do not understand fully the value propsoition of the product they are working on that leads to poor decisions and churn in their work causing cost overruns and re-work.
+- What do people do today: Thigns fail and are not getting the outcome that is required for the business
+- what if there was a better way: X 
+- this is what how i solve the problem: X
+
+Idea 10: For small innnivoative teams, their process to innvoate is cumbersome which leads to increased costs and poor results. Also lacking expertise
+- What do people do today: Thigns fail and are not getting the outcome that is required for the business
+- what if there was a better way: X 
+- this is what how i solve the problem: X
+
+Idea 11: For small innnivoative teams, their process to innvoate is cumbersome which leads to increased costs and poor results. Also lacking expertise
+- What do people do today: Thigns fail and are not getting the outcome that is required for the business
+- what if there was a better way: X 
+- this is what how i solve the problem: X
+
+
+
+
+
+The harder the problem a startup is tackling, the stronger their competitive advantage and the more indispensable they become in their industry. Simple solutions are easily replicated, risking the startup’s position and success.
+
+Business Urgency
+- Make Revenue to survive
+- Grow Competitive Advantage in their product
+- Make products to sell
+- Retain Csutomers
+- Understanding Customer Problems
+- Reducing Costs
+
+
+
+
+1. Entreprenerus and Founders - What they pay for
 
 
 1. Pick an audience
@@ -919,7 +1034,7 @@ Rank Audiences you want to pursue (B2B)
 3. Find something to offer them with higher value to substitute or complement what they're already paying for.
 
 
-
+similiarity search
 
 1. 
 2. 
@@ -1360,9 +1475,6 @@ A platform for Software Engineers(ICs) to get career ladder training for their c
 
 The number of software engineers has grown 185% and hit 2.3M in 2023. Despite all of this, software engineers don't have an industry standard to gauge their career progression.
 
-
-
-
 ## Case 3: Building Block 3
 Search curated information through a Lens.
 
@@ -1508,4 +1620,4 @@ Primitives
 - Internet
 - Mobile
 - Connectivity
-- 
+- Good line: secret for moving fast at a startup: don't do tomorrow what could be done today
