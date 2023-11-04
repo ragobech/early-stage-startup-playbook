@@ -663,6 +663,26 @@ For a **CEO** of a SaaS company in the technology space, one could argue that th
 |_________________________
 Importance
 
+For a **CTO** of a SaaS company in the technology space, one could argue that their importance vs urgency matrix could look like the following
+
+|
+|
+|
+|
+|
+|_________________________
+Importance
+
+For a **COO** of a SaaS company in the technology space, one could argue that their importance vs urgency matrix could look like the following
+
+|
+|
+|
+|
+|
+|_________________________
+Importance
+
 For a **VP Engineering** at a SaaS company in the technology space, one could argue that their importance vs urgency matrix could look like the following
 
 |
