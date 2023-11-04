@@ -33,13 +33,12 @@ The last Startup book you'll have to buy with 100 problems to solve.
 9. [Focus](#focus)
 10. [Truth Board](#truthboard)
 11. [Internal Rating System](#rating)
-18. [Competition](#competition)
-12. [Unique Value Proposition](#uvp)
-13. [Market Timing](#market)
-14. [Sales](#pricing)
-15. [Pricing](#pricing)
-16. [Profitability](#profit)
-17. [Fundraising](#fundraising)
+12. [Competition](#competition)
+13. [Unique Value Proposition](#uvp)
+14. [Market Timing](#market)
+15. [Sales](#pricing)
+16. [Pricing](#pricing)
+17. [Profitability](#profit)
 18. [Case Studies](#cases)
 
 # About the Author
@@ -75,7 +74,7 @@ My goal for this book is for you to develop a concrete set of mental models to t
 - Products are means to an end and a conduit to the end user to help them fulfill their need
 
 ## Company
-A company is a group of people that sell a product or service for a profit.
+- A company is a group of people that sell a product or service for a profit.
 
 
 # The Start of the Journey
@@ -121,9 +120,6 @@ I'm willing to pay currency value because
 - I need it to conform to a regulatory requirement
 - Be part of a community
 - Be part of an experience
-
-
-
 
 
 Example:
@@ -324,7 +320,14 @@ What does it take to build something better than anyone else?
 - CRM Salesforce
 - Your favourite restaurant meal
 
-What does 
+
+
+- Passion
+- Grit
+- Skill
+- Perfection
+- Insight
+- Focus
 
 
 ## Defining the mission
@@ -441,6 +444,14 @@ I have a list of 25 lens:
     24.
     25.
 
+New Companies
+- Humans who want to build companies, often don't start with the right questions...if often starts with...
+- What good ideas do you have?
+- How cna I make a lot of money?
+
+Why are these poor questions? They are poor quetions because they are not anchored in what a customer problem and outcome is..they are anchored in what the founders outcome is, What can I do to make more money? What can I do to live a better life?
+
+
 
 ## Black vs White Fog
 
@@ -522,7 +533,9 @@ What fundmantel truths exist?
 
 
 ## What investors look for in founding teams
-3) Grit, Passion/Commmitment, Clear Path to Millions/Billions
+- Grit, 
+- Passion/Commmitment, 
+- Clear Path to Millions/Billions
 
 
 Priority of Problem Pain:
@@ -719,7 +732,9 @@ For a **Software engineer** at a SaaS company in the technology space, one could
 |_________________________
 Importance
 
-
+- Make Impact
+- Commit High Quality Code
+- 
 
 For a **Investors** at a SaaS company in the technology space, one could argue that their importance vs urgency matrix could look like the following
 
@@ -793,11 +808,10 @@ What do customers do with value currency?
 ### 6. Spend it on Cost of Doing Business
 
 
-- 
 - I think we confuse value with value currency.
 - Things can have value but enough for customers to pay.
 
-Value without currency is not anyhting.
+Value without currency is not a business.
 
 ## Inflections
 - Regulatory
@@ -860,8 +874,6 @@ Identify Small Experiment. Ship. Learn. Repeat.
 1. Task A can take 8 hours to do but solve 80% of the problem
 2. Task B can take 10 hours to do but solve 70% of the problem
 3. Task C can take 24 horus to do but solve only 25% of the problem
-
-
 
 ## Time in Startups is not Equal
 - How you should think about the time you spend working on things.
@@ -1040,7 +1052,6 @@ Idea 6:  Lack of Ownership in Processes and Execution of Employees - B2B
 - what if there was a better way: X 
 - this is what how i solve the problem: X
 
-
 Idea 7:  For 100% of employees at Software SaaS companies, employee communication and collaboration in a remote environment is poor leading to 30% of additional costs.
 - What do people do today: Thigns fail and are not getting the outcome that is required for the business
 - what if there was a better way: X 
@@ -1062,13 +1073,20 @@ Idea 10: For small innnivoative teams, their process to innvoate is cumbersome w
 - what if there was a better way: X 
 - this is what how i solve the problem: X
 
-Idea 11: For small innnivoative teams, their process to innvoate is cumbersome which leads to increased costs and poor results. Also lacking expertise
+Idea 11: 90% of new products have a problem with product distribution and getting exposure to a buyer. 
 - What do people do today: Thigns fail and are not getting the outcome that is required for the business
 - what if there was a better way: X 
 - this is what how i solve the problem: X
 
+Idea 12: Men suffering from mental health issues are often alone and don't have anyone to talk to leading to suicide and hurting themselves.
+- What do people do today: Thigns fail and are not getting the outcome that is required for the business
+- what if there was a better way: X 
+- this is what how i solve the problem: X
 
-
+Idea 13: Men suffering from mental health issues are often alone and don't have anyone to talk to leading to suicide and hurting themselves.
+- What do people do today: Thigns fail and are not getting the outcome that is required for the business
+- what if there was a better way: X 
+- this is what how i solve the problem: X
 
 
 The harder the problem a startup is tackling, the stronger their competitive advantage and the more indispensable they become in their industry. Simple solutions are easily replicated, risking the startup’s position and success.
@@ -1655,3 +1673,21 @@ Primitives
 - Good line: secret for moving fast at a startup: don't do tomorrow what could be done today
 
 The future is here, it is just unevenly distributed.
+
+
+
+1. Sites
+https://boringcashcow.com/browse
+What it does - discover businesses that generate revenue.
+
+
+
+Market dynamics
+- Actively: How many decisions are being made about solving your problem a year?
+- Passively:
+- Dead: 
+- Active buy
+
+
+1. Where to go to find people complaining about their problems?
+2. Live in the future, then build what's missing
