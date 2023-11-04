@@ -1,4 +1,5 @@
 # Building from scratch: Build things that customers want, better than anyone else. 
+# Bootstrapped your startup: Build things that customers want, better than anyone else.
 
 For teams of 0-5 people, building the new products and companies by leveraging your unique strengths.
 
@@ -1403,21 +1404,6 @@ Helping customers: increasing revenue, lowering costs, reducing risk, or helping
 2. The team Able to execute
 
 
-# Funding & Raising Money
-0. Bootstrap
-1. Friend and Family
-2. Angel
-3. Pre-Seed
-4. Seed
-5. Series A
-6. Series B
-7. Series C
-8. Series D
-9. Series E
-10. Series F
-11. IPO
-
-
 # Why are building abusinesses hard? Does it need to be?
 - tbd
 
@@ -1653,3 +1639,5 @@ Primitives
 - Mobile
 - Connectivity
 - Good line: secret for moving fast at a startup: don't do tomorrow what could be done today
+
+The future is here, it is just unevenly distributed.
