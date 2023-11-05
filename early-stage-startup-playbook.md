@@ -1,5 +1,4 @@
 # Building from scratch: Build things that customers want, better than anyone else. 
-# Bootstrapped your startup: Build things that customers want, better than anyone else.
 
 For teams of 0-5 people, building the new products and companies by leveraging your unique strengths.
 
@@ -16,7 +15,7 @@ By: Chris Ragobeer
 - Image 5 - Known Market vs Unknown Market
 - Image 6 - Problem Space
 - Image 7 - Solution Space
-
+0 Image 8 - Graph of ideas from start of time to end of time (there are too many, what does your idea require to be the one)
 The last Startup book you'll have to buy with 100 problems to solve.
 
 # Table of Contents
@@ -62,7 +61,7 @@ I provide you an introduction to what I feel is the best way to see the future. 
 
 My goal for this book is for you to develop a concrete set of mental models to take your early stage idea, validate if it's viable and develop steps to implement it, quickly.
 
-I found other books to be severely lacking in a pragmatic approach to getting started. They highlighted some "easy to follow" frameworks and ideas ot get started but if it were that easy, everyone would do it and be successful. The reality is, it's not that straight forward and the questions and tools you need to use to build something that matters and people want requires more indepth thought and sequencing of the approach.
+I found other books to be severely lacking in a pragmatic approach to getting started. They highlighted some "easy to follow" frameworks and ideas to get started but if it were that easy, everyone would do it and be successful. The reality is, it's not that straight forward and the questions and tools you need to use to build something that matters and people want requires more indepth thought and sequencing of the approach.
 
 ## Startups
 - An experiment being done before product market fit
@@ -94,12 +93,19 @@ These can be anything from pain points, desires, or jobs-to-be-done.
 ## Market Space
 - The market space is the set of all buyers and sellers in a specific Market
 
-
 - I think the term market is not a good word to use or at least alone it is not. It is too vague
 - The reason it is a poor use of word is because it is vague. What market? What are the characteristics of the market?
 - Is the market growing?
 - Is it declining?
 - How distributed is the market?
+
+I think a better term to describe the market is the set of buyers and sellers of a good or service within a certain jurisdction at a given price within a given time frame.
+
+G: Good
+S: Service
+L: Location
+P: Price
+T: Time
 
 
 
@@ -1851,3 +1857,13 @@ Segments
 
 1. Crypto / defi
 2. AI
+
+
+Most Customers have this problem
+
+Problem: 95% of skills of white-colloar workss will be obselte in the next 5 - 10 years, requiring upskilling of 65% of yesklls in the nxt 5 years.
+What's being done today: 60% of online courses getting purchased but only X% get completed.
+What if there ws a better way: 
+Emerging technologies rewui upskilling and learning.
+
+
