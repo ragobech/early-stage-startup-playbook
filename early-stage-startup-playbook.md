@@ -15,7 +15,7 @@ By: Chris Ragobeer
 - Image 5 - Known Market vs Unknown Market
 - Image 6 - Problem Space
 - Image 7 - Solution Space
-0 Image 8 - Graph of ideas from start of time to end of time (there are too many, what does your idea require to be the one)
+- Image 8 - Graph of ideas from start of time to end of time (there are too many, what does your idea require to be the one)
 The last Startup book you'll have to buy with 100 problems to solve.
 
 # Table of Contents
@@ -55,7 +55,7 @@ This book was written to provide people building products from nothing with a gu
 # Introduction
 The pace of change in the world is occurring at an astromincal rate. The cost of building products and companies have reduced to merely peanuts. It has never been the best time to build a company. With that in mind, where does one begin? Many people have the aspiration to build a highly successful company but the reality is over 90% of companies fail.
 
-I'm particulary interested in the advancement of human potential and condition. If we know something is going to fail. Let's fail at it fast so we can have people work on things that matter and help us progress in important areas that as a human race. After all, one of the scarcest resources we have are time and money.
+I'm particularly interested in the advancement of human potential and condition. If we know something is going to fail. Let's fail at it fast so we can have people work on things that matter and help us progress in important areas that as a human race. After all, one of the scarcest resources we have are time and money.
 
 I provide you an introduction to what I feel is the best way to see the future. It is to experience and create it using your unique knowledge, experience and strengths. It is not enough to build something, it is to build it knowing you existed and particpiated in it. 
 
@@ -63,11 +63,52 @@ My goal for this book is for you to develop a concrete set of mental models and 
 
 I found other books to be severely lacking in a pragmatic approach to getting started. They highlighted some "easy to follow" frameworks and ideas to get started but if it were that easy, everyone would do it and be successful. The reality is, it's not that straight forward and the questions and tools you need to use to build something that matters and people want requires more indepth thought and sequencing of the approach.
 
-It also guides to you to help better understand your uniquesness and how you strengths, skills and unique point of view can help build something that no one else can build.
+It also guides to you to help better understand your uniquesness and how your strengths, skills and unique point of view can help build something that no one else can build.
 
+Building a business is hard, it's not for everyone.
+
+When you see how successful some people are and why they were able to achieve such high success it's usually down to a number of factors
+
+- It was something unique about their skillset that allowed them to be successful that they acquired over time.
+- Timing of the market was important
+- They understood who their customer was
+- They understood the behaviours of their customer, buying patterns and decisions
+- It took significant time
+
+## Why is building a business hard?
+
+To set context in the online space
+
+|
+|
+|
+|
+|
+|
+|
+|_____________________________________
+
+T0 - 0
+T1 - 100 
+T2 - 2000
+T3 - 300000
+T4 - 400000000
+T5 - 5000000000000
+
+There are appriximately 300000000 busuneses that exist and on top of that x number of businesses get started every year.
+
+For you to start a new business in this day in age and be extremely successful it requires many things to get right 
 
 
 ## What are your strengths and what makes you unique?
+
+1) Skills
+2) Knowledge and Upbringing
+3) Training & Education
+4) Unique view of the world
+5) Interests
+
+
 
 ## Startups
 - An experiment being done before product market fit
@@ -105,10 +146,11 @@ These can be anything from pain points, desires, or jobs-to-be-done.
 - Is it declining?
 - How distributed is the market?
 
-I think a better term to describe the market is the set of buyers and sellers of a good or service within a certain jurisdction at a given price within a given time frame.
+I think a better term to describe the market is the set of buyers and sellers of a good or service within a certain location at a given price within a given time frame.
 
-G: Good
-S: Service
+B: Buyer
+S: Seller
+GS: Good/Service
 L: Location
 P: Price
 T: Time
@@ -1859,22 +1901,46 @@ Segments
 9) e
 10) e
 
-
-
 1. Crypto / defi
 2. AI
 
+1. Specific Geo Locations
+2. 
 
-Most Customers have this problem
+1. workspace.xyz
 
-Problem: 95% of skills of white-colloar workss will be obselte in the next 5 - 10 years, requiring upskilling of 65% of yesklls in the nxt 5 years.
+Problem: 95% of skills of white-collar worksers will be obsolete in the next 5 - 10 years, requiring upskilling of 65% of sklils in the next 5 years.
 What's being done today: 60% of online courses getting purchased but only X% get completed.
 What if there ws a better way: 
-Emerging technologies rewui upskilling and learning.
+Emerging technologies require upskilling and learning.
+
+
+Setup a skilled space to broadcast what you're working on and jobs you're doing
+
+How to make money:
+ - Have creators  build a space
+ - customize their banner
+ - objective
+ - private/public 
+
+ Whats the experience like.
 
 
 1. Active sharing of peoples screens to show their focus on work
 
 
+1. What can you do with workspace.xyz
 
+1. Have x workspaces that shows videos and live screens of them doing work
+2. Each workspace is a share of a specific topic
 
+3) Skilledspace.xyz
+
+My workspace
+- Critique Startup Ideas
+- 
+
+Why not a Youtube Channel?
+
+- online meetups
+- regular checkins
