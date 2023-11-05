@@ -62,6 +62,8 @@ I provide you an introduction to what I feel is the best way to see the future. 
 
 My goal for this book is for you to develop a concrete set of mental models to take your early stage idea, validate if it's viable and develop steps to implement it, quickly.
 
+I found other books to be severely lacking in a pragmatic approach to getting started. They highlighted some "easy to follow" frameworks and ideas ot get started but if it were that easy, everyone would do it and be successful. The reality is, it's not that straight forward and the questions and tools you need to use to build something that matters and people want requires more indepth thought and sequencing of the approach.
+
 ## Startups
 - An experiment being done before product market fit
     - Has this experiment been done before?
@@ -91,6 +93,15 @@ These can be anything from pain points, desires, or jobs-to-be-done.
 
 ## Market Space
 - The market space is the set of all buyers and sellers in a specific Market
+
+
+- I think the term market is not a good word to use or at least alone it is not. It is too vague
+- The reason it is a poor use of word is because it is vague. What market? What are the characteristics of the market?
+- Is the market growing?
+- Is it declining?
+- How distributed is the market?
+
+
 
 Determining how big the market is for your product
 
@@ -171,7 +182,7 @@ This will be a success if
 - If people understand how lens can benefit them
 - If people want to create lens
 
-But, you may ask, why am I deserving to write in this topic? What is inquien about me? There are other people that can probably write about this topic as much as I can...it's true. So I decided ot build a company alongside this book to show you my unique experience.
+But, you may ask, why am I deserving to write in this topic? What is unique about me? There are other people that can probably write about this topic as much as I can...it's true. So I decided ot build a company alongside this book to show you my unique experience.
 
 TL;DR: Build things that customers want, better than anyone else. 
 
@@ -292,7 +303,8 @@ Our human brains tend to overcomplicate situations yet. humans can be extremely 
 With being so obsessed with your customer and tied to their hip, asking the right questions, you can determine if your customer has a big enough problem that they are willing to pay for.
 
 Company building. You have to commit to the long-term vision of the future. You have to believe Short-term thinking vs long-term thinking increases the chances 
-Another good iquestion is why does you product need to exist in 10 years?
+
+Another good question is why does you product need to exist in 10 years?
 
 ## We are similar but we are different.
 
@@ -434,15 +446,7 @@ I have a list of 25 lens:
     14. Truth Lens about my company
     15. Small Cap - Most likely to be a billion dollar company 
     16. Trends
-    17.
-    18.
-    19.
-    20.
-    21.
-    22.
-    23.
-    24.
-    25.
+
 
 New Companies
 - Humans who want to build companies, often don't start with the right questions...if often starts with...
@@ -469,6 +473,9 @@ Turn ideas to revenue
 -
 -
 -
+
+What is difficult?
+- Reduce amount of staff you have and automate their tasks
 
 
 ## Business model
@@ -579,20 +586,21 @@ The known market is the market that you have
     - They say...everyone need theirs product.
 
 ## Signal vs Noise
-        - Signals tell you positive and negatives things about the information you need on what you're building
-        - The Reality of the situation is data that you require to make full judgements about your business does not exist
-    - Information and data will be incomplete, skewed, misprespsnative
-    - What to do to get successful signals
+- Signals tell you positive and negatives things about the information you need on what you're building
+- The Reality of the situation is data that you require to make full judgements about your business does not exist
+- Information and data will be incomplete, skewed, misprespsnative
+- What to do to get successful signals
+
 ## Noise
-    -  Be aware of what information is noise and does not matter ot what you're building...you can easily interpret a wrong fact or figure to negativitely influence your decisions
-    -  Noise comes form possible competitors, etc.
-    - The Minimal Viable Segments
-    - Failing 
+-  Be aware of what information is noise and does not matter ot what you're building...you can easily interpret a wrong fact or figure to negativitely influence your decisions
+-  Noise comes form possible competitors, etc.
+- The Minimal Viable Segments
+- Failing 
 
 ## Understanding of the "Market"
-    - A Market is simply the aggregate of buyers and sellers. If you co-located everyone and everything in the world into one location and each station was selling a product/service, you would have all the markets in the world together.  But because the world is much more complex than this, there is a push and pull of market dynamics.
-    - Markets 
-    - It is much easier and simpler to take an existing market  and segment itThe market you choose to enter 
+- A Market is simply the aggregate of buyers and sellers. If you co-located everyone and everything in the world into one location and each station was selling a product/service, you would have all the markets in the world together.  But because the world is much more complex than this, there is a push and pull of market dynamics.
+- Markets 
+- It is much easier and simpler to take an existing market  and segment itThe market you choose to enter 
 
 
 ## Types of Markets
@@ -711,6 +719,12 @@ For a **COO** of a SaaS company in the technology space, one could argue that th
 |_________________________
 Importance
 
+- Driving Costs down
+- Setting Goals and Operating practices
+- Work with CEO to align on vision and goals
+- Reporting
+- Working with Team to execute
+
 For a **VP Engineering** at a SaaS company in the technology space, one could argue that their importance vs urgency matrix could look like the following
 
 |
@@ -756,6 +770,13 @@ For a **Founders** at a SaaS company in the technology space, one could argue th
 |
 |_________________________
 Importance
+
+- Drive Revenue and Make sales
+- Build Product
+- Find PMF
+- Pay employee Salaries
+- Hire
+
 
 For a **DevOps** at a SaaS company in the technology space, one could argue that their importance vs urgency matrix could look like the following
 
@@ -1040,6 +1061,33 @@ Idea 4: Unskilled DevOps teams - B2B
 - what if there was a better way: X 
 - this is what how i solve the problem: X
 
+Infrastructure as Code Will be Written by AI
+
+Developers should deploy their own code but usually don’t today. But AI might change that.
+
+Infrastructure as code (IaC) won’t be written by humans. Cloud engineers have been trying to find the perfect abstraction for infrastructure-as-code for almost a decade (Terraform was released in 2014). Despite some success, there’s still a rift in adoption. Most teams use higher-level services that specialize in developer experience — Vercel, Railway, Render, Fly, or a host of other PaaS. It’s just easier. Those who adopt infrastructure-as-code must have specialized DevOps or platform teams focusing solely on writing this code. Teams get reproducibility and security of assets but rarely get the speed-ups or developer experience of quickly inferring and deploying applications with infrastructure-as-code. Platform teams often expose non-code interfaces for application teams (even if they use IaC under the covers).
+
+But AI will change that. AI will write the majority of infrastructure-as-code. It might be inferred just in time. It might automatically convert infrastructure between providers, even when one-to-one mappings don’t exist (e.g., AWS to GCP or back again).
+
+Some ideas for IaC + AI:
+
+Automatically inferred infrastructure components for application code. Given a function, a server component, or some “application” to run, generate the necessary infrastructure to deploy the code. This has been tried many times, but it is an insurmountable problem for a rules-based engine. There are too many configurations to automatically infer. It requires knowledge of application frameworks, cloud providers, and deployment patterns.
+
+Convert infrastructure between providers. Convert an AWS Terraform template to Google Cloud Terraform (or vice versa). There’s no one-to-one mapping, so any rules-based automation will fail. Instead, the mapping needs to be fuzzy — something that LLMs can do today. Instead of mapping resources, the AI can map intent (e.g., deploy an autoscaling webserver via a container).
+
+The heart of the problem is that any middleware libraries ultimately are at the mercy of the underlying cloud APIs. (For AWS, that means CloudFormation). Any abstraction over these APIs is inherently leaky. Worse yet, cloud providers have a strong incentive against making their APIs compatible or equivalent to their competitors. So, IaC ends up being provider-specific, which limits how easy it can be.
+
+But AI can solve this (and not just in a hand-wavy way). Cloud APIs must be stable and supported long-term. The EC2 API does not materially change every month or even year. Likewise, the economies of scale that make the cloud so profitable also mean plenty of customers for every API to produce good training data.
+
+Help developers write their own IaC. Many products have promised developers they could “just write their code” and magically provision the infrastructure. So far, these have fallen short. It’s hard to describe infrastructure right next to code, and it’s hard to turn DevOps abstractions into something that application developers can (and want) to learn.
+
+Developers should deploy their own code, but it’s tough today. AI might be able to build over these fuzzy layers. Given some code, what is the best way to deploy it on the cloud? Once the infrastructure is inferred, it should be fairly easy to generate declarative templates that developers can verify before they deploy.
+
+Changesets for complicated templates. It’s easy for providers to dump a Helm chart or a long set of Kubernetes configurations for customers to deploy. And it works — until the user needs to configure anything outside the golden path. That’s when the pain of sifting through thousands of lines of configuration comes in. This is why templates only delay complexity rather than solve it. But AI can look deeply into large swaths of configuration and suggest the correct changesets needed for a configuration change. This still doesn’t entirely mask the complexity, but it kicks it further down the line (possibly enough for developers to get much further.
+
+
+
+
 Idea 5: Long Development Software Cycles - B2B
 - Problem: Creating software in the B2B requires a high R&D investment and leads to long software cycle to release the software. 
 - What do people do today: They take longer than required to release software that often doesn't meet expectations of customers.
@@ -1083,7 +1131,53 @@ Idea 12: Men suffering from mental health issues are often alone and don't have 
 - what if there was a better way: X 
 - this is what how i solve the problem: X
 
-Idea 13: Men suffering from mental health issues are often alone and don't have anyone to talk to leading to suicide and hurting themselves.
+Idea 13: Enterprise software solutions are too many to use for your average employee, causing cognitive overload and frustration with data silos.
+- What do people do today: Thigns fail and are not getting the outcome that is required for the business
+- what if there was a better way: X 
+- this is what how i solve the problem: X
+
+Idea 14: Employee communications on work related tools go into the personal space which should not occur.
+- What do people do today: Thigns fail and are not getting the outcome that is required for the business
+- what if there was a better way: X 
+- this is what how i solve the problem: X
+
+Idea 15: For X% of customers with product market fit, acquiring new customers is hard with 90% of customers disasatisfied after trying the product for the first time.(000000000X). Time to value is important before they do not buy or churn.
+- What do people do today: 
+- what if there was a better way: X 
+- this is what how i solve the problem: X
+
+Idea 16: Engineers do not understand infrastructure and how it is deployed causing increased costs and poor experience/outcomes.
+- What do people do today: Thigns fail and are not getting the outcome that is required for the business
+- what if there was a better way: X 
+- this is what how i solve the problem: X
+
+Idea 17: When AI takes over, you will not have a job, what will you do with your time and where will you find purpose?
+- What do people do today: Thigns fail and are not getting the outcome that is required for the business
+- what if there was a better way: X 
+- this is what how i solve the problem: X
+
+Idea 18: About 50% of adults reported experiencing measurable levels of loneliness. 
+- What do people do today: Thigns fail and are not getting the outcome that is required for the business
+- what if there was a better way: X 
+- this is what how i solve the problem: X
+
+Idea 19: Seeking yield with capital
+- What do people do today: Thigns fail and are not getting the outcome that is required for the business
+- what if there was a better way: X 
+- this is what how i solve the problem: X
+
+Idea 20: Office politics cause 90% of interpersonal problems within the team.
+- What do people do today: Thigns fail and are not getting the outcome that is required for the business
+- what if there was a better way: X 
+- this is what how i solve the problem: X
+
+
+Idea 21: Getting access to data from the market that has private data silos.
+- What do people do today: Thigns fail and are not getting the outcome that is required for the business
+- what if there was a better way: X 
+- this is what how i solve the problem: X
+
+Idea 22: >80% of purchased online courses go incomplete.
 - What do people do today: Thigns fail and are not getting the outcome that is required for the business
 - what if there was a better way: X 
 - this is what how i solve the problem: X
@@ -1121,6 +1215,23 @@ similiarity search
 9. 
 10. 
 
+
+
+
+BETTER DESK COLLABORATION FOR Individuals adn teams
+
+Desk Intents
+
+
+
+Personal
+- Building 
+
+Teams
+-
+
+
+More people will work with models vs people.
 
 User lattice
 - Home Owner
@@ -1691,3 +1802,52 @@ Market dynamics
 
 1. Where to go to find people complaining about their problems?
 2. Live in the future, then build what's missing
+
+
+https://www.swellai.com/
+
+
+'Polywork' until you're 75, no property, no tribe, just work.
+
+
+1) How it works
+
+1) Create your desktop
+
+1) Image, Title, Last Active, Previous image screenshot or video
+2)
+
+What are desktops I can have
+1) Writing a book
+2) Programming
+3) Researching
+4) 
+
+
+- Indie - Software Developer
+- Management + Executive
+- Writing
+- Startups
+- Early Stage Startups
+- Entrepreneurship
+- Passionate about building new companies from nothing because it is a way to design and build the world
+
+
+How would you segment the market to evade competition and own a specific market?
+
+Segments
+1) Startup Builders ##buildinpublic
+2) Developers
+3) Designers
+4) 
+5) e
+6) e
+7) e
+8) e
+9) e
+10) e
+
+
+
+1. Crypto / defi
+2. AI
