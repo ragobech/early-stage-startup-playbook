@@ -59,9 +59,15 @@ I'm particulary interested in the advancement of human potential and condition. 
 
 I provide you an introduction to what I feel is the best way to see the future. It is to experience and create it using your unique knowledge, experience and strengths. It is not enough to build something, it is to build it knowing you existed and particpiated in it. 
 
-My goal for this book is for you to develop a concrete set of mental models to take your early stage idea, validate if it's viable and develop steps to implement it, quickly.
+My goal for this book is for you to develop a concrete set of mental models and practical guide to take your early stage idea, validate if it's viable and develop steps to implement it, quickly.
 
 I found other books to be severely lacking in a pragmatic approach to getting started. They highlighted some "easy to follow" frameworks and ideas to get started but if it were that easy, everyone would do it and be successful. The reality is, it's not that straight forward and the questions and tools you need to use to build something that matters and people want requires more indepth thought and sequencing of the approach.
+
+It also guides to you to help better understand your uniquesness and how you strengths, skills and unique point of view can help build something that no one else can build.
+
+
+
+## What are your strengths and what makes you unique?
 
 ## Startups
 - An experiment being done before product market fit
@@ -1865,5 +1871,10 @@ Problem: 95% of skills of white-colloar workss will be obselte in the next 5 - 1
 What's being done today: 60% of online courses getting purchased but only X% get completed.
 What if there ws a better way: 
 Emerging technologies rewui upskilling and learning.
+
+
+1. Active sharing of peoples screens to show their focus on work
+
+
 
 
