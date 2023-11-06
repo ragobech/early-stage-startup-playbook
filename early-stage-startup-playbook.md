@@ -95,10 +95,9 @@ T3 - 300000
 T4 - 400000000
 T5 - 5000000000000
 
-There are appriximately 300000000 busuneses that exist and on top of that x number of businesses get started every year.
+There are appriximately 300000000 busuneses that exist and on top of that 1,000,000 number of businesses get started every year.
 
 For you to start a new business in this day in age and be extremely successful it requires many things to get right 
-
 
 ## What are your strengths and what makes you unique?
 
@@ -108,9 +107,27 @@ For you to start a new business in this day in age and be extremely successful i
 4) Unique view of the world
 5) Interests
 
+What is the thing that you know or do better than 99% of people?
+
+If you find an opportunity that is promising and you don have the skill..how fast can you learn it? Ie SpaceX and Tesla with Elon Musk he had to learn it quickly and surround himself with very smart people who can execute.
+
+Personal Monopoly <> What businesses want
+
+Crisis Managment
+B2B building
+
+Learning Rate
+Execution Rate
+Competition Rate
 
 
 ## Startups
+Multiple definitions in order of specificity
+1. It is an experiment being done before product market fit.
+2. It is a new way of doing somehing that hasn't been done before being done in a new way.
+3. 
+
+
 - An experiment being done before product market fit
     - Has this experiment been done before?
 - It has a problem hypothesis: it is a guess of what you think the problem your target set of users possess
@@ -123,7 +140,7 @@ For you to start a new business in this day in age and be extremely successful i
 
 ## Company
 - A company is a group of people that sell a product or service for a profit.
-
+- tbd
 
 # The Start of the Journey
 
@@ -135,7 +152,6 @@ These can be anything from pain points, desires, or jobs-to-be-done.
 
 ## Solution Space
 - The solution space is a virtual space where the charactersitics {a, b, c,...} are solved by a solution S {j,k,l.....}
-
 
 ## Market Space
 - The market space is the set of all buyers and sellers in a specific Market
@@ -155,13 +171,19 @@ L: Location
 P: Price
 T: Time
 
-
-
 Determining how big the market is for your product
 
 The market determination is more of an art than a science Coming up with a market to determine how big the market it is today as well as how it will grow in the future is challenging depend on who you ask. 
 
+## Buying filter for your target customer
 
+Will not buy at all (doesn't meet what they're looking for or how they're solving it is good enough)
+
+Looking to buy now
+Looking to buy within 30 days
+Looking to buy within 6 months
+Looking to buy within 12 months
+Looking to buy after 12 months
 
 ## Consumer vs. Business
 
@@ -241,7 +263,27 @@ But, you may ask, why am I deserving to write in this topic? What is unique abou
 TL;DR: Build things that customers want, better than anyone else. 
 
 ## What do customers want?
-Understanding the problem domain and what customers want is one of the hardest parts of starting a business. 
+- Understanding the problem domain and what customers want is one of the hardest parts of starting a business. 
+
+
+## Customer discovery
+
+How things happen today:
+- to do 
+-  
+- 
+- 
+
+1. Connect emotionally wiht your customer
+
+
+
+2. 100-20 rule
+- Give 100
+- Get 20 back
+
+
+## Entering Crowded Spaces
 
 ## Identifying Opportunities
 The Types of Opportunities
@@ -1091,25 +1133,27 @@ Rank Customer Segments you want to pursue (B2B)
 9.  Sales 
 10. Freelancers
 
-Idea 1: - Unemployed landing a new position -  B2C
+Problem 1: - Unemployed landing a new position -  B2C
  - On average, 78% of people who are unemployed stay unemployed for over 6 months.
  - what do people do today: they apply to jobs directly hoping for a response from as many companies they can connect with
  - what if there was a better way: X 
  - this is what how i solve the problem: X
+ - This is what the unemployed would pay for: Resume writing
 
-Idea 2: - University Graduates becoming proficient in new job - B2C
+Problem 2: - University Graduates becoming proficient in new job - B2C
  - On average, 90% of people who who finish a 4-year degree are not fully productive in a full-time role until 6-8 months of full-time work
  - what do people do today: They use company time to learn the job and become proficient
  - what if there was a better way: X 
- - this is what how i solve the problem: X
+ - This is what how i solve the problem: X
+  - This is what the unemployed would pay for: 
 
-Idea 3: - Financial Failure in Divorces - B2C
+Problem 3: - Financial Failure in Divorces - B2C
  - Men in x% of marriages that fail and end up in divorce, x% of these marriages don't have a prenuptial agreement causing financial ruin for individuals involved
 - what do people do today:
 - what if there was a better way: X 
 - this is what how i solve the problem: X
 
-Idea 4: Unskilled DevOps teams - B2B
+Problem 4: Unskilled DevOps teams - B2B
 - DevOps teams lack experience which lead to inefficient operations and increased costs because devops isn't taught in school and large % of devops people suck
 - what do people do today: They waste time , costs and customer impacts by having an inefficient team
 - what if there was a better way: X 
@@ -1140,101 +1184,127 @@ Developers should deploy their own code, but it’s tough today. AI might be abl
 Changesets for complicated templates. It’s easy for providers to dump a Helm chart or a long set of Kubernetes configurations for customers to deploy. And it works — until the user needs to configure anything outside the golden path. That’s when the pain of sifting through thousands of lines of configuration comes in. This is why templates only delay complexity rather than solve it. But AI can look deeply into large swaths of configuration and suggest the correct changesets needed for a configuration change. This still doesn’t entirely mask the complexity, but it kicks it further down the line (possibly enough for developers to get much further.
 
 
-
-
-Idea 5: Long Development Software Cycles - B2B
+Problem 5: Long Development Software Cycles - B2B
 - Problem: Creating software in the B2B requires a high R&D investment and leads to long software cycle to release the software. 
 - What do people do today: They take longer than required to release software that often doesn't meet expectations of customers.
 - what if there was a better way: X 
 - this is what how i solve the problem: X
 
-Idea 6:  Lack of Ownership in Processes and Execution of Employees - B2B
+Problem 6:  Lack of Ownership in Processes and Execution of Employees - B2B
 - Problem:90% of employees that don't have ownership in the company do not take ownership and accountability of their work and outcomes.
 - What do people do today: Thigns fail and are not getting the outcome that is required for the business
 - what if there was a better way: X 
 - this is what how i solve the problem: X
 
-Idea 7:  For 100% of employees at Software SaaS companies, employee communication and collaboration in a remote environment is poor leading to 30% of additional costs.
+Problem 7:  For 100% of employees at Software SaaS companies, employee communication and collaboration in a remote environment is poor leading to 30% of additional costs.
 - What do people do today: Thigns fail and are not getting the outcome that is required for the business
 - what if there was a better way: X 
 - this is what how i solve the problem: X
 
 
-Idea 8: For 50% of software engineers, they are not skllled enough and require training to reach 100% potential
+Problem 8: For 50% of software engineers, they are not skllled enough and require training to reach 100% potential
 - What do people do today: Thigns fail and are not getting the outcome that is required for the business
 - what if there was a better way: X 
 - this is what how i solve the problem: X
 
-Idea 9: For 90% of developers, they do not understand fully the value propsoition of the product they are working on that leads to poor decisions and churn in their work causing cost overruns and re-work.
+Problem 9: For 90% of developers, they do not understand fully the value propsoition of the product they are working on that leads to poor decisions and churn in their work causing cost overruns and re-work.
 - What do people do today: Thigns fail and are not getting the outcome that is required for the business
 - what if there was a better way: X 
 - this is what how i solve the problem: X
 
-Idea 10: For small innnivoative teams, their process to innvoate is cumbersome which leads to increased costs and poor results. Also lacking expertise
+Problem 10: For small innnivoative teams, their process to innvoate is cumbersome which leads to increased costs and poor results. Also lacking expertise
 - What do people do today: Thigns fail and are not getting the outcome that is required for the business
 - what if there was a better way: X 
 - this is what how i solve the problem: X
 
-Idea 11: 90% of new products have a problem with product distribution and getting exposure to a buyer. 
+Problem 11: 90% of new products have a problem with product distribution and getting exposure to a buyer. 
 - What do people do today: Thigns fail and are not getting the outcome that is required for the business
 - what if there was a better way: X 
 - this is what how i solve the problem: X
 
-Idea 12: Men suffering from mental health issues are often alone and don't have anyone to talk to leading to suicide and hurting themselves.
+Problem 12: Men suffering from mental health issues are often alone and don't have anyone to talk to leading to suicide and hurting themselves.
 - What do people do today: Thigns fail and are not getting the outcome that is required for the business
 - what if there was a better way: X 
 - this is what how i solve the problem: X
 
-Idea 13: Enterprise software solutions are too many to use for your average employee, causing cognitive overload and frustration with data silos.
+Problem 13: Enterprise software solutions are too many to use for your average employee, causing cognitive overload and frustration with data silos.
 - What do people do today: Thigns fail and are not getting the outcome that is required for the business
 - what if there was a better way: X 
 - this is what how i solve the problem: X
 
-Idea 14: Employee communications on work related tools go into the personal space which should not occur.
+Problem 14: Employee communications on work related tools go into the personal space which should not occur.
 - What do people do today: Thigns fail and are not getting the outcome that is required for the business
 - what if there was a better way: X 
 - this is what how i solve the problem: X
 
-Idea 15: For X% of customers with product market fit, acquiring new customers is hard with 90% of customers disasatisfied after trying the product for the first time.(000000000X). Time to value is important before they do not buy or churn.
+Problem 15: For X% of customers with product market fit, acquiring new customers is hard with 90% of customers disasatisfied after trying the product for the first time.(000000000X). Time to value is important before they do not buy or churn.
 - What do people do today: 
 - what if there was a better way: X 
 - this is what how i solve the problem: X
 
-Idea 16: Engineers do not understand infrastructure and how it is deployed causing increased costs and poor experience/outcomes.
+Problem 16: Engineers do not understand infrastructure and how it is deployed causing increased costs and poor experience/outcomes.
 - What do people do today: Thigns fail and are not getting the outcome that is required for the business
 - what if there was a better way: X 
 - this is what how i solve the problem: X
 
-Idea 17: When AI takes over, you will not have a job, what will you do with your time and where will you find purpose?
+Problem 17: When AI takes over, you will not have a job, what will you do with your time and where will you find purpose?
 - What do people do today: Thigns fail and are not getting the outcome that is required for the business
 - what if there was a better way: X 
 - this is what how i solve the problem: X
 
-Idea 18: About 50% of adults reported experiencing measurable levels of loneliness. 
+Problem 18: About 50% of adults reported experiencing measurable levels of loneliness. 
 - What do people do today: Thigns fail and are not getting the outcome that is required for the business
 - what if there was a better way: X 
 - this is what how i solve the problem: X
 
-Idea 19: Seeking yield with capital
+Problem 19: Seeking yield with capital
 - What do people do today: Thigns fail and are not getting the outcome that is required for the business
 - what if there was a better way: X 
 - this is what how i solve the problem: X
 
-Idea 20: Office politics cause 90% of interpersonal problems within the team.
+Problem 20: Office politics cause 90% of interpersonal problems within the team.
 - What do people do today: Thigns fail and are not getting the outcome that is required for the business
 - what if there was a better way: X 
 - this is what how i solve the problem: X
 
 
-Idea 21: Getting access to data from the market that has private data silos.
+Problem 21: Getting access to data from the market that has private data silos.
 - What do people do today: Thigns fail and are not getting the outcome that is required for the business
 - what if there was a better way: X 
 - this is what how i solve the problem: X
 
-Idea 22: >80% of purchased online courses go incomplete.
+Problem 22: >80% of purchased online courses go incomplete.
 - What do people do today: Thigns fail and are not getting the outcome that is required for the business
 - what if there was a better way: X 
 - this is what how i solve the problem: X
+
+
+Problem 23:
+- In recent years, there's been a significant surge in the popularity of cloud computing certifications, especially those associated with leading platforms like AWS, Azure, and GCP.
+
+While these certifications are marketed as a pathway to better career opportunities and enhanced skill recognition, I've come to observe a different reality that might be worth discussing.
+
+It's important to acknowledge that every learning journey is unique and certifications can provide a structured learning path for some individuals.
+
+However, I've noticed that the complexity and real-world applicability of many of these certifications don't always match the hype surrounding them. They often present a simplified view of the cloud environment, which can potentially mislead aspiring cloud professionals regarding the actual demands of the field.
+
+Moreover, the marketing prowess behind these certifications can sometimes overshadow their true educational value. The promotion of these certifications as a golden ticket to career advancement may create an imbalanced focus, where the certification becomes the goal rather than acquiring the comprehensive, practical knowledge necessary for excelling in the cloud computing domain.
+
+Furthermore, in a rapidly evolving field like cloud computing, the static nature of certifications might not always reflect the latest industry trends and technologies, potentially leaving certified individuals with gaps in their knowledge.
+
+While certifications may serve as a stepping stone for some, it's crucial to weigh their real value against the investment of time and resources. Engaging in hands-on projects, staying updated with the latest industry developments, and networking with seasoned professionals might provide a more holistic and practical approach to building a robust foundation in cloud computing.
+
+Problem 24:
+
+
+People don’t always act in line with their intentions
+
+For example, a meta-analysis by Webb and Sheeran (2006) reveals
+that a medium-to-large change in intention only results in a small-to-medium change in
+behaviour. T
+
+
+paying is a form of behaviour
 
 
 The harder the problem a startup is tackling, the stronger their competitive advantage and the more indispensable they become in their industry. Simple solutions are easily replicated, risking the startup’s position and success.
@@ -1255,6 +1325,7 @@ Business Urgency
 2. Document what they pay for in priority and why
 3. Find something to offer them with higher value to substitute or complement what they're already paying for.
 
+Demonstrate  your hands - on experience with.
 
 similiarity search
 
@@ -1944,3 +2015,76 @@ Why not a Youtube Channel?
 
 - online meetups
 - regular checkins
+
+
+- Cohort based
+
+All of the subscriptions I currently pay for:
+
+- 
+@X
+ Premium (soon to be plus)
+- ChatGPT Plus
+- 
+@heyhey
+ email
+
+ Person 1
+- Netflix
+- Amazon Prime with 1TB storage
+- Marvel Unlimited
+- Paramount+
+- Disney+
+- YouTube Premium
+- Spotify Premium
+- Midjourney
+- Crave (Canadian HBO)
+- World of Warcraft
+- AppleCare+ on 3 devices
+- Xbox Game Pass Ultimate
+- Fortnite Crew
+- Roblox Premium (for the kids)
+
+Person 2
+Spotify family plan
+Apple Music
+X
+Instagram
+Amazon Prime
+YouTube Premium
+Crunchyroll
+Midjourney
+ChatGPT 
+GitHub copilot
+Figma
+Two credit report apps 
+Notion
+Strong app
+Bear app
+Carrot app
+Flighty app
+Telegram app
+SetApp (this is probably the most efficient app on MacOS for subscriptions tbh)**
+iCloud
+
+
+
+
+Betting on Yourself
+
+- Education
+
+
+- Bridge to Work
+
+
+What are you willing to pay for at a price > 0 and quantity > 0 such that I get 2-5x of value from my payment?
+
+
+- Do you feel prepared for the workforce?
+- What skills would you like to learn?
+- Why did you go to university?
+
+If you are building a startup, you need to create something new or improve something old.
+
+Getting output from 
