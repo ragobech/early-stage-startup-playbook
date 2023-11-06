@@ -844,6 +844,7 @@ Importance
 
 - Make Impact
 - Commit High Quality Code
+- understand requirements
 - 
 
 For a **Investors** at a SaaS company in the technology space, one could argue that their importance vs urgency matrix could look like the following
@@ -894,6 +895,13 @@ For a **Product Leaders** at a SaaS company in the technology space, one could a
 |
 |_________________________
 Importance
+
+
+product adoption
+product usage
+understanding customer needs
+team management
+
 
 
 Example: A bed is valuable. Provides comfort while I sleep.
@@ -1267,7 +1275,6 @@ Problem 20: Office politics cause 90% of interpersonal problems within the team.
 - what if there was a better way: X 
 - this is what how i solve the problem: X
 
-
 Problem 21: Getting access to data from the market that has private data silos.
 - What do people do today: Thigns fail and are not getting the outcome that is required for the business
 - what if there was a better way: X 
@@ -1294,7 +1301,12 @@ Furthermore, in a rapidly evolving field like cloud computing, the static nature
 
 While certifications may serve as a stepping stone for some, it's crucial to weigh their real value against the investment of time and resources. Engaging in hands-on projects, staying updated with the latest industry developments, and networking with seasoned professionals might provide a more holistic and practical approach to building a robust foundation in cloud computing.
 
-Problem 24:
+Problem 24: Business building for teenager education
+- The business kit for teens
+
+
+Problem 25: 
+
 
 
 People don’t always act in line with their intentions
@@ -1340,6 +1352,11 @@ similiarity search
 9. 
 10. 
 
+ ## How to spot new markets growing rapidly
+ - This wasn’t a luxury product or something we’d need to convince people they could benefit from. It was actually going to make people’s lives better in such a significant way that once we knew how to solve the problem, it felt more like a duty we needed to fulfill.
+
+
+ https://www.sureswiftcapital.com/blog/bootstrapped-saas-founders-sell-business/
 
 
 
@@ -2088,3 +2105,21 @@ What are you willing to pay for at a price > 0 and quantity > 0 such that I get 
 If you are building a startup, you need to create something new or improve something old.
 
 Getting output from 
+
+https://www.sureswiftcapital.com/blog/bootstrapped-saas-founders-sell-business/
+
+We found a problem first — a real, very painful problem. 
+Working with people directly affected by real problems will lead you to insights very quickly.
+
+The pain climax- how big is the pain for the customer?
+
+
+|
+|
+|
+|
+|
+|______________________
+
+1. You have a problem so painful that you are willing to pay someone to make it go away.
+2. Once you paid for it and it solved your problem, and they take it away, how painful is it again?
